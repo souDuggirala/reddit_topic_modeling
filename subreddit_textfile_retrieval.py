@@ -3,6 +3,8 @@ import requests
 import time
 import re
 import os
+import io
+#import emoji
 
 def makeRequest(uri, payload, max_retries = 5):
     def fire_away(uri):
@@ -21,97 +23,107 @@ def makeRequest(uri, payload, max_retries = 5):
     
     return fire_away(uri)
 
+#get list of subreddit posts
+#for each subreddit post, get the comments
+    #write the comments into a textfile with the submission, excluding comments from moderators/bots
+#clean the resulting textfiles
 
-def makeThreadList(submissionlist):
-    
-    def makeThreadEntry(submission):
-        thread = []
+def makeTextFiles(submissionlist, dir_name, after):
+    def deleteIrrelevantComments(commentlist):
+        pattern_mod = 'Do not reach out to a moderator personally|I am a bot, and this action was performed automatically'
+        j = 0
+        while j < len(commentlist['data']):
+            if (re.search(pattern_mod,commentlist['data'][j]['body']) != None or len(commentlist['data'][j]['body'])==0):
+                del commentlist['data'][j]
+            j+=1
 
-        try:
-            thread.append(submission['selftext'])
-        except KeyError:
-            print('Here is the submission that failed: \n\n')
-            print(json.dumps(submission, indent = 4))
-
-        
+    #assumes f is open
+    def makeTextFile(submission,f):
         payload = {'fields': 'body', 'size': submission['num_comments'],'link_id': submission['id'],'author':'!LocationBot','mod_removed':'false'}
-        comments = makeRequest('https://api.pushshift.io/reddit/search/comment/', payload)
-        for i in range(len(comments['data'])):
-            thread.append(comments['data'][i]['body'])
-        return thread
-    
-    threads = []
-    for j in range(len(submissionlist)):
-        thread_j = makeThreadEntry(submissionlist[j])
-        threads.append(thread_j)
-    return threads
-
-
-def preprocess(threadlist):
-    
-    def clean(threadlist):
-        for i in range(len(threadlist)):
-            #delete urls
-            pattern_url = r'https://[\w/#:?._~-]*'
-            for j in range(len(threadlist[i])):
-                threadlist[i][j] = re.sub(pattern_url,'', threadlist[i][j])
+        commentlist = makeRequest('https://api.pushshift.io/reddit/search/comment/', payload)
+        deleteIrrelevantComments(commentlist)
+        f.write(submission['selftext'])
+        for i in range(len(commentlist['data'])):
+            #write to textfile
+            f.write(' ' + commentlist['data'][i]['body'])
         
-            #replace quoted stuff, &gt;[a-zA-Z0-9?.,:;() ]\n\n with whitespace
-            #doesn't always have to end in \n\n, if it doesn't, just delete until sentence ends
-            pattern_quoted = r'&gt;([\w\s’.?/,()]*\n\n|[\w\s’/,()]*)'
-            for j in range(len(threadlist[i])):
-                threadlist[i][j] = re.sub(pattern_quoted,' ', threadlist[i][j])
-            
-            #replace \n or \n\n&amp;#x200B;\n\n or \n\n or &amp; or \n-\t with white space
-            pattern_spaces = r'(\n|(&amp;(#x200B;)?)|-\t)+'
-            for j in range(len(threadlist[i])):
-                threadlist[i][j] = re.sub(pattern_spaces,' ', threadlist[i][j])
-    
-            #delete stars
-            pattern_stars = r'(\*)+'
-            for j in range(len(threadlist[i])):
-                threadlist[i][j] = re.sub(pattern_stars,'', threadlist[i][j])
-           
-            #reduce all multiple whitespaces to 1
-            pattern_whitespace = r'(\s)+'
-            for j in range(len(threadlist[i])):
-                threadlist[i][j] = re.sub(pattern_whitespace,' ', threadlist[i][j])
-            
-    def deleteIrrelevantComments(threadlist):
-        mod_pattern = 'Do not reach out to a moderator personally, and do not reply to this message as a comment.'
-        for i in range(len(threadlist)):
-            j = 0
-            while j < len(threadlist[i]):
-                if (threadlist[i][j]=='[removed]' or threadlist[i][j]=='[deleted]' or re.search(mod_pattern,threadlist[i][j]) != None or len(threadlist[i][j])==0):
-                    del threadlist[i][j]
-                j+=1
-    
-    deleteIrrelevantComments(threadlist)
-    clean(threadlist)
 
-def makeTextFiles(threadlist, directory, nextStartNum):
-    dir_name = '/Users/soumyadugg/reddit_topic_modeling/' + directory
-    
-    for i in range(len(threadlist)):
-        crnt_file = os.path.join(dir_name, 'doc'+ str(nextStartNum + i)+'.txt')
-        f = open(crnt_file, 'w')
-        
-        #should already be edited
-        for j in range(len(threadlist[i])):
-            f.write(' ' + threadlist[i][j])
-        
+    for j in range(len(submissionlist['data'])):
+        filepath = os.path.join(dir_name, 'doc{}-{}.txt'.format(after,j))
+        f = open(filepath, 'w')
+        makeTextFile(submissionlist['data'][j], f)
         f.close()
+
+def cleanFiles(dir_name, request_size, after):
+    dirlist = ['doc{}-{}.txt'.format(after,i) for i in range(request_size)]
+
+    for filename in dirlist:
+        file = open(os.path.join(dir_name,filename), 'r+')
+        content = file.read()
+        
+        content = content.lower()
+
+        #delete quotes
+        #pattern_quoted = r'&gt;([\w\s’\'.?/,()]*\n\n|[\w\s’\'/,()]*)'
+        #pattern_quoted = r'&gt;([\w\s’\'.?/,()]*\n)'
+        #content = re.sub(pattern_quoted,' ', content)
+        
+        #delete urls
+        pattern_url = r'http(s?)://[\w/#\\:?._~-]*'
+        content = re.sub(pattern_url,' ', content)
+        
+        #delete any collection of characters with numbers is it
+        pattern_numbers = r'([\w#\$%&*@/\{\}]*[0-9][\w#\$%&*@/\{\}]*)+'
+        content = re.sub(pattern_numbers, ' ', content)
+
+        #delete [removed], [deleted]
+        pattern_removed = r'\[removed\]|\[deleted\]'
+        content = re.sub(pattern_removed, ' ', content)
+
+        #delete subreddit titles
+        pattern_subreddit = r'r/\w*'
+        content = re.sub(pattern_subreddit,' ', content)
+
+        pattern_html = r'&gt;|&lt;|&ge;|&le;|(&amp;(#x200B;)?)'
+        content = re.sub(pattern_html,' ', content)
+
+        #strip 's and (s)
+        pattern_s = r'(\'|’)s|\(s\)'
+        content = re.sub(pattern_s,' ', content)
+
+        #delete stars, brackets, parentheses, dashes, slashes, multiple periods, commas
+        pattern_symbols = r'(\*|\[|\]|\(|\)|-|/|\.(\.)+|,)+'
+        content = re.sub(pattern_symbols,' ', content)
+
+        #delete words with that end with 't, 've, 're, 'll
+        pattern_contractions = r'\w*(\'|’)(t|ve|re|ll|d)'
+        content = re.sub(pattern_contractions,' ', content)
+
+        #reduce all multiple whitespaces to 1
+        pattern_whitespace = r'(\s)+'
+        content = re.sub(pattern_whitespace,' ', content)
+
+        file.seek(0)
+        file.truncate(0)
+        file.write(content)
+        file.close()
 
 
 uri = 'https://api.pushshift.io/reddit/search/submission/'
 subreddit = 'legaladvice'
-dir_name = 'legal_advice_files'
-payload = {'fields': ['id','num_comments','selftext'],'subreddit': subreddit, 'size': 100,'author':'!LocationBot','mod_removed':'false', 'before':'','after':''}
-for i in range(50):
-    print(str(i))
-    payload['before'] = str(600+(2*i))+'d'
-    payload['after'] = str(600+(2*i))+'d'
+dir_name = '/Users/soumyadugg/reddit_topic_modeling/legal_advice_files_test'
+request_size = 100
+payload = {'fields': ['id','num_comments','selftext'],'subreddit': subreddit, 'size': request_size,'author':'!LocationBot','mod_removed':'false','after':''}
+for i in range(2):
+    after = str(600+i)
+    print(after)
+    payload['after'] = after+'d'
     submissionlist = makeRequest(uri, payload)
-    threadlist = makeThreadList(submissionlist['data'])
-    preprocess(threadlist)
-    makeTextFiles(threadlist,dir_name,3000+i*100)
+    makeTextFiles(submissionlist, dir_name, after)
+    cleanFiles(dir_name, request_size, after)
+'''
+
+dir_name = '/Users/soumyadugg/reddit_topic_modeling/legal_advice_files_test'
+cleanFiles(dir_name, 100, 600)
+cleanFiles(dir_name, 100, 601)
+'''
