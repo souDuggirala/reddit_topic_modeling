@@ -28,7 +28,7 @@ def makeRequest(uri, payload, max_retries = 5):
     #write the comments into a textfile with the submission, excluding comments from moderators/bots
 #clean the resulting textfiles
 
-def makeTextFiles(submissionlist, dir_name, after):
+def makeTextFiles(submissionlist, dir_path, after):
     def deleteIrrelevantComments(commentlist):
         pattern_mod = 'Do not reach out to a moderator personally|I am a bot, and this action was performed automatically'
         j = 0
@@ -47,18 +47,22 @@ def makeTextFiles(submissionlist, dir_name, after):
             #write to textfile
             f.write(' ' + commentlist['data'][i]['body'])
         
-
+    
     for j in range(len(submissionlist['data'])):
         filepath = os.path.join(dir_name, 'doc{}-{}.txt'.format(after,j))
         f = open(filepath, 'w')
         makeTextFile(submissionlist['data'][j], f)
         f.close()
 
-def cleanFiles(dir_name, request_size, after):
+def cleanFiles(dir_path, dir_name, parent_dir, request_size, after):
+    cleaned_dir_path = os.path.join(parent_dir, dir_name + '_cleaned')
+    if not os.path.isdir(cleaned_dir_path):
+        os.mkdir(cleaned_dir_path)
+    
     dirlist = ['doc{}-{}.txt'.format(after,i) for i in range(request_size)]
 
     for filename in dirlist:
-        file = open(os.path.join(dir_name,filename), 'r+')
+        file = open(os.path.join(dir_path,filename), 'r')
         content = file.read()
         
         content = content.lower()
@@ -103,27 +107,29 @@ def cleanFiles(dir_name, request_size, after):
         pattern_whitespace = r'(\s)+'
         content = re.sub(pattern_whitespace,' ', content)
 
-        file.seek(0)
-        file.truncate(0)
-        file.write(content)
+        new_file = open(os.path.join(cleaned_dir_path, filename), 'w')
+        new_file.seek(0)
+        new_file.truncate(0)
+        new_file.write(content)
+        
+        new_file.close()
         file.close()
 
 
+parent_dir = '/Users/soumyadugg/reddit_topic_modeling'
+dir_name = 'legal_advice_files'
+dir_path = os.path.join(parent_dir, dir_name)
+if not os.path.isdir(dir_path):
+    os.mkdir(dir_name)
+
 uri = 'https://api.pushshift.io/reddit/search/submission/'
 subreddit = 'legaladvice'
-dir_name = '/Users/soumyadugg/reddit_topic_modeling/legal_advice_files_test'
 request_size = 100
 payload = {'fields': ['id','num_comments','selftext'],'subreddit': subreddit, 'size': request_size,'author':'!LocationBot','mod_removed':'false','after':''}
 for i in range(2):
-    after = str(600+i)
+    after = str(602+i)
     print(after)
     payload['after'] = after+'d'
     submissionlist = makeRequest(uri, payload)
-    makeTextFiles(submissionlist, dir_name, after)
-    cleanFiles(dir_name, request_size, after)
-'''
-
-dir_name = '/Users/soumyadugg/reddit_topic_modeling/legal_advice_files_test'
-cleanFiles(dir_name, 100, 600)
-cleanFiles(dir_name, 100, 601)
-'''
+    makeTextFiles(submissionlist, dir_path, after)
+    cleanFiles(dir_path, dir_name, parent_dir, request_size, after)
