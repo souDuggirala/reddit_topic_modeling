@@ -73,12 +73,8 @@ def cleanFiles(dir_path, dir_name, parent_dir, request_size, after):
         #content = re.sub(pattern_quoted,' ', content)
         
         #delete urls
-        pattern_url = r'http(s?)://[\w/#\\:?._~-=;]*'
+        pattern_url = r'http(s?)://[\w/#\\:?._~-]*'
         content = re.sub(pattern_url,' ', content)
-        
-        #delete any collection of characters with numbers is it
-        pattern_numbers = r'([\w#\$%&*@/\{\}]*[0-9][\w#\$%&*@/\{\}]*)+'
-        content = re.sub(pattern_numbers, ' ', content)
 
         #delete [removed], [deleted]
         pattern_removed = r'\[removed\]|\[deleted\]'
@@ -95,8 +91,8 @@ def cleanFiles(dir_path, dir_name, parent_dir, request_size, after):
         pattern_s = r'(\'|’)s|\(s\)'
         content = re.sub(pattern_s,' ', content)
 
-        #delete stars, brackets, parentheses, dashes, slashes, multiple periods, commas
-        pattern_symbols = r'(\*|\[|\]|\(|\)|-|/|\.(\.)+|,)+'
+        #delete punctuation
+        pattern_symbols = r'(\*|\[|\]|\(|\)|-|/|\.(\.)+|,|\?)+'
         content = re.sub(pattern_symbols,' ', content)
 
         #delete words with that end with 't, 've, 're, 'll
@@ -126,8 +122,8 @@ uri = 'https://api.pushshift.io/reddit/search/submission/'
 subreddit = 'legaladvice'
 request_size = 100
 payload = {'fields': ['id','num_comments','selftext'],'subreddit': subreddit, 'size': request_size,'author':'!LocationBot','mod_removed':'false','after':''}
-for i in range(2):
-    after = str(602+i)
+for i in range(4):
+    after = str(600+i)
     print(after)
     payload['after'] = after+'d'
     submissionlist = makeRequest(uri, payload)
