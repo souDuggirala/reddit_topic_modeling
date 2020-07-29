@@ -1,0 +1,5 @@
+I recently learned that my father input my data into Ancestry's service about a decade ago (without my consent). I am looking to exercise my right to erasure under the GDPR (UK citizen) in order to remove my data from the site, however, I'm not sure where to start.
+
+I found [this](https://support.ancestry.co.uk/s/email-us) email form, but don't know what information I should include in my SAR and how I should request for my data to be removed. Their privacy statement lists how to contact them with any requests, specifically sections 15 and 16.
+
+[https://www.ancestry.co.uk/cs/legal/privacystatement](https://www.ancestry.co.uk/cs/legal/privacystatement)

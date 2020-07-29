@@ -1,0 +1,90 @@
+I've read alot online that says a Non Compete in Louisiana can't exceed 2 years.
+The main reason for this question is her old company sent her a Cease and Desist to quit her current job.
+We know we will need a lawyer regardless, but if the time restriction voids the original document, all we would need a lawyer for is just to call their lawyer.
+The companies are private auto title companies.
+She really wants to stay with her current company. And she was fired from the old job during the training period.
+Also of this would go to court, would they have any bounds against her? And would they even want to bring this all the way to court?
+Any advice is greatly appreciated.  The standard is 'overall reasonableness.'. So, generally, you're correct about that, but it depends on the total circumstance.   If, for examine, they paid you a $50k flat fee as consideration for signing... That might make it reasonable to make it very difficult to work for a year.  That's, of course, not common, so you're almost always right, but it's always a good idea to have a lawyer look at it BEFORE you sign and explain the implications, rather than assume and find out bad news later.  IANAL, but it's my understanding that an NCA cannot make it impossible to work, meaning that if you are in a specialized field (protein engineering, as an example), then an NCA is almost unenforceable due to the fact that nearly every company who would hire you (at a competitive wage to your previous one) would be a competitor of your current company. LA DOES allow 'continued employment' to count as consideration, but given that she only worked there a few more hours, they may have a hard time arguing that.   
+
+As to the time limit, nobody here is giving you the full answer there.  LA is a 'blue-pencil' state, which means that if you walk into a court with an illegally broad or overreaching non-compete, they can and generally will just rewrite it then and there to comply with state law and enforce the new agreement.   It doesn't just go away if it's poorly written, it just gets constrained. This is wrong and dangerous advice.  I wish LA would stop saying it.  NCAs ARE NOT almost always found to be illegal.   Are there many poorly worded NCAs?  Sure.   Do courts tend to put the burden on the employer to defend them, since they're fairly one-sided, yes.   But many of them are absolutely binding.
+
+This advice is ESPECIALLY ignorant in OP's case, because he lives in a blue-pencil state where if he shows up in court with an unenforceable non-compete, it doesn't just evaporate -the court can reform it - meaning rewriting it into a way that it DOES comply with state law.   
+  Just to be clear, you do not need to contest a C&amp;D.   You can simply ignore one of those.  If you are served with a suit, THAT requires answer.   
+
+That said, I'm pretty confident you're right about the fact that it's a pretty generic office job and so the NCA is pretty obviously punitive instead of protective. &gt; They literally had her sign this document hours before they fired her, and she was not even completed with training. She was trained from scratch at the new job.
+
+This is what interests me. There has to be a mutual consideration of value for a contract to be somewhat valid. A judge will 99% look at this and laugh at her old company. 
+ &gt;They literally had her sign this document hours before they fired her, and she was not even completed with training. 
+
+Did she receive anything for signing the contract?
+
+Typically if you sign a non-compete you are getting employment in exchange for doing so. But if they fired her immediately after signing a non-compete and didn't give her anything, that may not be enforceable.
+
+Contracts require consideration from both parties to be a contract. That is, both parties need to get something out of it.
+
+NAL &gt; Barring any weird laws in LA
+
+Louisiana has one of the more unique legal systems in the US. In fact they are sort of the single outlier in many aspects of their civil code. 
+
+A huge oversimplification would be to say precedent doesn't matter in LA, judges are free to interpret the law as they see fit with little to no regard to common law or previous decisions. 
+
+While I agree with you and suspect OP would prevail, LA is the one state more than any other where you would REALLY want to run the entire situation past a competent and admitted attorney in that state...
+ [deleted] My girlfriend and I and her current job all agree. She was trained from scratch at her new job. Even what she learned at her old job is irrelevant now because she doesn't deal with customers at her new job (licenses, registrations, etc) she works in a cubicle working on dealership work.
+We definitely plan on seeking a consult, but reddit does help putting your mind at ease out of business hours or most professions like lawyers.  Honestly, id just ignore this until you’re actually served with a law suit.  
+
+Every other jackass company gets employees to sign these things.  Unless there is some reasonable reason for the non compete, it’s not going to be enforceable.  Usual situation is a high level executive, a former business owner...   crap like that.  Trying to enforce a non compete against a 20 something just getting by isn’t going to work out.
+
+If you get actually served with a law suit, start worrying about it, otherwise tell them to suck your balls.   I’ve seen this stupid game play out plenty of times, they never sue, they love their stupid cease and desist letters tho. The 2 year limit that you believe LA has could play out in 2 ways: 1) if you break the limit, the whole non-compete is void or 2) if you break the limit, only 2 years count. Depends on the state. ALSO many states (such as Utah) allow for longer non-competes if part of a severance package, so that is relevant. Get a lawyer that knows the laws of Louisiana, I am not a lawyer just an undergrad pre-law student, and from a far away state as well.
+
+Second, and honestly more importantly, the job description sounds farrrr too broad to be non-compete worthy. Title clerking is unlikely to qualify as specialized or important enough to be protected for 3 years, let alone 12 months. Not to knock on your girlfriend's job, it just doesn't seem all that crazy special. Non-solicitation and trade secrets, however, are totally valid (but I'm not sure on length of time) so stay well clear of those two. Check with an employment attorney on this but I highly doubt this is enforceable on this point alone.
+
+In short, a single consult with an attorney could give you clearer (and better, more specific) guidance, and "Reddit said it was ok" is hardly an excuse, but this non-compete seems like a hard sell from where I am sitting.  What does the NC contract actually say?  Was she given any sort of consideration at all, or does it just say what you copied below?  &gt; the Non-Compete has no consideration 
+
+Be aware of continued employment (even if terminated shortly thereafter) as consideration:
+
+&gt; Louisiana courts have determined that the offer of initial or continued employment is sufficient consideration or benefit to the employee in exchange for agreeing to not compete with the employer should the employment relationship terminate. -[Source](https://www.lawserver.com/law/articles/non-competition-agreements-in-louisiana)
+
+Although perhaps some good news from the same source:
+&gt;The courts have found the following restrictive covenants unreasonable:
+
+&gt;A 2-year, 5-parish restriction against a speech therapist from “carrying on or engaging in a business similar to that of” the employer because that language did not specifically define the employer’s business. Your research is sound. She should not contact her old employer or their counsel. it never hurts to try and get some advice from an attorney, but I would not hire anybody or pay for anything or invest too much time unless she is actually served. Those agreements are almost impossible to enforce and if taken to court are almost always found to be illegal in the first place. Louisiana in particular hates these types of agreements. You shouldn't fret about this in the least. The gall of these people harassing a woman they fired!! She is at a TEMP agency! That is just horrid. I am so sorry but, don't let yourself lose a moment of sleep over this.  It costs their company an hour of their legal department's time to fire off a cease and desist letter. I wouldn't say they're serious about this unless they file suit. [deleted] A C&amp;D hold no legal weight. It's basically a warning. OP doesn't need a lawyer unless actual legal action is taken. She is a title clerk for basically a private DMV. They do licenses and registration, but she works with the dealer work from the dealerships. 
+
+&amp;#x200B;
+
+After doing some research I believe the Non-Compete has no consideration and restricts competition for too long. 
+
+When we find a lawyer, once they tell this to the opposing lawyer, they should not pursue further, we hope.  
+
+&amp;#x200B; I'm not up on LA laws, but usually, for a non-compete to be valid, they have to prove that the noncompete is protecting legitimate business interests, and not being used to penalize the employee. This is usually asserted via claims of trade secrets, specialized training provided by the employer, claims that the employee worked with confidential information, protecting relationships with customers and business contacts.
+
+From where I see it, a title clerk is a glorified secretary. There are no trade secrets or specialized training for the job, and while the information may be "confidential" it's not like you're walking out of the job knowing am industry secret from the employer. You could argue that they're trying to protect a customer base, but no one goes car shopping based on a title clerk, they're looking for a salesman.
+
+Barring any weird laws in LA, I think if you were to take this to court, which could be spendy, I think you could eventually prevail. but it would cost a lot of time and money, and a can dealership has much deeper pockets than you.  She is an auto title clerk, which is the same job as the first company. 
+
+Here is an excerpt from the Non-Complete, "Employee should refrain from carrying on, engaging in or staring a business similar of that of 'Company 1' and or soliciting customers from 'Company 1', 'A person who becomes employed by a competing business regardless or not that person is an owner or equity interest holder of the competing business, may be deemed to be carrying or engaging in a business similar that of 'Company 1' having a contractual right to prevent that person from competing".
+
+&amp;#x200B; OP, what is her job and duties? If it's generic enough skills, she may be able to contest the c&amp;d on those grounds in the first place. Lots of lawyers handle lots of different things, just make sure "employment law" is one of them. It's clearly worth their time and money since they are pursuing it. If they're the kind of company to make someone sign a non compete hours before firing said employee, then they're also the kind of company to try and enforce. It does sound like there are quite a few problems with the non compete clause, mainly the question if there was proper consideration on their end. Improper serving is another, though that's likely not an issue if they did everything properly. Courts have ruled in the past on how broad and restricting non competes can be. It does sound like the non compete might be overreaching for what you described as an entry level job, but that's for the courts to determine.
+
+There is a small chance that they might drop the issue and never actually sue if you retain a lawyer and they send a response, but also don't be surprised if they pursue this hard. NAL - Whole document would be valid but because the clause is in violation of the law the clause itself will likely be read out of the contract, no? Meaning there is essentially no non-compete left. Thank you for this. That document you cited had provided some great information. It's nice to hear something other than, 'your screwed'.
+
+On a side note, it's a employment lawyer we need? Would a general lawyer do, or is it better to have a specialized lawyer? At least consulting a lawyer is probably a good idea, but you are under no legal obligation to do anything within 15 days.  A C&amp;D is just a letter from a lawyer saying "stop doing x, y, and z, or we're going to sue you." It has no force of law.  The company is trying to intimidate her.
+
+I'm not a lawyer, but if the situation is as you describe, I'd say let them sue.  She will need a lawyer obviously.  But seems like the non compete has a lot of problems, starting with the fact that she didn't receive any significant consideration in exchange for signing.  [Further reading](https://www.macelree.com/the-top-10-mistakes-with-non-competition-agreements/) Thank you for your comment. I am assuming that "NAL" is Not a Lawyer, because I couldn't find a list of commonly used abbreviations on this sub. 
+
+&amp;#x200B;
+
+Is this really worth their time and money to take this to court? They literally had her sign this document hours before they fired her, and she was not even completed with training. She was trained from scratch at the new job. That is a farly small company, and I fill like they are being petty enforcing this Non-Complete. I could understand if they put a lot of time and money into her, or if she had any trade secrets or anything like that. 
+
+&amp;#x200B;
+
+We are currently looking for a lawyer now. 
+
+&amp;#x200B;
+
+Technically she is complying with the C&amp;D because she is currently employed by a temp agency, and she is leaving them this week, and being hired on full time by the actual company. 
+
+Would this mean they would have to fill another C&amp;D? 
+
+&amp;#x200B;
+
+We will need act fast regardless, because the 15 days is up tomorrow, even though she received the letter several days later, because the mailman left the certified mail letter in her mailbox without a signature.  NAL but she needs to contact an attorney since she was served with a C&amp;D. Even if LA law says a non compete cannot exceed 2 yrs, it doesn't make the document entirely void, just unenforceable after 2yrs. Sounds like she's still well within 2yrs.

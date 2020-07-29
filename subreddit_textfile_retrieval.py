@@ -73,7 +73,7 @@ def cleanFiles(dir_path, dir_name, parent_dir, request_size, after):
         #content = re.sub(pattern_quoted,' ', content)
         
         #delete urls
-        pattern_url = r'http(s?)://[\w/#\\:?._~-]*'
+        pattern_url = r'http(s?)://[\w/#\\:?._~-=;]*'
         content = re.sub(pattern_url,' ', content)
         
         #delete any collection of characters with numbers is it
@@ -120,7 +120,7 @@ parent_dir = '/Users/soumyadugg/reddit_topic_modeling'
 dir_name = 'legal_advice_files'
 dir_path = os.path.join(parent_dir, dir_name)
 if not os.path.isdir(dir_path):
-    os.mkdir(dir_name)
+    os.mkdir(dir_path)
 
 uri = 'https://api.pushshift.io/reddit/search/submission/'
 subreddit = 'legaladvice'

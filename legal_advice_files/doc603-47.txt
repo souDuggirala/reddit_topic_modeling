@@ -1,0 +1,38 @@
+Monmouth County NJ, US
+
+
+A week ago I took my truck (1992 manual trans Jeep Cherokee) into a reputable local shop because I was having clutch issues.
+
+They diagnosed it as being the clutch slave, estimated a little over $1000 (I have it on paper) I had them give me the estimate for just redoing the entire clutch, roughly $50 more, so I went with that since the clutch was older and would likely need replacement in the next year or so anyway (doing the whole clutch includes slave cylinder replacement, pressure plate, throw out bearings etc). 
+
+When I picked up my truck they mentioned first gear was hard to shift into and reverse was grinding. I had had very minor issues with these gears in the past, emphasis on VERY mild. 
+
+For example: maybe 1 or 2 out of 10 times shifting into first I'd have to jiggle the shifter a little to get a smooth shift and when going into reverse (which requires tapping first then making the H pattern into reverse) I'd have to 'tap' and H twice or thrice instead of once to get it into gear. That is it. Nothing worse, no vibration, no grind, no noise.  Never had any issue with any other gear (2nd, 3rd, 4th, 5th).
+
+I told them this in detail. Then I drove the truck around the block to see what they meant. First seemed worse but not undriveably terrible. Reverse was grinding very bad. I told them this. They said the bearing was going and the stress of the clutch going out/new clutch had likely exascerbated the issue. They said it wouldn't get worse (to both myself and my mother over the phone who was helping me pay for part of the bill as a holiday gift). My mother consulted her boyfriend, a life-long mechanic. This made sense so we paid for the work. The work is garunteed for 3 years or 3500 miles.
+
+
+I drove the truck the 4 blocks home and parked it. When I drove my truck for the first time since parking it (30 miles to work) I completely lost the use of first gear half way into the drive (10-15 miles later), 2nd gear is now difficult to shift into as is 5th (and 5th makes a grinding noise). 3rd and 4th gear still shift somewhat normally but at 1500 rpms create a serious vibration in the entire truck which can be felt in the pedals and steering wheel as well as heard audibly via the dash rattling. Reverse and first cannot be used unless I turn the truck completely off, shift, start it in that gear. This makes it extremely difficult and dangerous to drive, and may be causing damage.
+
+Emphasis also on the fact that I had driven it to the mechanic shop in the first place with none of these issues existing.
+
+They are trying to tell me it is OK and offered to 'show me how to shift it'. 
+
+Frankly that is an insult. I know females driving old manual trucks is rare, but this is not my first manual vehicle (and I have been driving early 90s Jeep Cherokees daily for over 10 years. It's my thing, I love them) I am an experienced manual driver, and experienced Cherokee enthusiest. I come from a family of manual vehicle owners/drivers (bikers and mechanics. Only reason I took it to a shop was because family was out of state for the holiday and their shop over an hour drice from where I live whereas this shop is walking distance).
+
+What do I do from here? What are my options? What paper trail do I need?
+
+Thank you.
+
+ I have spoken to 2 other trusted mechanics directly, and posted to r/mechanicadvice and the jeep forum elsewhere.
+
+ Universally I am being told that it is the clutch not disengageing. That it is not a trans issue, it is a clutch issue. Possibly due to hydraulics not being properly bled, possibly due to failure to adjust properly or possibly to to parts they used being faulty and needing to be checked. 
+Edit: spelling All the problems you are describing are internal faults in the transmission.  The transmission was never opened up during this job. It's possible that debris from the tranny case got moved around when the trans was out and damaged the syncros. It's just bad timing and you need a trans, or an overhaul. NAL, lifelong tech. This is something I've also been considering.  (Fortunately I can borrow a car to/from work for the time being in order to save up to have the trans done. I have been planning on having the trans done ASAP maybe january/feb with how I'm saving). 
+
+My anger here comes from the second opinions I have gotten (from family/friends who are mechanics). They all say they don't think the shop bled the clutch correctly which is what actually exacerbated the problems. I wish the shop would just admit it, appologize and do it correctly at no further cost to me instead of insulting me which is unprofessional. 
+
+What I am really asking here is since the clutch work is garunteed, and was clearly done improperly, does that not mean at the very least a mistake needs to be admitted and remedied at no further cost to me? (i.e, they need to bleed the clutch properly and return the truck to me) and what are my options as far as holding them to their waruntee?
+
+I am not expecting them to rebuild the trans. 
+
+Edit: a word I've owned about 20 older wranglers/cherokees. You acknowledge having trans issues with the gears. Unfortunately fixing the clutch issue seems to have exaserbated your trans and, even though it still shifted, was likely on its last leg. Your difficulty shifting into gears is a sign of a transmission reaching its end of life however minor they were before clutch slave replacement. It sucks, but you also own a 30 year old vehicle. This is par for the course and luckily theres lots of cheap used jeep parts out there. They likely did nothing wrong and I doubt you have any recourse. Never fix just a clutch on a transmission that isn't working 100%.  Well you would need to get another mechanic to agree that this was caused by the mechanic that replaced the clutch.  Maybe they installed something wrong, maybe the system wasn't properly bled, maybe your shift forks are bent or synchros are bad.

@@ -1,0 +1,28 @@
+I’m not entirely sure how the NLRA works. From what I’ve read on a few articles about it and seen the Adam Ruins Everything segment on it, it sounds like it’s illegal for companies to threaten employees from discussing how much each other makes and how raises at a company work.
+
+I live in a right-to-work state (WV) and my understanding of RTW is that as long as the reason isn’t illegal, employers can fire you for whatever reason they like, whenever they like (and employees have the right to quit whenever they want as long as it’s not a breach of contract).
+
+From the discussions I’ve had at a few companies I’ve worked at, everyone is terrified about discussing anything financial. I’ve brought up what I know and they claim that the NLRA doesn’t work since I’ve signed papers saying I won’t discuss pay. I showed them the website that discusses the NLRA (the link which is in Adam Ruins Everything’s references) and they claim it only pertains to unions and strikes (of which I’m not a part of).
+
+I know Adam Ruins Everything is NO WHERE near a good source of legal advice, it’s just a stepping stone for me to start conducting research. I was reading a NPR article about it and it does seem to confirm my thoughts about non-union workers being protected and what other types of workers (such as HR and payroll) aren’t protected from discussions about pay.
+
+I can’t find any quotes in the NLRA that says what I’m searching for “in plain English” and I’m not sure how “right-to-work” affects that protection. I figured I would ask Reddit before I continued any more conversations about it. Thank you for your help. Thank you! I'm not familiar with the process, but I believe you file a complaint with he NLRB.
+
+https://apps.nlrb.gov/chargeandpetition/#/ Where would you go to report business that have you sign that policy when you start working? If you get in writing (or have other proof) that they fired you for that activity, you would have a case against your employer.  You'd still probably be out of a job, though there have been examples of fired employees being reinstated.
+
+Having that policy is technically against the law, and can get them in some hot water.  It is a bit complicated though, because it doesn't apply to everyone - very small companies don't fall under the NLRA, and a few industries may be excluded (which ones changed recently in 2014 with the "non-retaliation for disclosure of compensation information" executive order, which I'm less than familiar with).
+ I edited the post so hopefully it now makes more sense. So just having a casual chat of:
+
+“I make $10/hour”
+
+“That’s odd. I’ve been here a year less than you and I make $11/hour.”
+
+“That’s not fair!”
+
+That’s a legal conversation and not deserving to be fired? Right to work prevents employers from having a "closed shop" where you aren't allowed to be an employee without being a member of the union.  
+
+Employment at will is about the right of both you and the employer to end the employment relationship at any time without having to have a "good reason."
+
+Your position, supported by the NLRB, would be that discussing working conditions including wages *is* an organizing activity and is protected. Right to work means you can't be forced to join a union. At-will means you can be fired for any non-discriminatory reason, or no reason at all I guess I am confusing them. What’s the difference, if I may ask? I thought they were kind of intertwined. Edit: what is the difference between organizing events and just casual conversation? You're confusing right to work with at will employment.
+
+The NLRB guidance that companies may not prohibit employees from organizing activities including discussing pay is applicable even in employment at will.  

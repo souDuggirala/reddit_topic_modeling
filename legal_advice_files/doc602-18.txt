@@ -1,0 +1,25 @@
+This is in New York state. There hasn't been there clearest communication between all the parties involved, so I'm a little fuzzy on some details but here's the gist:
+
+My fiance and I applied to sublease a unit in a co-op building in NY. We were under a strict time constraint. We were assured by the real estate agent that we could move in by our necessary date as long as we were prompt with our documentation. It turned out though that there are a lot more middlemen than we thought, and a metric shit ton of information was not given to us (regarding application requirements) and we kept having to submit additional things piecemeal over the course of 2 weeks. This included a series of cashier's checks for things like the application fee, brokers fee, security deposit, and first months rent. We were only a weekish away from our required move in date, and there were still application requirements we hadn't submitted, so we decided we had to pull out of the application and get an apartment in a non co-op building (which we did successfully.)
+
+Here are the parties involved:
+
+My fiance and me, the renters
+
+"Our" real estate agent (the people who listed the unit on the search site we found it on)
+
+The owner of the unit, "landlord"
+
+His listing agent
+
+A consulting/management firm acting on behalf of the co-op board.
+
+The application was submitted entirely through the management firm. Some of the checks stayed with them (small ones like application fee), while the big ones went to the landlord. The management firm has since returned all their checks along with a written statement saying, 
+
+"This office is returning your application to sublet apartment [X], in its entirety; the application could not be processed due to the fact that the package does not meet the Board of Director's written qualifications for this property."
+
+However, the landlord is claiming that this is not a denial, and so he is going to keep our first months rent as well as the security deposit, totaling $5,000. As far as I can tell, he has no claim to this money. Stupidly though, he has the checks and could physically deposit them at any time since they're cashier's checks. The security deposit is typically for things like damage to the unit or broken leases. We have not begun a lease nor had the opportunity to damage the unit. As for first months rent, that goes without saying. We are not renting from him. 
+
+If he doesn't deposit the checks within 90 days of our writing it, we can cancel them, but if he does, do we have any legal options here? Calling the bank was the first thing we did. They can't cancel them yet because they're cashier's checks. They can only cancel them after 90 days. By then, it's possible this landlord will have deposited them. So if we can delay them for three months, that's ultimately good enough as well. Wait. The checks haven't been cashed? Call your bank and stop payment. Yeah, there's usually a fee and they may or may not waive part of that as a courtesy, but this is the one way to ensure they never get their hands on the money to begin with. If they don't have it, you don't have to screw around with suing to get it back. We have sent a few strongly worded emails saying this is unacceptable and we'll be taking legal action if they deposit the checks. 
+
+What type of action would it be though? Small claims court?  Yeah, I would make a written demand that they return those funds.  If they refuse, you MAY have a cause for action.  The management firm even returned the application fee. It seems like if they returned even that, it acknowledges an invalid application. Right? They can keep the application fee, but there is no possible way they would have a legitimate claim to keep the rest absent some sort of signed agreement with the application.  
