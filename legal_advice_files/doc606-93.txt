@@ -1,0 +1,69 @@
+My hometown is in IL, and so is my drivers license and license plate. But I found a job in IA in Jan of 2018 and I rented a place in IA. I still go back to IL every few weeks.
+
+So far my employer has been withholding taxes for IA. Will IL charge me taxes too?
+
+Am I still considered an IL resident?
+
+Thanks You can deduct the start up expenses only after you have actually started up.  The only way to do this with 'pre-tax' money is if the business is being run via a self-directed IRA and even then you'd want it to be in a ROTH which is post tax.
+So ... start your business, and then write off the start-up costs as allowed either with the one time deduction or amortization. I have a job. I want to start a side business, and there are startup expenses. I want to be able to deduct this expense from my income (currently only from my job). I can start a S corp or LLC, fund it, and since it's a pass thru entity, I should be able to deduct it from my 1040 right?
+
+I can achieve the same effect if I operate as a sole proprietor if I don't want to incorporate, knowing that I'll move soon. Is that right or not?
+
+Ultimately, I just want to pay for startup expense using pre-tax money rather than after-tax. For expenses related to the business, you are correct.  But that has NO impact on expenses related to your wages from your job. I thought if I operated as a sole proprietor, then I myself would be the entity, then I can do that. Or am I mistaken? &gt;I want to be able to deduct business expenses from my income (which is from my job now).
+
+You do realize that you cannot deduct 'business expenses' from your job, right? I want to import things to sell online, for side income.
+
+I want to operate as a sole proprietor in the beginning because of the complexities with forming LLCs when I know I will move in less than a year.
+
+I want to be able to deduct business expenses from my income (which is from my job now).
+
+Thanks I think an accountant would be better and cheaper for you! Accountants tend to be more up to date on tax law and I think one would be able to answer all of your questions. &gt;I should still be able to deduct business expenses from my income (from job) right?
+
+This is venturing into /r/tax territory ... but you are beginning to get confusing.  You were asking about forming a LLC for operating a online sales company, and now about deducting business expenses from your wages ... those are two wholly separate unrelated things.
+
+What would be your reasoning for wanting to form an LLC?  With the answer to that, I can point you to asking the necessary questions in the most appropriate place. So I guess in my case, I probably should operate as a sole proprietor to begin with right? I mainly want to be able to deduct some coming up  business expenses but don't want the hassle of incorporating now when I move. 
+
+I should still be able to deduct business expenses from my income (from job) right? Keep in mind the following ... the business is operating where YOU are, since YOU are the one operating it.  That said the business will be liable for taxes, fees, etc. based upon where you live.  If you move states, then you will either need to file in the new state as a 'foreign' entity, or dissolve the one formed in the first state and open a new LLC/Corp in the new state.
+
+And yeah ... every time you move states, you have to get a new license, register to vote and possibly file part year income tax returns in each state. Thanks.
+Is my type of questions more geared toward lawyers or accountants?  I'm not very certain about that specifically, but I do have more personal experience with it!
+
+My dad owns an S-Corp and he incorporated in the state he used to live in. My parents moved one state over and the switch for the business wasn't complicated as far as I remember, probably because his business is small and the nature of his business is such that hardly any work is actually done at the business address because it's a service rather than retail. If you don't have a physical storefront, you'll have to incorporate at your home address (but check your lease, many places won't let you do this at a rented address).
+
+He does have a business accountant though (and it's worth mentioning that his accountant is still in the state he first incorporated in) who helps him out with all of this. It also might depend on the laws in IA and IL. I'd talk to an accountant about it. An accountant also will be able to help you with your personal tax questions!
+
+Hope I've been somewhat helpful! Again, I'm not a lawyer (I'm just in law school) and my personal experiences in completely different states may not apply to you. Thanks, I'll get an IA drivers license ASAP. The only reason I didn't is because I plan on moving back to IL or the West Coast around the end of next year. 
+
+I had my employer withhold taxes for IA in Feb because that's when I signed a lease in IA. If it ever gets messy, I hope to use the lease date to prove my residency in IA. 
+
+As a related note...I want to start a small business now, either an LLC or S corp, to sell imported goods online. Should I just incorporate in IA and transfer the entity (is that allowed?) to another state if I move later? I definitely shouldn't incorporate in IL right?
+
+Thanks Thanks, my IL license is about to expire anyway, I will get an IA license ASAP. 
+
+The only issue is, I don't plan on staying at IA for long. I plan on changing jobs later next year so I guess I will have to go through the same process again huh?
+
+If all it takes is changing drivers license and filing more state taxes, I'm good. To make things more complicated, I want to start a small business now, either an LLC or S corp, to sell imported goods online. Should I just incorporate in IA and transfer the entity to another state if I move later if allowed? Definitely don't incorporate in IL right? I might head to West Coast next year.
+
+Thanks Yes, you'll file part-year returns for each state. They won't double dip, you'll pay tax for the amount of time you were in each state.
+
+I'm in the same situation as you as far as my car. My parents own my car so it's registered to them in another state and that's 100% fine. But my license is for the state I live in, which you also need to change as soon as you can. It makes things much easier for you if your license reflects your actual living situation.
+
+EDIT: I also don't want to scare you, but you've waited so long to change your license after legally being in the state it could cause you trouble. Just go get it fixed whenever you can. The DMV/MVA/whatever probably won't ask many questions other than just proving you live there. It sounds like you need to establish your residency in IA rather than being in a state of flux.  The car is your parents, you do not own it so leave it out of the equation (for now) ... change your driver license, register to vote and direct all of your mail to Iowa.  You are out on your own now! :) Sounds like you will do a part-year return in each state. my car is in my parent's name. So the fact that the license plate hasn't changed shouldn't matter much right?
+
+It's true that I haven't changed my driver's license yet.
+
+I did have the employer withhold for IL for 1 month before I got a place in IA, and then I changed it to withhold for IA. I guess my situation is similar to those that change jobs (across states) in the middle of a year.  Surely they wouldn't be paying taxes to both states on the whole annual income do they? I'm assuming you're an adult with an apartment in your own name in IA. If this is true, you don't legally live in IL at all and you need to get your plates and license switched over. Since it seems like you only live in IA, that's the only state you should be paying taxes to and, as I said before, you need to establish IA residency ASAP.
+
+This might be helpful for you:
+https://tax.iowa.gov/iowa-illinois-reciprocal-agreement 
+ Dual residency is messy at best when it comes to taxes.  You may want to consult with a CPA.  Your driver's license and plates most certainly point to you maintaining some level of residency in Illinois though you'll certainly owe Iowa tax from working and partially living in that state.
+
+Given the current shitshow that is the fiscal crisis in Illinois, I'd try to steer clear of giving them any reason to believe I owe them money. I don't know how you define "residence." My parents have home in IL, and I grew up in IL. I have IL license plate and drivers license. 
+
+ I'm not a lawyer, of course.
+
+Do you still have a residence in IL?
+
+Laws might vary from state to state, but I've had a job in a state other than my state of residence for 4 years and they don't withhold taxes from the state I work in.
+
+However I don't have, and never have had, more than one residence. It really could depend on where your primary residence is and whether you're a dual resident, etc. You might get a bill for taxes which you can then dispute. You didn't follow the rules and get a license where you live. This is one of the things that can happen when you choose to do that. 

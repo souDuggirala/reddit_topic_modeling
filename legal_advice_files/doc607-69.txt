@@ -1,0 +1,13 @@
+Hello,
+
+I have a subscription for cloud data services that says in the agreement, "This will auto-renew if notice is not given within 60 days of agreement termination."  We stopped using the service completely 100 days before termination, and we continued to pay the monthly cost.  Unfortunately, we notified them only 30 days prior to contract termination of the intent to end the agreement.
+
+They are now holding us liable for the full next year, even though we have not used the service in more than 3 months.
+
+My question is, is this enforceable ?  The company is threatening to sue, and of course at that time we will get actual legal counsel ... but for now, in Virginia, is this kind of auto-renewal enforceable without our consent ?  Or is having agreed to the terms in the first place considered consent ?  From what I've read, there have been auto-renewal laws proposed in Virginia since 2017, but I'm not sure if they are still bills, or if they apply to this situation.
+
+https://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+HB2430
+
+Thanks everyone!
+
+ IANAL but that sounds like punitive damages which are generally unenforceable.  Cancellation terms are there for the company to recoup real costs related to bringing things online for you.  They can charge you for actual costs but not just to try to force you into staying with them.

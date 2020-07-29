@@ -1,0 +1,55 @@
+I go to a public high school in Florida and recently, a large group of students were caught cheating in an English test. Now, the administration in reportedly calling kids to the office to check their phones in a search for homework answers. Does my school have the right to do this? If I am not mistaken, the 4th Amendment protects me from unreasonable search and seizure, but I know the Constitution can be a bit wonky in schools. 
+
+&amp;#x200B;
+
+Any help is appreciated.
+
+&amp;#x200B;
+
+&amp;#x200B; The easy solution: 
+
+When you get called into the office, make sure the conversation goes something along these lines
+
+&gt; School:  We need to see your phone.
+&gt; 
+&gt; You: I don't have a phone.
+
+And leave it at that.  If they press the issue, tell them to talk to your parents.  
+
+&gt; the 4th Amendment protects me from unreasonable search and seizure, but I know the Constitution can be a bit wonky in schools. 
+
+It's very wonky in schools.  Don't rely on this.  If you're really concerned about this, just make sure you leave your phone at home.  . All these other advisers are correct, but you will get suspension/detention for not unlocking it. Make it easy on yourself and just let them see it, but delete anything you don't want them to see. It's the easiest way out First and foremost as others have mentioned password protect your phone without the fingerprint or face recognition. 
+
+Second, do you own your phone or is it actually your parents?  If your parents own the phone, the school would need their permission to go through the phone not yours. 
+
+Also make sure you read your student handbook to make sure you didn't give prior consent to these type of searches. [removed] It's a little more nuanced than that. Speech can certainly be compelled in certain situations - for example, voice exemplars, where the police ask you to read from a script, and then multiple recordings are given to a witness to have them identify the voice they heard. That speech can be compelled by the judge, and you can be held in contempt for failing to provide it. 
+
+The exemplar isn't being used to assert the specific facts in the script, and the testimony itself isn't what is incriminating them; it's the physical characteristics of their voice.  
+
+With a password, knowledge of the password implicitly shows that you had access to and control of the device. So knowing the password is a fact that helps to establish an element of a possession charge. So speaking the password is a type of speech that could incriminate you.  [removed] Speaking as a long-time educator, not a lawyer. This is tricky because there are virtually no legal difficulties for you, but there could still be a school punishment involved. First thing to do is read up on your school's disciplinary policy, especially the section on academic dishonesty. Double check to see if the *school* policy is different in any way from the *district* policy. Usually these can be found online.
+
+If you keep refusing to open your phone, short of getting a warrant there's nothing they can do from a legal perspective. However, you'll also be risking suspension, detention, etc. Even if those punishments are unfair, it's pretty tough to fight them in any significant way. The suspension report will simply read "Defiance/Insubordination", not "We're trying to search a student's phone without consent and they didn't cooperate."
+
+Be clear on this though: If anyone threatens to withhold grades from you without evidence of wrongdoing, they're violating your rights. That's a case you can easily appeal before the school board (check your district policies for the process). It all derives from the ‘76 Fisher v US holding. 
+ 
+Production of information (like a passcode) is testimonial in certain circumstances. “Testimonial” information is protected. “Surrender” of information is not (basis for the Foregone Conclusion exemption). USSC hasn’t touched the specific issue as far as I know. 
+ 
+Under the “foregone conclusion” exception to the production doctrine, if the State knows that a device is A) authentic (as in the subject of a subpoena is the owner and knows the necessary passcodes), B) contains incriminating evidence, US v Doe (11th circuit) advises that the production of a passcode isn’t testimonial. 
+ 
+However, the State must know which specific device is incriminating. The state can’t seize 10 devices and compel the keys for all of them to figure out which ones have the incriminating evidence. If CP is on the subjects iPhone, and they know that with a certainty, the State can seize the device and compel the key be turned over. 
+ 
+However, a biometric identifier (and production thereof), is not (yet) considered a “testimonial” act. It can be forced without the 5th amendment applying. 
+ 
+https://www.lawfareblog.com/fifth-amendment-decryption-and-biometric-passcodes [removed] I read somewhere that a password/code was ruled to be speech in US law. Compelled speech isn’t allowed so they can’t force you to disclose it. A fingerprint or other biometric is not speech.  [removed] It's something you have and not something you know. Forcing a kid (or an adult) to open their phone using a fingerprint is trivial compared to getting a password out of someone.
+
+Edit: Legally, I have no idea. I never understood, why is a fingerprint different from a password?  Thank you [deleted] [removed] [removed] As others have already mentioned, best bet is to leave your phone at home and let your parents know what's going on.
+
+However, if you choose to keep taking your phone to school, disable the fingerprint unlock feature and set a strong password. You can be compelled (legally and physically) to unlock your phone with your fingerprint. On the other hand, you have complete control as to whether or not to divulge your password, but not doing so will very likely result in some kind of punishment from the school.
+
+
+
+  IANAL, but police and school administrators are not accorded the same options with regards to searching people.
+
+https://thejournal.com/articles/2018/03/12/when-can-you-search.aspx [removed] [removed] [removed] You should inform your parents that your school administrators are going through the personal property of your peers.  I’ll bet a quick visit to the school would fix this.  But to answer your question, no.  Unless it is explicitly stated in the schools code of conduct or the articles that govern the rules, they cannot rifle through your personal belongings. 
+
+Like I said, your best bet is to inform your parents.   [removed] The constitution isn't wonky in schools at all - it's fairly well defined. They can conduct administrative searches that are not unduly intrusive to enforce non-criminal standards. They likely can conduct these searches, although I'm kind of shocked that kids would be dumb enough to keep evidence of cheating on their phones after they have days of notice that the searches are being conducted. [removed] [removed] [removed] [deleted]

@@ -1,0 +1,26 @@
+My husband and I live in an upstairs condo unit and have carpet. I am currently pregnant with our first child together, and my allergy problems have gotten out of control. My doctor provided me with a note confirming the severity of the allergy. We would like to replace the carpet with soundproof vinyl flooring. I was given an email to notify my HOA about this issue, but I am concerned that they will not take my health or the health of my unborn child seriously. How can I emphasize the issue? We have also addressed the issue with our neighbor who has no problem with the change. Please help me as this is a serious health problem I did not expect and am terribly worried about my baby. Ah, apologies, I assumed you were hoping the HOA would pay for it.  &gt; Involved in the provision of housing or residential lending
+
+...is the operative language of the thing you quoted (which isn't from the statute itself, BTW). It's a *conduct* test, not a status test.  Read that again.  This is listing who it applies to.  Involved in the provision of housing or residential lending (comma) including property owners (comma) housing managers (comma) HOAs and condo associations.
+Courts have also said the HOAs are subject to the FHA.
+https://www.leclairryan.com/files/Uploads/Documents/FHA%20Webinar%20slides.pdf &gt; They apply to the HOA as well.
+
+Note this part of what you quoted:
+
+&gt; involved in the provision of housing or residential lending
+
+The part you quoted simply explains that an HOA ***can***, *if the circumstances are right*, be a regulated entity. It does NOT mean that an HOA is *always* subject to the FHA. They apply to the HOA as well.
+
+"Who must comply with these requirements?
+
+The requirement to provide reasonable accommodations and modifications applies to, but is not limited to individuals, corporations, associations and others involved in the provision of housing or residential lending, including property owners, housing managers, **homeowners and condominium associations**, lenders, real estate agents, and brokerage services. This also applies to state and local governments, including in the context of exclusionary zoning or other land-use decisions."
+
+The HOA has to allow the modification because of this. Can you post the HOA rule verbatim (omitting any identifying info)? FHA regs don't apply to an owner-only-occupied unit (because the compliance duty is on the owner, and you can't sue yourself), so they won't help OP. [u/EccentricPython](https://www.reddit.com/user/EccentricPython) FHA regulations kick in.
+
+"A reasonable accommodation is a change, exception, or adjustment to a rule, policy, practice, or service that may be necessary for a person with disabilities to have an equal opportunity to use and enjoy a dwelling, including public and common use spaces, or to fulfill their program obligations. Reasonable modifications can include structural changes to interiors and exteriors of dwellings and to common and public use areas. Examples include the installation of a ramp into a building, lowering the entry threshold of a unit, or the installation of grab bars in a bathroom. Under the Fair Housing Act, prohibited discrimination includes a refusal to permit, at the expense of the person with a disability, reasonable modifications of existing premises occupied or to be occupied by such person if such modifications may be necessary to afford such person full enjoyment of the premises."
+
+I think your request falls under this law.
+
+[https://www.hud.gov/program\_offices/fair\_housing\_equal\_opp/reasonable\_accommodations\_and\_modifications](https://www.hud.gov/program_offices/fair_housing_equal_opp/reasonable_accommodations_and_modifications) We own the property. We are of course planning on paying for the best soundproof carpet alternative available. I just wish to present my case fairly and clearly to the HOA. I just wonder how we can get their approval in the manner that is easiest for all. &gt; My doctor provided me with a note confirming the severity of the allergy.
+
+The *internal conditions of a condo unit* are not ADA-protected because that's not a "public accommodation", so you won't get any help there (even assuming that your allergy qualifies as a disability).
+ Do you own the property or rent it? Typically, it is not the HOA's duty to deal with property issues such as this. If you are renting the property, you would likely want to contact the owner, though it is unlikely that an owner would be required to replace the carpet with something else. You could always look at the HOA's organizing documents to determine, but it is unlikely that an HOA would be obligated to do this.

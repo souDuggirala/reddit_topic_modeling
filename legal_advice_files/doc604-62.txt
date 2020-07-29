@@ -1,0 +1,9 @@
+I've been curious about copyright law and under the impression that streaming is technically legal as long as it's not actually not  downloading or uploading. But I've been seeing mixed answers online. I know peer to peer is one thing, but what about client to server style streaming? Steaming IS illegal. The issue is that there's no good way to detect who is consuming the content unless they stream it themselves. The reason why they don't do that is because some of the more predatory copyright trolls tried that with hosting downloads and were pretty roundly defeated in court over it (it was a honeypot, and the judges didn't take kindly to their behavior). If the steamer isn't licenced to rebroadcast the content, it's illegal.
+
+Showbox almost certainly isn't.
+
+The copyright hounds typically go after the ones distributing the content, not the ones consuming it. But that doesn't make it less illegal, just less worth their lawyers time to do something about it. I didn't specify. I apologise. I meant streaming like using stuff like Showbox to watch movies etc.  &gt; as long as it's not actually not  downloading or uploading
+ 
+Doesn’t the buffer of a streaming service do this? As in download/play/delete as it goes? Streaming is uploading. It's illegal. YouTube/Twitch/etc will give you a copyright strike. If you want to stream someone else's content to users you need a license from the rights holder.  
+
+All of those actions (uploading, downloading, and streaming) are potentially a violation of the property rights of someone else.  All of them are potentially actionable by the rights holder.   Peer-to-peer, client/server.. Doesn't matter. It's still distribution. One is not worse than the other. If you do not hold rights to distribute, it's illegal no matter how you spin it.

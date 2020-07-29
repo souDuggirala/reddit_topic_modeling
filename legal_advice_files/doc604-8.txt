@@ -1,0 +1,48 @@
+I am an attorney at a solo firm in California. I am doing my own due diligence on this but, admittedly, I have never been confronted with something like this before. I am posting here to see if anyone has dealt with something similar and found a route that proved effective. At the very least, it looks like a violation of the Computer Fraud &amp; Abuse Act.
+
+Some background: This paralegal has had it out for me from the beginning. She was hired after me and still refused to do work assignments from me. She repeatedly stated she worked for my boss and not me. She frequently talked to herself and stated she would never work for someone so young. Any work she did do for me was a favor and from the kindness of her heart. This was unacceptable and came to a head a couple months ago. My boss essentially told her that she has to accept work from me and not question why I am giving her certain work. After that, I had a feeling she would be gunning for me and stated so to my boss.
+
+Sure enough, office drama ensued last week and resulted in me quitting. I was convinced to come back after the terms of my employment were renegotiated. Paralegal was so angry, I suspect since she orchestrated everything to get me to quit, that she packed up her things and left. We all assumed she quit. Turns out, that was not the case and she is sitting here on Monday. Boss didn't say anything and things carried on as usual.
+
+Between the time that I had quit and been rehired, my phone mysteriously wiped itself. I assumed that it was some automatic update gone wrong. When I went to log back into my work gmail today, I had to recover it. Turns out it was deleted. Strange... When I recover it I find three emails requesting a remote wipe of my personal phone. I was absolutely livid. When my boss came in to check up, I mentioned I had to recover my email account. He stated that he was aware and that someone had taken it upon herself to delete it. I didn't mention the phone wipe since the paralegal was within hearing distance.
+
+I plan on insisting she be fired after she leaves for the day. Then I need to decide how to proceed against her as this absolutely cannot stand.
+
+So lawyers, barred or armchaired, what say you? &gt;I lost memos, text messages, a large number of photographs, videos and who knows what else.
+
+Instead of making it personal, you need to highlight for your boss how this wipe has effected business. Ie, "sorry it's going to take me longer to complete X because I need to restore the information we lost when my email was deleted", "we lost client Y because their faith in our professionalism was tarnished when I had to ask them to resend photos", "we lost appeal Z because we were surprised by detail Blah that was probably in those documents we lost when my email was deleted", etc.
+
+I don't even work in law and I can't imagine my employer deleting my email after I leave, precisely because of this issue. If wiping an employee's email and phone is not actually standard practice when that employee leaves the firm, I am astonished the paralegal hasn't been fired already.
+
+But, key point: stop taking it personally and instead highlight the damage this paralegal is doing *to the firm*.
+
+Edited to add: Just saw that you lost information that was purely personal in nature as well - I am sorry for that, but the demand you want to make here is that you will be totally separating personal from business, ie, if work wants you to have a phone they even have access to wipe, they need to provide you with a work phone (so you can keep your personal phone 100% personal). [deleted] [deleted] [deleted] &gt; What would you recommend I do?
+
+1: Back up anything critical to more than your vanilla g-mail. I'm using paid business solutions and still backup important data in 2 other locations. Because it's important.
+
+2: Have a conversation with all parties involved. A conversation, not an ultimatum. You need to be able to effectively work together, and you each have important skill sets. 
+
+This is a workplace issue, not a legal matter. Just because you're a carpenter doesn't mean you have to solve everything with a bandsaw and nailgun.  [deleted] [deleted] [deleted] &gt; I believe I am justified in mine
+
+You want to cite federal criminal law and file a civil suit because you had to restore your e-mail. Take a breath. 
+
+&gt;  I would rather quit again than have to continue working in an office environment with her.
+
+And that is your choice. I'm pointing out, from an employer POV, the guy who just quit then came back and, after extensive negotiations, is making new demands? That guy starts to become more trouble than they're worth. &gt; Regarding CFAA
+
+The CFAA is so broadly written that looking crosseyed at a computer with malicious intent is practically a violation of the CFAA. It doesn't mean that the US Attorney is going to do anything about anything this minor, especially when there is a potential agency / preauthorization defense. 
+
+Is your firm using a vanilla gmail account or GSuite? If vanilla, are you confident that you're meeting your client confidentially standards with a normal Gmail account? 
+   [deleted] G Suite is a "mobile device management system," as it allows administrators to remotely manage enrolled mobile devices. This is a feature it shares with nearly every enterprise collaboration platform, and in every case _at least_ the domain administrator is advised of this capability. It's generally also part of the information presented when you add a new device, for example by logging into a managed mail account on your phone.
+
+I can't blame you for not reading all the warnings and notices, and if your paralegal enrolled your phone without your permission you might have something there (as they would have had to have gained access to your phone to do so), but if you recovered everything that was in the account and if you didn't lose any other data, I'm _extremely_ skeptical of your ability to pursue civil action over this. INAL but I think it would be your employer that would have to take action against her for exceeding authorized access. You willingly installed something that gave your employer the ability to wipe your phone. Your employer using that function shouldn't be an issue. That paralegal using their employers system without authorization would be an issue but I think your employer would be the wronged party and not you. [deleted] That's my secret. I'm entirely id. Phone wasn't theirs but regardless he did get all of the data back. I think he'll have a hard time convincing the FBI Cyber Crimes Division to investigate this, or any police agency really I feel like some days, you're speaking from my id. 💝 IANAL - if these were company issued phones and email addresses, it is technically theirs to do as they please in terms of deleting. There are likely processes or policies in place about when and how this is done, and I'm guessing she didn't follow these. You're getting in a pissing contest with a paralegal. You should stop that.
+
+No one is getting federal criminal charges for wiping a work e-mail and work phone after an employee quits. And making demands after your drama show is not going to necessarily go the way you want it. NAL, but I work in IT.  The ToS agreement you probably ignored while attaching your corporate GSuite account to your phone almost certainly included a provision allowing for the remote deletion of data on your device.  
+
+That's not to justify her actions if they were done out of spite, but given the benefit of the doubt I can very easily imagine a scenario where a firm would want to wipe a phone belonging to an employee who abruptly quit while in possession of company IP. You recovered everything?  What are your damages?  It sounds like your boss may have ordered her to wipe your data. &gt; At the very least, it looks like a violation of the Computer Fraud &amp; Abuse Act.
+
+How so?
+
+When you enrolled your device in the company's mobile device management system, you almost certainly consented - either through a pop-up on the device, or in writing - to remote wipes and other remote administration within the scope of the MDM enrolment. Wiping the whole device is the normal outcome of a separation. Even in the absence of explicit consent to a remote wipe, you're going to have a very hard time convincing a prosecutor to bring federal charges over this.
+
+The rest of this is a matter of company policy regarding document retention. If the paralegal exceeded their authorization, take it up with their boss. Insisting they be fired may come off a bit strong - I would tend to approach this by describing what _happened_ and asking about the company's policies.
