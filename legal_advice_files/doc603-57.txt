@@ -1,13 +1,3 @@
-I have worked for my employer for over 7 years.  On October 1st of this year I changed my employment status from full time to part time.  Three weeks before the start of my part time status, I signed a form stating that I will not qualify for insurance benefits if I do not maintain full time hours.  This was just fine as I moved onto my husbands insurance.  I filled out and signed the form and my manager was to send this to all the appropriate parties including our HR department.  Since making this change I have not been putting in anywhere close to full time hours.
-
-&amp;#x200B;
-
-Fast forward to yesterday, I was finally given new login information to a website where all of our benefits and payroll information can be found.  I opted out of all of the benefits and submitted.  Out of curiosity I decide to have a look at my paychecks and realize they have still been deducting the insurance benefits that I no longer qualify for.  This totaled up to almost $1,200.  I contacted our HR department and I was informed that they were not told of my full time to part time change.  They would stop further deductions, but I will not be refunded that money because it falls outside of a 30 day refund policy.
-
-&amp;#x200B;
-
-What are my options here?  Am I really boned out of this money because my manager did not forward this to our HR department?  Do I have any recourse?
-
-&amp;#x200B;
-
-&amp;#x200B;
+version https://git-lfs.github.com/spec/v1
+oid sha256:961116eba11fcbe8a2c7fcc0a68df81419ed429aecae6075a43ce1f1acf08611
+size 1404

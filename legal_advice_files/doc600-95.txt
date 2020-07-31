@@ -1,1 +1,3 @@
-I’m a student (customer) of a small private school located in a small business park. Parking is shared but, limited. Store owner in same business park is putting out cones to reserve spots for her customers. Since the parking is shared by all the businesses including my school, can’t she legally not reserve the spots and I have a right to park there? It’s making me late for school almost everyday. The only sign says you can only park here if your business is located here or you will be towed.  Contacting landlord  Okay ya my principle is contacting landlord. Depends on the applicable lease agreement, or OEA.  Contact the people who run the business park, they could've received special permission to do this.  [removed]
+version https://git-lfs.github.com/spec/v1
+oid sha256:081426b8e9015277d5d88f3e84439ea41c29d064b6fe03a0ff4c9be36dc90b45
+size 733

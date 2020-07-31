@@ -1,1 +1,3 @@
-Hello, so my question is this: A mother is receiving back-child-support from an ex-husband, whose kids are now over 18. The amount she gets is between $50-$100 due to the mans job. She and her kids (20, 22) are in low income apartments. Lease came in and rent is at $1k even though only two members of the house are working and only bring in $1.2k combined per paycheck. The reason for the high rent is credited as the child support payments as they are supposed to be getting about $250. IS THIS LEGAL??
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf378c956f8b3da3193cc48be81eea1696efbd7c9c489c5724e7101ea2af5c77
+size 504

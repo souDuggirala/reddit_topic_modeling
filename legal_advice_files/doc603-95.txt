@@ -1,33 +1,3 @@
-For anonymity, I've changed names/city.
-
-&amp;#x200B;
-
-I run a chain of shoe stores in Redditon called "Collie Footwear". We're one of the largest shoe stores in Redditon and it's basically all we do - 90% shoes, 10% accessories.
-
-We are very active in digital marketing and have &gt; 2,000 active keywords in Google Ads.
-
-&amp;#x200B;
-
-One of our competitors is called "The Redditon Shoe Centre" and has registered their name as a trademark. They are actually a lot less focused on shoes than us - it's only about 50% of their business as they offer other products/services which we don't. They don't use Google Ads.
-
-&amp;#x200B;
-
-Anyway, they recently found that searching for "Redditon Shoe Centre" brings up our advert on Google, and our advert text contains "Redditon Shoe Centre".
-
-Remember - this is only one of several thousand adverts we have, with a huge variety of keywords. We absolutely aren't trying to imitate them, and in fact our negative keywords specifically block out the names of most local competitors as we don't want to get confused for them.
-
-&amp;#x200B;
-
-But they took objection to this and hired a trademark lawyer to write to us demanding compensation for several years of lost sales, as well as legal fees.
-
-&amp;#x200B;
-
-Given we are literally a shoe centre in Redditon, I think "Redditon Shoe Centre" is a perfectly reasonable semantic description of our business. We are not THE Redditon Shoe Centre, but we are a Redditon shoe centre.
-
-&amp;#x200B;
-
-They've requested a reply within 10 days... What should we do? I'm more than happy to change the advert text as it's not even a very active keyword, but I'm worried that'll make us look guilty?
-
-&amp;#x200B;
-
-Should we reply? Ignore them and fight it in court if required? Get a lawyer? I'd get an attorney asap that deals with trademark infringement. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:108f21704fdfef656c1b0a5c7201f40ea852d24c6659711612d3b39191ae5112
+size 1837

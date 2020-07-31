@@ -1,9 +1,3 @@
-We’re in the Permian Basin, West Texas
-
-(Throwaway because like hell I want my neighbors having my regular account, on mobile, etc) 
-
-Our community is a planned one, built by a large homebuilder. We have a community pool that was built but the homebuilder’s contractor. The pool and the deck carried a 10 year warranty. The pool contractor went out of business and cannot perform the repairs needed under the pool deck warranty. The homebuilder says they’re not responsible either. Our HOA is looking to have this contracted out again, but the lowest estimate so far is $65,000. Obviously we are not happy about this expensive bill when our deck was to be under warranty. 
-
-Who is responsible for this warranty repair? What should we be doing? 
-
-Thanks in advance!  Thank you for this response! I will find out who has the documents for our common areas and go from there.  This is going to be heavily dependent on the wording of your construction contract. There is no one-size-fits-all answer for you here, unfortunately. The documents might say that the general contractor is giving no warranty, and the only warranty is the one given by the subcontractor, or the documents might say that the general contractor is providing the warranty, and they are trying to escape liability by pushing this off on the subcontractor who is out of business. Or worse, the documents might be very unclear on who exactly is providing the warranty, and the answer would have to be solved in litigation. With the amount of money involved, you really need to hire an attorney who handles construction defects to read the underlying documents.  
+version https://git-lfs.github.com/spec/v1
+oid sha256:a266b22237ed7107283738fe5b45fb4f4fd829b89a6b5463286301b8b79678e9
+size 1634

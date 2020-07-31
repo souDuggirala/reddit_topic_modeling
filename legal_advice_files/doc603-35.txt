@@ -1,27 +1,3 @@
-A couple days before thanksgiving, my roommate shipped some weed from Colorado to a different state. Whenever we track the package, it says “Your package will arrive later than expected, but is still on its way. It is currently in transit to the next facility.” Should we just give up on it? Its about 3 ounces and the buddy is down a substantial amount of money. I feel like we would’ve found out by now if it was seized, and would like to not have to make up that money. The USPS rarely loses packages, so the fact that it contained 3 ounces of weed is most likely connected.
-
-Your roommate should be more concerned about the federal felony he committed then the money for the weed. Was his plan to make an insurance claim on it? &gt; I feel like we would’ve found out by now if it was seized, **and would like to not have to make up that money.**
-
-
-
-
-The least of your worries is the money you're out from sending this package. You need to stop talking about this, and I would also probably stop checking the tracking on the package also.  [removed] &gt; Should we just give up on it?
-
-Yes.  You should also prepare to talk to lawyer if/when you're brought up on federal charges for sending drugs across state lines through the mail. &gt;Should we just give up on it?
-
-Not just give up on it - pray that it is merely lost rather than opened by postal inspectors who are looking for people that ship illegal stuff through USPS.
-
-https://www.leafly.com/news/cannabis-101/mailing-cannabis-through-usps
-
-&gt;The USPS promptly responded while also providing some useful data:
-
-&gt;“The U.S. Postal Inspection Service is committed to eradicating illegal drugs and their proceeds from the U.S. Mail. We pursue traffickers of all forms of illegal narcotics—including marijuana, which remains illegal under the federal Controlled Substances Act and is therefore unmailable. Our prohibited narcotics program focuses on the disruption of organized narcotics-trafficking operations, to help protect employees and customers from the violence related to drug trafficking, and to inhibit the spread of illegal or unmailable substances into neighborhoods across America.”
-
-
-&gt;&gt;Its **about 3 ounces** 
-
-That would be 75+ grams...
-
-&gt;The United States Postal Service are a government agency and therefore subject to federal law. As the USPS is subject to federal guidelines, any illegal use of their services is a felony. Plus, marijuana is still considered to be a Schedule I drug. That means **anything under 50 grams can potentially get you up to five years in a federal penitentiary, and the penalties only increase as the amount grows**.
-
-Stop talking about this with anybody, and if anybody asks either of you questions about the package, retain legal counsel before saying anything at all. They saw it at usps facilities and it probably got stopped because you’re shipping drugs...? 
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9535cfa0958c38ea6ae0d4bb414d6f1956a334adc37d284ebe19b9d07b5a002
+size 2898

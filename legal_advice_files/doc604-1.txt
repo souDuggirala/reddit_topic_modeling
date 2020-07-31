@@ -1,18 +1,3 @@
-So my wife’s boss is forcing all of the employees to go to his house on a Sunday for a party that none of the employees want to attend. He has stated that there will be consequences for those that don’t attend. Is this illegal? Can he do that? He said anyone that does not attend would get a write up and those write ups go on employee records. My wife has spoken with most if not all of the employees and none of them want to go. He is saying there will be bonuses at the end but he has a track record for never coming through on these sorts of things. No one really cares for the bonuses anyway. But I figured I’d come here to find out. We live in Utah. Thanks in advance. 
-Also, he has stated that this is without pay. So forced to attend, without pay. What can she do? Thanks in advance.  Lol you’re probably right. He’s a douche though. Kinda his fault for pushing people away 🤷🏽‍♂️ Not advice, but sounds like he is just lonely.  That's up to her. She's not getting paid _immediately_ either way.
-
-If she goes, she should track her time and include it on her next timesheet or request pay in writing. If her boss reprimands her for doing so, or refuses to pay, she should file a wage claim.
-
-If she stays home and she's fired for it, she should file for unemployment while she looks for another job. Okay gotcha. Thanks for letting me know. What can we do about this though? Just take the write up? Or go without getting paid?  It's legal to write employees up for not doing their jobs, and to change their job descriptions on a dime, for the most part. Truly absurd demands might amount to constructive dismissal, allowing her to collect unemployment even if she quits "voluntarily" in response, and firing someone for refusing to perform unsafe work is one of a number of public policy exceptions, but nothing I can think of would apply here. Thanks a bunch. And she’s hourly. He’s threatening to write any and all employees up if they don’t attend. Is that in itself illegal?  Lol she’s a car wash attendant. That’s the kicker. She’s hourly too.  Is your wife a salaried employee or an hourly employee?
-
-If she's hourly and being forced to attend, then she needs to be paid for that time.  No boss can mandate attendance to a work event unpaid for hourly employees.
-
-In most states, if she's salaried and forced to attend, it can be part of her job duties.
-
-Either way, your wife can bring it up to her boss's boss about the forced party if she wants to try to nix it. As long as she is properly classified as salary exempt she can be forced to attend without additional pay.
-
-What is her job? Is she hourly, or if she's salary, is she non-exempt?
-
-Without a collective bargaining agreement or a binding contract, her job is at-will and her duties are whatever her boss says they are. If she doesn't want to go to the party, she doesn't have to; her boss likely doesn't have to keep employing her.
-
-However, mandatory attendance like this is paid work. If her boss is unwilling to pay, she [can file a wage claim](https://laborcommission.utah.gov/divisions/AntidiscriminationAndLabor/wage_claim_process.html) to recover pay for the time she's working.
+version https://git-lfs.github.com/spec/v1
+oid sha256:031fb7588cdfe8adccf9f5330d3b4f2df2179bc8e961a76f0a895bd68abba737
+size 3194

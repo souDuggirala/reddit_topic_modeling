@@ -1,11 +1,3 @@
-ohio-Just want to confirm: this is considered furnishing alcohol to minors, correct? I am 21 but have some friends who are 20 so I assume by having a party and them showing up it is illegal for me since I am giving them a premise to drink? As the host you could get busted for furnishing. 
-
-Considering that you have a prior citation I would advise that you not invite underagers to your party - however I am neither your mother nor your attorney. I have already had a house party get raided (noise complaint) and I got cited for furnishing alcohol. I wasn't sure if it was because I was under 21 at the time or if I would still get one.  They could be charged with minors in possession. 
-
-&gt;Minors 18 to 21 in Possession of Alcohol Charges in Ohio 
-
-&gt;Ohio Revised Code § 4301.69(E) states that no underage person shall knowingly order, pay for, share the cost of, attempt to purchase, possess, or consume any beer or intoxicating liquor in any public or private place.   Both you and they *could* be cited, even if they have BAC of 0.00.
-
-Realistically if they are not allowed to drink and the police don't have any reason to come (no noise complaints, etc.) then nothing will come of it. &gt; It isn't illegal for minors to be around alcohol.
-
-Generally speaking that is correct. But if police bust up a party with of-age and underage party goers, they will often ticket the underage party goers (even those who are 0.00) with a MIP charge under the theory of "constructive possession." These charges tend to hold up in court. It isn't illegal for minors to be around alcohol. However, if any of them, for any reason, were to have a BAC &gt;0.00 at/after your party you would get hit for it and you could be liable. That said, they would have to do something to warrant them submitting to a PBT or similar, or your party would have to be busted for a noise violation, etc.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a80ca24801244dd2352bb455e30adb581a0fdf7cccbbc87c8f758caf5f38a510
+size 1880

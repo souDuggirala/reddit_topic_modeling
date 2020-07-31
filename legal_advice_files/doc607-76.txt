@@ -1,31 +1,3 @@
-Hello everyone, throwaway account here.
-
-My business partner and I started our LLC just a few years ago. The business never took off and it generates only a small amount of revenue per year. Every year so far we have been keeping track of everything and doing our taxes correctly with an accountant. There is not much investment into this company and it's more of a part time thing. This past year (2018) there was no business activity since the beginning of the year, so to my knowledge, we would be at a small loss at the end of the year due to the monthly expenses that we have and very small revenue that happened at the beginning of the year.
-
-&amp;#x200B;
-
-I found out a week ago that my business partner recently opened up a credit card under the company's ID and has been charging for purchases and equipment for his other company that he partially owns. He is paying off the credit card with his own money which I'm assuming is earned from his other company, but I was never informed he was doing this. I do not condone and I do not agree with any of these actions, and have already started the process to resign and withdraw from the LLC. In my resignation I claimed no knowledge of his activities and am not asking for any compensation for my shares. I just want to cut ties completely. However, I'm not sure what to do about the taxes and K1 I am supposed to file for next year for 2018. At this point I can trust that everything on my side accounting related is clean and reconciled, but I cannot trust that my former business partner will account for every purchase made using his rogue company card, nor can I trust that he or his accountant will be processing any documents at all. What makes it worse is even if i tried to reconcile everything on his rogue card, I'm afraid that would mean that I would have knowledge of what he's doing and that I accept it.
-
-&amp;#x200B;
-
-There's more. Recently he offered me a position at his other company to work under him. His other company deals in legal sales and distribution of a certain "green plant" product. I will say this, that I do not know how legit his other company is in terms of accounting. If I had to assume from what I've seen, I would think that mostly everything accounting is legit, followed by a few things here and there that are in gray territory, such as dealing in cash.
-
- At first I agreed to take this position, but now after learning about all the transactions happening behind my back, I'm not sure if this new position is a good idea at all. I do not want to paint the image that I am in on any scheme he and his other company are currently undergoing and am afraid that if I join in, if anything shady was going on, I would be connected because of my previous connection to him through the LLC.
-
-&amp;#x200B;
-
-Ultimately my former business partner is good person, just overly ambitious, and maybe I'm being paranoid. But I believe the whole ordeal is very risky for me and I have been really stressed the last week thinking over and over what to do.
-
-&amp;#x200B;
-
-tl:dr
-
-Business partner opened credit card under our company name without my knowledge and is making large purchases for his other maybe legit maybe not company. I am resigning and withdrawing, but not sure I should take a job offer from him for his other company (legal sales and distribution of green plant products). Also, not sure how to deal with taxes for 2018 for the LLC I am leaving.
-
-&amp;#x200B;
-
-Thank you for any help!
-
-&amp;#x200B;
-
-&amp;#x200B;
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4e5eb7520a4f0bfa7174f371e16120410d5254f85c38b1615e21323245f0c39
+size 3512

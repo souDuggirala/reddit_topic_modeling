@@ -1,19 +1,3 @@
-California. 
-
-My husband is in custody awaiting trial. His attorney said his case is complicated, so I assume it's going to take a while. Husband wants me to file a power of attorney to file bankruptcy on his behalf. 
-
-Some things about us:
-
--We had two joint checking accounts. He had credit card debts from those two banks. I'm not on his credit cards and I'm not an authorized user. When my husband was arrested, I emptied the bank accounts and put the money in a bank he's not affiliated with. I spoke to a bankruptcy/debt attorney who said that after I move from our house, I should get all mail forwarded to a P.O. Box so creditors can't serve me papers to sue me for their money. He also said that I shouldn't tell creditors that I'm his wife or that he's even married. I've been dodging and blocking calls from unknown numbers. 
-
--We have two minor kids. 
-
--We don't own a house. He had a car in his name that I returned. The loan and title were in his name only. I have my own car that is paid off and is in my name only. I sold/gave away all of our furniture and expensive stuff. We don't have anything expensive worth seizing. I just have a car that's worth less than $1,500 because it's an old beat up piece of shit, cheap clothes, a cheap cell phone, a cheap laptop, and a cheap bed.
-
-Would filing for power of attorney help me or harm me?
-
-If POA is recommended, is there anything I should add regarding our kids?
-
-What kind of attorney would I even need to consult with?
-
-Is there anything I should consider that I haven't thought to consider? [deleted] [deleted] I wonder how OPs husband is gonna pay for their lawyer... A POA is just your husband giving you permission to handle his affairs, it doesn't reveal your relationship to him. It might reveal a name to creditors in that POAs sometimes are filed in courthouses, but since your husband has no property, it's doubtful debt collectors would look there.  Any general practice attorney can do a POA, his criminal defense attorney might do them considering they deal with prisoners all the time. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4768962d2bd16bd4fd74fc545fcb52fbe7d8a8fa07fca7e7d3ccaf600c3d1e2
+size 2066

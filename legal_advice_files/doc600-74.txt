@@ -1,4 +1,3 @@
-So I bought a computer from Fierce PC 15 months ago and after already sending the computer back (at my own expense may I add) due to the graphics card being broken because it was fitted incorrectly by their team, the computer has now for the second time got to the point where it is unusable. Am I entitled to a refund as  clearly this product is faulty as it has had two major issues in just over a year?
-I have queried about receiving a possible refund however they have just said 'send us back the computer and we will replace and repair any parts but it will be at your cost as it is out of the 1 year warranty' First off, I contacted them about the issue before the warranty had expired so I shouldnt have to pay for repairs right? And secondly, I am extremely reluctant to send it back as after the first time I sent it back it then developed further issues around 3 months later. Am I entitled to a refund?
-
-From UK BTW (if that makes a difference)  OK, will repost there. Thx  /r/LegalAdviceUK would be a better resource for you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0c3c331d9abeae4472929e31cc21c1a19f6a9a866ccb3e41c6cb0e691ccd115
+size 1037

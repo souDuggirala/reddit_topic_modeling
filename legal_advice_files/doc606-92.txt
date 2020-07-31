@@ -1,3 +1,3 @@
- I checked my bank balance and it was lower than it should have been. I then checked my statement and saw there were purchases i never made. I then called my bank and filed a fraud claim. recently i found out that it was my ex, who made those purchases. I dont know what to do now because even though she spent my money i dont want her to go to jail. Im pretty sure she would be easy to track down because the purchases she made were online so she would have put her home address in.  No legal question asked. Removed.  &gt;  I dont know what to do now because even though she spent my money i dont want her to go to jail.
-
-Then drop the fraud claim if you can. You don't get your money back AND not hold her accountable.   But it may be too late. She did in fact commit a crime. Is she allowed access to the account?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fe5bd21dc8e8bb1e6e22f767fc1b39c46833939efa04318afa6526709ac9e09
+size 817

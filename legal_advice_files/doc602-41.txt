@@ -1,5 +1,3 @@
- Yes, if she was overpaid, and repaid, she would only owe tax on the money received after re-paying. Former employer should be able to adjust the W2, but your friend should also make an accounting of her actual paid wages (after reimbursement).  Arent there tax ramifications as well?   If she was overpaid, she owes the money back.  She should check the paperwork / contracts / paystubs /etc...  to verify this.
-
-If she was not overpaid, she needs to send email back indicating this with supporting documentation. In the US, if your sister was truly overpaid, she should make arrangements to pay back that money which are mutually agreeable between her and the employer.  
-
-Obviously she should validate that she was in fact overpaid. She can ask for proof of the overpayment and see if they will set up a payment plan.  [removed]
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2cc8b344262b169752c0688ab73c1d52af6bb4e252aacfe49a9fd4519d484ad
+size 831

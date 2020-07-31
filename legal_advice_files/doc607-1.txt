@@ -1,3 +1,3 @@
-First off, this is entirely hypothetical.  Its for my creative writing class, I just perfer fiction to be somewhat grounded in reality.  
-
-Lets say that a person is bullied relentlessly for a long period of time.  They attempt, or succeed, to commit suicude.  Is there any legal recourse that the bully, or bullies could face? [removed]
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe9ffe304769e715cd803b11a6259cdcd2e2a0acdb5aa67990b77830ae13d668
+size 336

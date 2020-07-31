@@ -1,7 +1,3 @@
-Hi all,
-
-&amp;#x200B;
-
-Last year I bought a new car in cash from a local dealer. After the car was recently broken into and the title missing (yeah I know... I'm a complete moron for having that in the car) I went to the DMV to get a duplicate title and invalidate the first one. Upon patiently waiting at the DMV for hours in Los Angeles (fun!), I was told that I couldn't duplicate the title because I was not the legal owner of the car. Apparently in their system it was designated as being under the ownership of BOA, the lienholder. I did not finance the car and never once spoke to BOA about arranging financing. You cannot make any changes without the permission of the owner, and of course the DMV is not very flexible under unique circumstances.
-
-Of course I immediately reached out to BOA. They had no record of the vehicle or knowledge or their legal ownership. The dealership claimed responsibility for the error as they described it to have been a clerical error in their delivery of the paperwork. Yeah, I'm just as confused as you are.  They said they'd get it sorted out and send me a new title, however it's been weeks and I haven't gotten a new title. I got sent a new registration that still did not designate me as owner. I owe fees for the transfer on this registration apparently, however. What should I do to make sure the dealership handles this properly and stops dragging their feet?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef09dee5605b7ddc92d4120ee4042dc7175bfc48cd66bfdc2be9058598cb9374
+size 1409

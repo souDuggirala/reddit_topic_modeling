@@ -1,15 +1,3 @@
-Hi legaladvice,
-
-&amp;#x200B;
-
-Yesterday evening I was in my apartment complex elevator, and heard another person walking toward it. I figure I would hold the door for them as a neighborly thing to do. As the door was closing I stuck my arm/wrist out to break the sensor. For some reason the sensor did not trigger and the door didnt retreat. My arm was pinned against the doorway and I was scared shitless I was going to loose it. I tried to pry the door open while yanking it out to avoid losing it which worked but I suspect further injured it.
-
-&amp;#x200B;
-
-I noticed that the permit is also expired.
-
-&amp;#x200B;
-
-What is the advised course of action to deal with this whole situation? My apartment complex has done zero for me in resolving other issues. I like the pool noodle idea lol Please don’t put your arm, or a friends arm, in the door to test the sensor. If anything use a pool noodle, or a stuffed animal, or similar.  NAL but a personal injury paralegal. Take photos of your injuries, lots of them. Take pics of the elevator, take a video, have a friend show the sensor doesn’t work (hopefully they can ninja out quicker than you did). I would send all this to management and if they don’t do anything see an atty.  If you have any injuries as a result of this which cause you medical bills or loss of income, you may cause for action against your landlord.  You would need to speak with an attorney familiar with the laws in your area, and familiar with landlord - tenant matters to get a better assessment.  
-You should document the expired permit immediately for your records.  This *could* be evidence of negligence on the part of the landlord.  
-You should also report the landlord to whomever the government agency that issues the permit might be in your jurisdiction.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3be07b64eb4ead06f503a0ba959de177e93082755142e230f90b3c3379dcf78
+size 1798

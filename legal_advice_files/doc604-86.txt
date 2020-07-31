@@ -1,22 +1,3 @@
-My last job had a lot of questionable practices. One of the ones that annoyed me the most was I would repeatedly be forced to cover losses from the cash register even if I hadn't made the mistake.
-
-Multiple people would ring up from the same register. If the register was more than $5 short, all the employees using the register were required to give money to make up for it. If the register was over, we were not reimbursed. I am good with numbers, and at past jobs they would remark how my drawer was always accurate to the cent. I was frequently forced to share a draw with a kid that wasn't great with numbers. I asked to have the drawer sessions split up, and I was refused. Once someone I was sharing the drawer with even figured out her mistake, but I was still forced to pay a portion.
-
-I live in Michigan. It's not uncommon either way. Depends on the corporate environment. Smaller establishments tend to do things a little more free, while bigger corporations follow a "book".  That's BS. I know a lot of restaurants do that, but that needs to change. Servers are in and out of the back, it's unreasonable to think they can monitor all their customers at every moment. I think that's sort of stupid.
-At an old job I had, once it looked like money was missing from my drawer, and they had a policy that if it was over a certain amount, the employee had to fired. I offered to pay it, and they said I wasn't allowed to. It all worked out, as they realized the money was actually all there, but I wonder why they said that. It must've been company policy if it wasn't the law. Urgh, I think it was listed in the rules I signed when I started working there.  Something like "shortages will be required to be paid by employees." I didn't realize I'd be sharing a drawer with others though.
-I still find that incredibly unfair, especially because overages were not dispersed to us. Back when I was a server, I had people walk out on a $100+ bill, so my manager told me I either need to make up the loss by paying for it myself or signing a waiver that says I agree to get written up for allowing them to walk out. Both were complete bull shit, and for all I know, I was signing something I shouldn't have. I was 19 and stupid and didnt read it thoroughly, but there was no way in hell I was going to pay the money.  In short, no, they cannot force you.
-
-They do not have to continue to employ you either.  Not a Lawyer. Normally, they cannot force you, but they can ask and you can say yes. Michigan actually is better on this than most states - they also can't threaten to fire you if you don't (it looks like they can totally still fire you if you don't, but they can't threaten to fire you). See here:
-
-https://www.michigan.gov/lara/0,4601,7-154-59886_76527-180810--,00.html
-
-&gt; My cash drawer came up short, my supervisor makes me pay for it, is this legal?
-&gt; 
-&gt; 
-Agency: Licensing and Regulatory Affairs
-&gt; 
-&gt; Public Act 390 of 1978, in section 7(1) states; ". . . an employer shall not deduct from the wages of an employee, directly or indirectly, any amount . . . without the full, free, and written consent of the employee, obtained without intimidation or fear of discharge for refusal to permit the deduction."
-&gt; 
-&gt; and section 7(2) states; ". . . a deduction for the benefit of the employer requires written consent from the employee for each wage payment subject to the deduction, and the cumulative amount of the deductions shall not reduce the gross wages paid to a rate less than minimum rate as defined in the minimum wage law of 1964, Act No. 154 of the Public Acts of 1964, being sections 408.381 to 408.398 of the Michigan Compiled Laws. . ."
-&gt; 
-&gt; An employee that believes his or her employer has violated Act 390 may file a written complaint with the department within 12 months after the alleged violation occurs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38cfc93f0f01b21b5f30b923c9f56b9ff92e7dbb31489a4257347bb91d89018f
+size 3864

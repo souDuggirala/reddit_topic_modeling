@@ -1,31 +1,3 @@
-This is a throw-away obviously. Tried to make the details in here as anonymous as possible.
-
-A bit of backstory my moms ex husband who she has a child with left her after cheating on her. He just came home one day, and when she offered him dinner he told her he was leaving her for another woman. Since he left things have been much better around the house(he was an asshole to me and my brother), and she has everyone telling her they never understood why she was with him to begin with, and she is doing very well now. Now the child they share still wants to have a relationship with his father and my mother goes out of her way to make sure he can. This is where the issue arises. For some reason the EH cant seem to get it through his skull that he doesn't live here anymore and cant just waltz into our house without permission when he is dropping off/picking up his child. 
-
-We try and catch him at the door so we can stop him when we know he is going to be doing this but if we don't he will come right on inside. If he is supposed to be dropping off the kid he will come in and stay there sometimes for hours instead of just doing the drop off and leaving like my mom told him to do. For example, she was at work and told him to come drop the kid off for me to watch him until she got home when he was ready too. If he is picking the kid up off the bus after school for them to spend some time together he will drive from the bus stop down to the house and come inside unnecessarily. He has never once knocked on the door or asked permission to enter unless the door was dead-bolted. He just walks up and opens the door like he still lives here.
-
-I want to know what we can do to make it so its clear he shouldn't be coming inside like this uninvited; as it makes us all uncomfortable. Do we need to make sure we have a record of telling him not to do this in case he does it again, and what do we do if he does it after we do this? As he didn't seem to care when my mom implied he shouldn't be sticking around before. Also since people might be interested to know his name was removed from the deed. After multiple incidents yes. But on the first interaction with LE he would only get a warning unless he did something really stupid.  No state attorney would bring charges for a first offense of this exact nature as OP described.  A warning? This is domestic violence. He could potentially be arrested and charged. If you have someone entering your home unwanted and without legal rights , as well refusing to leave when asked this is a sufficient reason to call non-emergency for an officers assistance to give him a warning. the divorce agreement is settled and his name is off the deed and everything else This is good advice if they are divorced by the court with a spelled out custody order, and all marital assets and debts have been separated.  OP, you say Ex-husband, has all this been finalized by the court?  If his name is still on the mortgage and they are still legally married although separated it gets tricky.   If yes everything is final then there is no reason to keep doors unlocked for this reason, demand he call your MOM or text you and your brother when he is on his way. thanks this is very helpful  IANAL but I am a cop and have seen this before.
-
-This is a power play, and it's reasonably common with ex-partners trying to exert control over a former spouse. A few things need to happen.
-
-For starters, your mother needs to change the locks, or get a night lock installed on the front door (deadbolt on outside, latch on inside). You then need to start using them.
-
-You said in a reply there's no doorbell and knocking can't always be heard. Get a doorbell, pronto.
-
-If it hasn't happened already your mother needs to have a frank and firm conversation with her ex. This removes not just ambiguity, but more importantly lays boundaries for the new ex relationship moving forward.
-
-*"Oh hey Bob I really wish you wouldn't just walk in"* is not a frank and firm conversation.
-
-*"Bob this is my house, not yours, do not just walk in"* in a firm voice is better.
-
-From herein it becomes clear any further walking into the house is trespassing.
-
-If it continues your mother can consider a domestic violence restraining order.
-
-Hope that helps. I can only repeat to make sure he knows he isn’t welcome, and call the police if he doesn’t leave. Are you an adult? i dont know what squirrelly  means but we do tell him to leave he just keeps coming inside again each time. we arent always here to tell him to leave either like my mom was at work and i woke up to find him in the house.   if he is dropping off his kid the door has to be unlocked so the kid can come inside which is the issue. we dont have a working doorbell and knocking wont always be heard right away and we arent always sure what time he will show up so its either wait around at the door all day, risk him waltzing inside, or risk the kid being stuck outside in the cold for a few minutes.  So she (or you) needs to tell him to leave after the child has been received. This isn’t difficult. You guys sound like you’re being really squirrelly. well she told him to drop off the kid and leave them with me until she got home. he took that as an invitation to stay in the house for a couple hours for some reason. and if he is dropping off his kid the door has to be unlocked so the kid can come inside which is the issue. we dont have a working doorbell and knocking wont always be heard right away and we arent always sure what time he will show up so its either wait around at the door all day, risk him waltzing inside, or risk the kid being stuck outside in the cold for a few minutes. Oh, she should lock the door then.  He doesn't have a key we just usually have the front door unlocked when someone is home. She doesnt understand why he keeps coming inside either but i dont think she knows what to do about it which is why i made this post so i can bring her the responses.  Why did your mom “imply he shouldn’t be sticking around” ? She (or you, if you are in a position to do so) needs to *tell* him, in no uncertain terms, to knock it the fridge off. 
-
-&gt;He has never once knocked on the door or asked permission to enter unless the door was dead-bolted.
-
- You guys need to lock your door *always* if unwanted guests have a tendency to waltz in uninvited. After telling him not to enter the home, call the cops the next time he does so and every time after. Change the locks?
-
-What does your mother say? 
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b3f0a34bcb2642c6bee4df293aa3bb43e630ba20f8bf6184e4530e49b3c8347
+size 6527

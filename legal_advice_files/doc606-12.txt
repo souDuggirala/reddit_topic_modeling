@@ -1,7 +1,3 @@
-Employer went into my locker at work with some personal belongings in it. They then discarded and redistributed my personal item (of no real value) to coworkers. I feel violated and do not feel safe with personal belongings at work. What are my rights? Might've been the last company I worked for then. Because policy was they needed suspicion of ill intent to search an employees belongings/locker, and employee needed to be present. Why would they need that?  It's their locker.  They just let you use it.
-
-At the same time they aren't allowed to just dispose of/give away your stuff, so as he said you can sue for the value of the items lost.  If that is worth it depends on what they were. Despite not having a reason to suspect any ill intention? Did you purchase and install the locker? 
-
-No? Then it was their locker. You have no rights to privacy within their locker. 
-
-You could sue them for the value of the items they took though.
+version https://git-lfs.github.com/spec/v1
+oid sha256:200f9729f191ea0627ce2619253012c0ec1470defccc5b4af54f017056b6464b
+size 941

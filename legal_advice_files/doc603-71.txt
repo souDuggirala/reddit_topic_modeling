@@ -1,2 +1,3 @@
-Me and my friend were talking and we thought of this hypothetical situation, and wanted to know if something like this happened could i sue them? [deleted] [deleted] r/legaladviceofftopic is better suited for hypothetical questions. r/legaladvice is for real legal questions. 
- You would have to prove ownership of the PC parts by proving you earned the money to purchase them and receipts proving you bought them.  Then you may have legal standing to either have them arrested for vandalism, or sue them civilly for damaging your property. Laws vary from state to state and country to country. What if you paid for them yourself from a job? [deleted]
+version https://git-lfs.github.com/spec/v1
+oid sha256:18a38994d2351cbb92106232dc4fefb56324b07e02ecbe0c66b8fd5227591158
+size 651

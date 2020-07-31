@@ -1,1 +1,3 @@
-quick update for anyone interested. i was silly to worry obviously. it was definitely a scam. thanks for all the advice. we got a knock on the door this morning. it was the lady and she was sporting some crutches. apparently my shoveled path works now. she asked if we were going to pay her. i told her no we would wait for an official letter from her lawyer and let the courts handle it. she tried to argue saying it would be easier to just write her a check or venmo it to her. still told her no. so she asked for "whatever was in my wallet" to make her go away. i laughed my husband laughed we threatened to call the cops. she decided to leave. my husband is going to down to the police station right now to report this situation. we expect anything to come of it but just in case she decides to do this again have a heads up. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:d094872bbccbf30977221d427044cd1437fbc0d59ebdf8fa4464d08af7fcdee8
+size 830

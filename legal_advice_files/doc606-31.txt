@@ -1,5 +1,3 @@
-I've had school zone cameras trigger unfairly before, and have looked into all the info online about if it's possible to get out of those, or ignore if you are from out of state. The answer is no. You cannot get out of them unless you weren't the driver because your car was reported stolen or officially registered as a rental. 
-
-And you can't ignore out of state because collections will have your info and ruin your credit score and such. 
-
-Does the same apply for a parking violation? I don't see my VIN number written on this citation, and I'm not sure if the laws are different surrounding it. Basically, I am not the current registered owner of the car and I'm wondering if when I file the official transfer of ownership in a Louisiana DMV office, and get a new license plate, if they will not be able to collect on this if the license plate doesn't exist anymore? 
+version https://git-lfs.github.com/spec/v1
+oid sha256:77948c0bbf1149e2c5a6ec2ea92bbcc28ae7d8d21f2ab4b0898586a3fdacac00
+size 872

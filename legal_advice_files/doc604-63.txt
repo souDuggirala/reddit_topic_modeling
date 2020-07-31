@@ -1,3 +1,3 @@
-Hey all, earlier this morning, I was entering the parking lot of my workplace, when I accidentally hit the parking lot automatic gate arm and broke it. Immediately after I parked the car, I went to the front desk and reported it, ended up calling the people in charge of the parking lot. I specifically told them that I had broken it and that I would pay for it, but they didn't ask for any identifying information, just asked for the address of the parking lot so they could send out someone to repair it. Is this enough to ensure that I don't get criminal charges for property damage? Criminal charges would generally require intent, and this was a simple accident.
-
-The insurance companies should be able to handle all of this, sans law enforcement involvement. You're likely not going to get criminal charges here, you've done all you needed too up until this point. You can go through your auto insurance if you think the amount they're charging is too much for you to take care of personally. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:138fb6a4f7800e83eb764accc42d40ef3cf71573c35e3ebcbc7b5f2238e0d7cc
+size 999

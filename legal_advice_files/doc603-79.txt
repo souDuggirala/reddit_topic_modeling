@@ -1,17 +1,3 @@
-Hello everyone. 
-
-Two weeks ago I made a cross country roadtrip from Indiana, where I live, to Texas to visit my girlfriend who is currently stationed there for military training. On the way back home I was pulled over in Oklahoma at about 1am in what was quite frankly a speed trap - the town in question had extremely confusing arrangements of varying speed limit signs.
-
-The officer informed me I was going 49 in a 35 - I was confused as the speed limit ranged from 35 to 54 throughout the mile stretch of road. He asked what I was doing so far from home and I elaborated. He ran my license and plates and promptly informed me he was writing me a ticket for speeding.
-
-Here's where it gets weird. He returned for about 10 minutes to his vehicle and then walked to my rear and seemed to inspect my plates, returned to his vehicle again, and then returned a few minutes later to my window. He informed me someone from his dispatch was telling him my plates were expired. I pointed out on the registration that it stated my plates were in order - which he refuted as saying his dispatch was finding them to be expired. After a brief period of debate he informed me he had no choice but to write me a second ticket - one which he assured me I could have waived if I visited my local BMV and had them fax the county clerk proof of my registration being in order at the time of the ticket. Aggravated but attempting to get back to my long drive home, I agreed. 
-
-After a very busy week last week, I went into the BMV and explained the situation to the employee who was confused, and then to her supervisor who informed me that she hadn't encountered such a situation before but to contact another central office to get a history of registration form. 
-They even pointed out the officer acknowledged my registration on the speeding ticket to me.
-
-Feeling apprehensive, I finally called the OK clerk's office in question to follow up about what form I needed to submit as proof. The woman on the phone transferred me to the county clerk.
-
-Immediately the clerk was very curt and lacking in any veil of politeness as she answered. I started to try to explain and by the time I tried to explain the second ticket she cut me off very rudely and informed me she could not reduce fines in any way. I attempted to explain, still politely, what the officer had told me, and again she interrupted, taking a tone with me as if I had intentionally run over one of her animals (and probably would accidentally in the nonsense of speed limits her town purports to refer to as safe) l then asked if what the officer told me was a lie, to which she pretty much started shouting at me and I finally lost my cool, told her in less than civil words what she could do to herself, and hung up.
-
-So now I am saddled with two tickets $170 each and no idea how to fix the situation. I am a broke college student and honestly have no idea how I might pay for this literal highway robbery in two weeks before they suspend my license. Any advice is appreciated, thanks. Try the district attorney office of the county listed on your citation. Be prepared to explain this concisely. Most of your details do not matter and you don’t need to explain a speeding ticket to them.  What city or town were you in?
-I'm straight up just going to tell you that if it was Hulbert you're fucked though....
+version https://git-lfs.github.com/spec/v1
+oid sha256:41b046fd54fbbc78ef7ed8122f645191ee9ae976a2f687d67e35479d8f19c713
+size 3363

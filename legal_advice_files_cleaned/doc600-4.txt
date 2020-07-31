@@ -1,1 +1,3 @@
-my brother moved in with me and my gf about 5 months ago he rents a room in our apt. he has been late every month and locks himself in the room and ignores us whenever he is home.this makes talking to him about any issues impossible. he needs to move out but i'm not sure how to evict him.hes not on the lease.he will not be amicable and find his own place unless i force him to leave.this is causing a lot of problems between me and my girlfriend. any information would be appreciated on how to move forward. he a subtenant of the individual listed on the lease. they will have to follow the legal eviction process as prescribed by state law to remove him. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:87aee72ad16ab23109cb9bd4fa135afacae15b917194716ff3edc03178a52245
+size 658

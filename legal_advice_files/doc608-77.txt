@@ -1,13 +1,3 @@
-My wife and I purchased a new construction home in July of this year. Since moving in we have had a heap of problems from flooring, shutters, counter tops, foundation issues, ventilation issue the builders are fixing the issues very very slowly and doing a pretty lackluster job.
-
-The latest event has been a foul smell coming from under our kitchen sink since we have moved in and they have just now got around to checking it out. Long story short they cut a softball size hole in the bottom of our kitchen cabinets and discovered wet mold. 
-
-They have since cut a small section of the bottom of the cabinet out and said the mold is taken care of, the foul smell is still there and just as strong and we still have a hole in the bottom of the cabinet. The next step they said they are going to do is just patch the hole on the bottom of the cabinet by reskinning it with wood.
-
-They never  for the cause of the moisture and the smell is still there, is there anything I can do if they cut up my new cabinets and theres sign of mold can I request them to be replaced with a new set? And fix what cause the moisture.
-
-Thanks Hi please look up SB800. It is California’s right to repair law. Says you have to give the GC a specific complaint, allow him a set amount of time to repair, and then you may proceed with a lawsuit. If this is a big builder, there is probably a class action case you can jump on to. 
-
-If they get an sb800 complain, they’ll spring to action bc it goes beyond their typical customer service team into the risk management team. 
-
-Which builder is it? Make sure you put their insurance on notice.  Because it's a new construction home, you'd be covered by California's construction defect law.  There's specific procedures you'd need to follow to pursue a claim which would be laid out in the paperwork you signed when you purchased the house.  The problems you're facing should be covered by the legally-mandated warranties that the construction defect law requires, but you should contact a real estate attorney who can better advise you on the specifics of your issue. They just put bleach on the mold, which isn’t the right way to fix it. Document all the issues because after the warranty is up they will say “warranty is up” and you will need to prove it was pre-existing. Also go to the building department and make sure they got all the inspections they were supposed to. Kind of hard to believe that much would go wrong if it was all inspected. They may have missed or skipped some inspections and you can go from there.
+version https://git-lfs.github.com/spec/v1
+oid sha256:130dec46550ec5b553d164c9c4554331af380ff91f42dc1198d83f42d0758b6e
+size 2560

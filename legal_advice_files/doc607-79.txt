@@ -1,15 +1,3 @@
-I left my former company in July, and I’ve been contracting/consulting for a new company since October. When I left my former company, I signed a non-solicitation agreement that requires me to “refrain from soliciting employees of the Company to leave the Company and retain employment elsewhere for a period of one year.”
-
-About a month ago, the new company for which I consult/contract began recruiting employees from my old company. I wasn’t involved in the outreach or recruitment, but those employees did call me and ask me for info about the new company and its CEO. I answered those questions, but no more. I also didn’t give the new company the names of any people to contact- he got that information elsewhere. 
-
-All that said, the new company may try to sue me for breach of the non-solicitation agreement. Thoughts or advice? I’m in Nevada. 
-
- The new company knew about my NSA, and decided to recruit anyway. I didn’t even know who they recruited until those people contacted me and said, “hey, so-and-so just gave me an offer. Can we chat briefly?” It sounds like my mistake was having that chat, even though I wasn’t inducing them to join. 
-
-It’s great to have a different perspective here. Another one I received stated that I would likely be OK because the candidates approached me first and I was completely unaware of their recruitment by the new company. I hope this perspective is more in line with Nevada’s NSA interpretation (which is similar to California’s), but I will definitely retain a lawyer should I receive a C&amp;D or worse.  [removed] It sounds like you assisted in the solicitation by providing information to the employees during the hiring process. You need to immediately share the letter with your new employer. They will decide whether they want to hire a lawyer to defend you, or if they don’t, you will have to hire one yourself. Ordinarily an employer wouldn’t step in, but your former employer may very well try to bring your current employer in as a knowing participant in violating your agreement, so it may very well be in their interest to defend you. 
-
-You need to talk to your employer and then to an employment law attorney. 
-
-Of course, this all presupposes that you told your current employer about your nonsolicitation agreement. If you did NOT, then ignore the above and talk to an employment lawyer first (ASAP) before you talk to your employer. 
-
-Edit: I misread your OP - it sounded like you had already gotten a letter from your original employer. Even if you just have nebulous fears the above advice (both parts) still applies. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:fec314a249e96931271e85a2386293c2142dc850529344d9a12a0d36c3be460e
+size 2619

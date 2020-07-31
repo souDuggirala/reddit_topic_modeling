@@ -1,9 +1,3 @@
-I live in Maryland, I own some land in West Virginia. I have a shed structure on my land that I wanted to get a power service ran to. So I got ahold of Potomac Edison, the power service provider in Hampshire county.  I was told because it is not a permanent structure, that I would need to have a meter pole installed. He told me that it needed to be such and such feet tall and so far away and blah blah blah. I had no idea what he was taking about so I looked online and found an Electrician that is based out of Virginia but serviced my area. 
-
-We exchange emails back and forth and he says he can do what I need. I give him $700 down payment via check and I give him the name and number of the guy that I talked to at Potomac Edison.  He never calls him. The electrician goes out and installs a meter pole and has an inspection agency come and inspect it and it gets the NEC inspection approval. And all was well. He sends me his invoice and I send him another $900 check. 
-
-Potomac Edison goes out to run the service and they refuse because the pole is not tall enough. I contact the electrician and he sends me a few nasty emails back saying that his work is done and it is up to code and the electric company is making up there own rules. 
-
-He quit answering my emails and phone calls and I’m stuck with a $1600 pole in the ground that is too short for the electric company to let me use. 
-
-What are my options here? Get the position of the electrical company in an email and ask them to reference where the code is in the code book. If they are correct, forward this email to the electrician that did the work and prove it is not up to code. Tell him to come fix his work or you will see him in small claims court. If the electrical company can’t reference the code then ask them why they can’t proceed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5b17d1de3f63a85a7a323017d5fa91d7f0a0f369829436f6d4a7da739d52d31
+size 1817

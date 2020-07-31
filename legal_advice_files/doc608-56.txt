@@ -1,3 +1,3 @@
-So this is a company in NY that says you NEED to use their payroll card at least for the first 30 days. I believe according to federal law and some state law that is illegal? Furthermore I never setup the account and yesterday they started putting money into it anyways without my consent. Is that even legal? What should I do.
-
-https://www.consumerfinance.gov/about-us/newsroom/cfpb-bulletin-warns-employers-against-exclusive-use-of-payroll-cards/
+version https://git-lfs.github.com/spec/v1
+oid sha256:087950eb4a4fb672916a79acbd83d0b5cafb452ecda9821b09cace3911ccb104
+size 448

@@ -1,9 +1,3 @@
-I'll keep non-specifics out simply for anonymity. Regardless, we are both engineers. My wife works for a company that makes the same class of product as the employer I am interviewing with next week. The position I am interviewing for and my spouses position are not in direct competition (aka our roles within our respective employers would be quite dissimilar). Is there anything I should disclose during or after the interview? Should/how my wife inform her employer if I take steps to accept the position?  You don't have to talk about anything in "small talk" you don't want to. Simply don't discuss your wife's job at work with anybody.   Bringing it up beforehand is inviting them to blow you off. I assume your wife is subject to a non disclosure agreement with her employer and potentially has agreed that her work product is their intellectual property. You'll be hired, if you are, under similar terms. You're both ethical people, so there's no reason for anyone to think one of you is sleeping with the enemy, even though you work for competing firms.
-
-If anyone does confront either of you about it, the right tone for your response would be mild indignation that anyone would insinuate either of you would be engaged in corporate espionage when your work and your record speak for themselves. If i accept the position surely my wife's profession would come up in small talk. Same on her end. I feel disclosure would prevent inadvertent conflict right?  &gt; Is there anything I should disclose during or after the interview?
-
-No
-
-&gt;  Should/how my wife inform her employer if I take steps to accept the position?
-
-No
+version https://git-lfs.github.com/spec/v1
+oid sha256:5be69d20b2645f3032d6c4f42ca9d15354387eca7d0f88d4579b5f3d63e94b6f
+size 1632

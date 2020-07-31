@@ -1,1 +1,3 @@
-i know it a bad idea to represent myself but financially i have much choice. the other person has a lawyer of their own and like to find resources or youtube videos so i at least make a fool of myself. thanks guys. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1281f5476d9780da6ad0939934ec513b6f48318bcaad32bb00bbb43c79247ab
+size 215

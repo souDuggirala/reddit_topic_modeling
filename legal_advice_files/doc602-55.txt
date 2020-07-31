@@ -1,9 +1,3 @@
-Recently moved into a new rental house with a backyard. During the application process we are told via email that there will be pet rent of 50 per pet. (Total of 100$ , one cat one dog)
-We filled out an addition to the application complete with photos of animals and county licenses numbers (county liscense also covers rabies vacc proof). 
-
-Its a property management company and the "leasing agent" displayed a bunch of incompetence and weird salesmeny obvious lying  about other things.   With regards to the actual signed lease there is a section about what breeds of dogs are not allowed, BUT there is NO mention of any monthly pet rent or pet deposit.  
-
-The prop mgmgt company uses an online leger for rent payment and is charging the pet rent at 100$ / month. Can i get out of paying it? 
-
- If you knew, you should probably pay, rather than trying to sneak out of it.  In the end, they do not need to renew your lease after this one runs out and can tell reference callers that you tried to get squirrely on pet rent.  Good luck getting a lease in a decent place with a bad landlord reference. Does the lease say anything about pets being subject to landlord approval? We did know about it. The leasing agent failed to include it in the 7 page lease that we signed.   
-It seems like the lease is actual legal contract that we agree to. Isn't  that the point? Did you agree to pay this when you submitted the pet application?  If the matter ended up in court could you truthfully testify you did not know about this?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8bdc13985b5cca4e216bbc40b3f85517454f6bbb752f66091bbdda9fde4fcc2
+size 1522

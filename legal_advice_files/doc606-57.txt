@@ -1,7 +1,3 @@
-Hello legaladvice,
-
-Our apartment has laundry rooms, maintained and operated by a laundry service. Washer and driers are all $1.75 each per use. But when I check my credit card bill, I see $8. Even when I use the washer twice and the drier once, I get billed $8 instead of $5.25. Sometimes when I call and complain, they send a cheque for the remaining money, but I don't know how many people in the apartment call and complain. This looks like daylight robbery. It looks like like they fix it when they get caught. How do I make them pay for their deeds ? I'm in CA.
-
-&amp;#x200B;
-
-&amp;#x200B;
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb6efc3d53f218ebe2d0ae2d570ae5a59aa04c2877df8cb19d2f9f4ec38a34d8
+size 595

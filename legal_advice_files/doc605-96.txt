@@ -1,36 +1,3 @@
-On mobile!
-
-Disclaimer: I wasn’t there today, but I’m worried about the repercussions because we’ve only been open 5 months.
-
-We have a special for bloody mary’s and mimosas on Sundays, so this table was having a ball drinking away out on the patio. All was good, they weren’t showing signs of being intoxicated and were with their kid. 
-
-A loud noise occurred and the window shattered. Everyone assumed a chair fell and that’s what caused it, but upon investigating they found a bullet lodged in the window. 
-
-So the story: This family is drinking, a mother, father, and a younger kid. The father, having consumed alcohol, also had a gun on him. He accidentally fired and ALMOST HIT HIS KID. The bullet missed the kid and lodged itself into the window. These windows are garage doors that open up but with the weather being colder they were closed. 
-
-The couple had already paid and up and left before the cops could arrive. We have their names from the cards and their license plate so they’re going to be caught undoubtably. 
-
-My question: Will we lose our liquor license if it’s found out that they drank too much? I don’t know that they did, but I’m worried about the fact that they were drinking in the first place. Will the server that was taking care of them be in legal trouble? This is all so messy and crazy that it happened to my coworkers. 
-
-Thanks for the help and PLEASE don’t carry a weapon if you plan on drinking. Someone could have been injured or killed because of the careless decision that happened today.  The problem is that some people carry very old firearms for whatever dumb reason they want to. And by older I mean like purchased over about a year and a half ago in the case of the SIG P320/M17. I love SIG, and only own SIG pistols, but the first batch of SIG P320s that went to civilian LE, the USAR and the consumer market had an issue where dropped at a certain angle they would discharge.  &gt;There are definitely some older striker fired pistols that if dropped can go off. 
-
-We're getting into the exception proves the rule territory.  Modern firearms are safe and require people to be incredibly stupid with them. I'm referring to real guns. Tell that to Sig owners...
- &gt; booger hooks
-
-Upvote! &gt; There is no such thing as an accidental discharge. His booger hooks were on the bang switch and the gun functioned as designed.
-
-There are reasons why accidental discharges happen, legitimate reasons. There are definitely some older striker fired pistols that if dropped can go off. That being said, I am skeptical it happened in this case.  "Booger hooks" is a new one on me. LOL! Gonna have to remember that. &gt;He accidentally fired
-
-There is no such thing as an accidental discharge. His booger hooks were on the bang switch and the gun functioned as designed. 
-
-&gt;Will we lose our liquor license if it’s found out that they drank too much? 
-
-There's no proof that is factual. People do incredibly stupid things with guns while totally sober. 
-
-&gt;Will the server that was taking care of them be in legal trouble?
-
-No. Unless she handed the intoxicated person a gun herself/himself. &gt; they weren’t showing signs of being intoxicated
-
-This is usually the important part. If they don't look drunk, how do you know to cut them off?
-
-[Per USACarry](https://www.usacarry.com/tennessee_concealed_carry_permit_information.html), the patron was in violation of [state law](https://www.tn.gov/content/tn/safety/handgunmain/handgunfaqs.html#Q7), so it's all on them. They weren't allowed to be drinking while carrying to begin with.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55782c469fa03381c27112a9b7995436964faaa4c50f31a1263cf253ccd4b18b
+size 3599

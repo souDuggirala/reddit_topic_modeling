@@ -1,1 +1,3 @@
-Hypothetically, if I went in to a previous business I worked at and got the employee discount but the cashier didn’t know I didn’t work there anymore (for example have a hat or a shirt or something that only employees got and showed the cashier), would I get punished for that by the law?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5abff830d91b40917dcec9d096c9906a687bc5099a3d0ef1e76a58be4b14df4
+size 292

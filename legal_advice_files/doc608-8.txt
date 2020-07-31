@@ -1,1 +1,3 @@
-I am a freshman attending Indiana university Bloomington and a few days ago cops came to my room and found fake ID’s, alcohol, and small amount of marijuana. I’m not sure if I’ll be eligible for pre trial diversion and don’t know whether to hire a lawyer or if a public defender will suffice 
+version https://git-lfs.github.com/spec/v1
+oid sha256:045d399246995e168197360bb6738f6ca23f2ee54ab07ed1503bbfa1be2f28c9
+size 300

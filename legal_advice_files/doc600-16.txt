@@ -1,20 +1,3 @@
-Hey everyone! Thank you for taking the time to check my post...  
-Been employed with a grocer for less than 6 months and at the beginning of November, had a mental health/self harm incident that resulted in me calling out of work for that shift. I did not immediately seek medical attention as it was as simple as a clean up/gauze wrap, and I returned to work for my next shift- only to find out I had been put on emergency medical leave without my permission, until Dec 10th.  
-
-
-At this point, their leave company (Sedgwick) is requiring that I have a PCP, licensed therapist, etc. fill out am Emergency Leave Certification form. With details from the night of the incident as well as progress updates, stating that I am cleared to return to work. Trouble being that I did not seek any immediate help and no healthcare provider is willing to fill out the form, as they did not see me immediately.
-
-&amp;#x200B;
-
-A couple details which may help- 
-
-I did seek help that week, and upon calling every local option I had, I was told that it would take 3+ weeks to even get an appointment/consult.
-
-I did see a therapist the week after, as a close friend's father is a licensed therapist in my area and they pulled quite a few strings to get me in. However, there was no follow up appointment despite MANY phone calls to his office (he as well as his receptionist even hung up on me). I do have call logs, his practice name, his name, etc. for whatever that's worth.
-
-&amp;#x200B;
-
-So at this point, it seems that I'm going to be terminated for being on emergency medical leave without any kind of notation, when I was put on it WITHOUT my permission. I have simply wanted to return to work, since the day after the incident. I am more than willing/able to get cleared to return to work from a physical standpoint, but nobody is willing to fill out the form or give a progress report as it's technically impossible.   
-
-
-How can I keep this job? Are there any legal options? Thank you all so much.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7a9298f01767b71fcaa20ecd2a78eb4321c5ea68033d294788a600298500b82
+size 1993

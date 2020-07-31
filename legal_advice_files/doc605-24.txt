@@ -1,7 +1,3 @@
-[California] 
-Hi everyone. So essentially I bought a trailer that was not in the best condition a couple years ago. It's in a mobile home park. I don't live there anymore but one of the original lease holders does still live there, our lease was for 5 years beginning in 2015.
-
-
-The person living there now doesn't want to live there anymore, but his mother wants to take over the lease and trailer. We already talked to the park and they are willing to switch over our lease to her as long as I transfer ownership. I do not want any money, but I also want to be protected. I'm not sure the proper steps to follow to sell this trailer.
-
-Can I just sign the title or whatever it is over to her and call it a day? Is there any way she could sue me or something because of the condition of the trailer even though I am giving it away? What should I do to protect myself? Also if anyone can point me in a direction to get started, I would really appreciate it. Thanks!! I'll tell you something rarely said on Reddit : I don't know. [deleted] You should definitely get a lawyer for a contract. Usually people do a $1 sale price for large items so there is no confusion about a seller coming back to get paid. Perhaps  just sell the trailer for the cost of the lawyer and break even if you planned on giving it away.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19d47a643958e26a6d528eae8acf1faa77a2a3c26abb35591bd56cb1d4073af3
+size 1310

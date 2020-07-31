@@ -1,1 +1,3 @@
-I recently had a vendor for a private event fail to deliver on their services. I'm working on getting a refund without going to court, but I'm being met with some resistance so I'm now contemplating filing in small claims court. The question is, if I reside in NY, the vendor resides in NJ, and the event took place in NJ, where should I file? Thank you. You would need to file wherever the Defendant's place of business is located.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dafcffcdacf6622af917b13cc1202537f4d29c25d787d1f90a0189a03857e2b
+size 432

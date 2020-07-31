@@ -1,13 +1,3 @@
-So my coworker has been talking to us for a while about his situation
-
-His ex wife/girlfriend (can't rember) lives next door to him where he previously lived with her and where she still lives. 
-
-They live in manufactured homes owned by some guy who rents them to people.
-
-After they split up he stayed in a home across the street to stay close to his daughter.
-
-He's still on the lease with his ex and pays them 600/mo (via money order) instead of child support for the rent since if he payed child support he would still be liable for paying the rent (what he told me)
-
-He wants to be taken off the lease but the landlord says she needs to take him off and the landlord claims he can't so he's stuck in a situation where he's required to pay the rent alone (if she gives him the money) or pay child support and the rent too since she can't support herself.
-
-Is there any way he can get out of this without spending money for an attorney? To me this sounds wrong in so many ways and has me worrying about his situation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4015da0030e9df060296686a4344496ca58ea795bc4217a44fb44b7fd5ba687
+size 1020

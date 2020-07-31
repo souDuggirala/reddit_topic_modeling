@@ -1,23 +1,3 @@
-I moved into an apartment with 2 other room mates in September of 2018, in Ontario, Canada. In October, I found out I was pregnant. 
-
-Im looking to get out of this lease.
-
-Here are my issues:
-
-- One room mate has 2 cats. She doesn't clean the litter box, which is in the common area. (This is a risk for toxoplasmosis, a parasite found in cat feces that can cause birth defects) I have asked that this litter be moved to a non-common area, to no avail.
-
--Both room mates smoke tobacco in the living room. I have told them that it is not healthy for my unborn child to be exposed to this. They have not stopped.
-
-Additional info:
-
-- We are all on the same lease
-
-- I got permission to transfer my lease about a month ago. However, this place smells so awful, nobody who I showed the place wanted to stay. I don't blame them.
-
-- The lease is for 1 year as of September 2018.
-
-
-I've tried my best to transfer the lease, and deal with the tobacco smoke. However, it is causing me emotional distress as I keep thinking about the effect on my unborn child.
-
-Do I have any rights to end the tenancy? It seems worth it to get a cleaner in and putting some work on yourself to make it more appealing right before showing potential new tenants round.  Does your lease say anything about smoking? The litter box in a common area isnt a risk for toxo as long as you dont touch it. The parasite is transmitted through touching infected poop and then touching your mouth or food. As long as you continue to not touch it, it'll be fine. Wash any fruits and veggies that are laying out just in case, but it's really not a big risk.    
-  Also, life advice: in the spirit of catching flies with honey, maybe ask them to vape when inside, or even offer to buy them each a vape to use in the apartment?  I advised him that they were smoking and he didnt seem to care. However when I moved in the told me no smoking. Try posting in [Ontario Tenant Rights](https://www.facebook.com/groups/ontariotenants/).  Is your landlord fine with people smoking in the unit? You can ask the landlord to assign or sublet your tenancy. It’s up to you to find a replacement. This isn’t otherwise grounds for early termination or for legal action against your roommates. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:21135ce47d27225f94ca71ce095a38389abefa65fc461e3fe42fd0dbd38604c2
+size 2238

@@ -1,5 +1,3 @@
- HIPAA violations can be grounds to sue under state law. In some states (e.g., Connecticut and North Carolina), the courts have held that  HIPAA establishes a standard of care, and hence a violation of HIPAA provides an avenue for a common-law negligence action.  &gt; Note there is ~~not generally an~~ no avenue for private action.
-
-FTFY.  HIPAA violations do not allow a person to sue.
-
-&amp;#x200B; Only misfortune that is emotional, not financial. Did you suffer damages from the incorrect mailing? You may certainly file a [HIPAA complaint](https://www.hhs.gov/hipaa/filing-a-complaint/index.html) with the feds, and a [Texas Medical Records Privacy Act complaint](https://www.texasattorneygeneral.gov/consumer-protection/health-care/health-care-list-agencies) with the relevant state agency (likely Texas Health and Human Services). Neither act provides a private right to sue, but if you suffered some particular financial or other quantifiable damages from their negligence, it is possible you might be able to sue under a more general negligence theory. Ten years ago, but the letter also included my correct address inside. Was the wrong address one you had previously lived at? I'd like more information, but this sounds like a HIPAA violation, assuming you are in the US.  Note there is not generally an avenue for private action.  We would need to know where to be sure your individual state does not have one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fab5c78e2d570b07a2a05b684fc61449b72b099b9780b55f48321b49d665688a
+size 1424

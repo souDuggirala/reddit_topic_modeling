@@ -1,1 +1,3 @@
-My mum is lonely after the death of my step-dad. She has come to the attention of a man who displays all the warning flags of a ne'er do well chancer which my mum is ignoring. I have Enduring Power of Attorney for financial and medical along with my brother. What steps can I take legally to make sure she is protected? Edited to add, she will resent us using it if we do, can she just cancel it? 
+version https://git-lfs.github.com/spec/v1
+oid sha256:56d361bc893ffe6824f9f609cff8d68d1b8662ca56af1520e6e702220b82c036
+size 397

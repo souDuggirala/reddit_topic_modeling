@@ -1,21 +1,3 @@
-I suspect the federal student loan repayment system is unethically maximizing loan repayments..
-
-I recently decided to check in on my student loan progress and found (obviously) that with all of my payments I barely made a dent in my principal balance.  
-
-Background on payments (I hope this is helpful in general to you graduates out there):
-
-* Best practice on loans is to pay down the highest accruing interest accounts first
-* MyFedLoan has two options:
-   * Manually select the loans and amounts to pay
-   * Let MyFedLoan automatically distribute your payments for you (just enter one bulk amount)
-* Accrued interest is always paid before principal can be paid
-
-I went through my student loan payment history (it's far from done) over the past 8 years and found that when I've allowed MyFedLoan to automatically distribute my loan payments the system either:
-
-* Arbitrarily distributes payments across all loans
-* Applies payments toward principal balances that accrue the *least* interest
-* Targets and prioritizes payments to loans with the highest balance, progressively distributing to those with the lowest balance
-
-**Here's the issue.**  Any of the above three distributions disadvantages students into paying *more* interest and taking *longer* to pay off their loan balances.  I looked all over the site and there is no explanation of how their auto-distribution even works nor are there real recommendations on the best way to pay off your loan the most efficiently. 
-
-Finally the legal question; is this illegal because it is unethical and borderline deceiving?  It's the federal government so it seems there should be some regulation here but according to my own situation, I've missed out on about $500 over the years and am imagining how many students are in the same boat.  [deleted] [deleted] Does the "pick for me" option promise it will get you the best results? [deleted] How could it be illegal, you have the option of choosing how it's distributed. Just pay closer attention, which you should be doing anyways. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:d506fb7f9285b7640b10b6dff6d9afbf0b7c26cd74ebd13804c49484fea405ab
+size 2036

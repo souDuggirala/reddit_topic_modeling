@@ -1,13 +1,3 @@
-Long story short I'm mentally and physically disabled, and while I work am limited to how much I can work, and I live on 250 dollars a week  before rent etc, so me getting insurance is completely out of the question. We are going to move when the lease is up.
-
-I live in a house that's been converted to units. The ceiling above my lounge room leaks. In about 6 months of living here, it's leaked about 4-5 times.
-
-It usually is from the left hand corner which is below another tenants bathroom
-
-There is nothing wrong with the pipes, but the water proofing in the bathroom is shot.
-
-However, this time it came from another spot, while we were sleeping, so I'm not 100%  what is going on.
-
-We keep letting the real estate know, who keep sending out a plumber, but as he's a plumber, he isn't able to fix the water proofing etc. I have proof of us contacting the real estate,  because I email when issues arise.
-
-My partner believes if it leaks and ruins something of ours, the landlord would be responsible, whereas I believe that would fall to us, and because we don't have contents insurance, we would be out of pocket, though, I am wondering because it's a known issue that hasn't been resolved, whether that will change things?
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf389a1425246f7a96f0a883f3053cb6d9d9c08bd1c5b7c8382471b6da842315
+size 1231

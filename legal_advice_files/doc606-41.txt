@@ -1,14 +1,3 @@
-Location: Tucson, AZ
-Relevant citation (from record): TC20-230.6A (PARKING-OVERTIME PARKING)
-Original fee: $42
-Current fee: ~$230
-
-I received a notice in the mail stating that my license has (unbeknownst to me) been suspended for several months for an unpaid parking ticket. 
-
-This came as a complete surprise to me, as I did pay that fine. I have the bank statement showing both that it was paid, and that the payment date was prior to the due date listed on the ticket.
-
-Normally I would just call the Court on Monday and try to arrange a date to dispute the fee. However, the record I obtained from the local court website indicates that there was a court date several months ago (which I received no notification of) that ended in a default judgement (hence the suspension).
-
-Fortunately, I live within easy walking distance of my job, so being unable to drive for the time being isn't a life-crippling event. I have the money to pay the fine, but I would like to know whether it is possible to dispute this judgement given that I have proof that the original fine was paid on time, and whether or not carrying through such a dispute is likely to cost me more in legal expenses than just paying the fine as it stands now (in which case I'll just suck it up and pay the damn thing). Did you need to get an attorney to fight this?
-
-I've dealt with other civil fines in the past (all traffic; not sure how parking differs here), but I've never had a court date pass without my being present before. Yes it’s worth it to fight it. I had a similar thing happen to me. Try talking to ticket office and see if they can pull up a record of your payment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7bd7ff64a86cb237a31c69366df4821863f940755a2e08a3915c8626c7e9149
+size 1651

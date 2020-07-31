@@ -1,1 +1,3 @@
-[removed] /r/legaladviceofftopic 
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae4d2f77736d4f53d08ff2e09e5116d7041db99110b5c44ed046f7f4209a65d9
+size 33

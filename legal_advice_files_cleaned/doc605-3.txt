@@ -1,1 +1,3 @@
- general life advice: 1. stick your dick in crazy. 2. cosign on a loan. 3. always file for unemployment. 4. talk to the police if suspected of a crime. 1: no 2: yes 3: duh 4: probably.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9812d10a76ef11032f76354406f1908b757313a095ec1868954babcb8422d45
+size 184

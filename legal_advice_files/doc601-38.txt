@@ -1,5 +1,3 @@
-I work for a big restaurant chain that has a location in CO. In August and October of 2018 I had to do two long-distance outreach trips and I had to drive my own car.
-
-I was told that I would be reimbursed for these trips so I kept waiting and waiting. I finally asked our GM what was taking so long and he told me that it takes the company up to 90 days to process these reimbursements. Fine, whatever. That's ridiculous, but okay. I ended up talking to another manager about the issue and he scoffed and said he's racked up over $1000 in hotel stays on the company's dime and he's been waiting SIX MONTHS to be reimbursed and he's sure it will be another six before he sees the money.
-
-Do I have any options here? Is this even legal? I asked my manager if I could talk to HR directly and she said I'm not allowed to, I have to go through our GM. What do I do? I'm a worker in a meager hourly pay and this was going to be my Christmas money and now I'm sure I'll never see it. I'm so disappointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01f973430f5f43344fad607ad464e099abcc017050bd864d1803d8f1b8a67050
+size 998

@@ -1,10 +1,3 @@
-As title says, I'm curious as to whether my employer can deny my earned PTO. I've got a number of vacation days remaining, and not long ago we learned they no longer roll over. After submitting my requests, I received some, but still have about 7 days remaining. I was told that I would not be getting those days approved, and would thus be losing them come December 31.  
-
-As PTO is part of my compensation, is this legal? Pardon my ignorance - it just feels wrong to me. I've earned this time, and I feel I deserve to keep it. 
-
-Not sure if relevant, but I am in New York state. NY doesn’t have a law that requires PTO to be paid out even upon termination. It depends entirely on prior notification and the company handbook. So they can legally enforce a use it or lose it policy.  Well thats a kick to the nuts. 1. Pay cuts are legal as long as people are given notice and as long as they are not Discriminatory. 
-
-
-2. It's completely legal for a company to not role over PTO. Many people in many companies don't end up using the PTO and lose it. They are not compensated for it, either. A company is not legally obligated to approve the PTO either. (Unless it's in a contract)  Not sure about this.  PTO is part of OP compensation.  That would be akin to them saying "Oh we're taking $200.00 from your paychecks for the next six weeks because it is near the end of the year." Yes it's legal. This is why it's custom in a lot of workplaces with this policy to use up the PTO early in the year. The company doesn't have to approve your time off. Especially if they are already short staffed due to the holidays and such. Every place I’ve worked where PTO doesn’t carry over, has paid out all or some of the remaining time. 
-
-I’m most definitely not a lawyer, but something worth looking into. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:723e026b2540669a9743ff809a275136f561522d000c063ba5dc5d681a402184
+size 1803

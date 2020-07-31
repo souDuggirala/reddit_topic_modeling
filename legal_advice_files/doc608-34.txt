@@ -1,5 +1,3 @@
-I have been working in this pharmacy for 2 years and these past six months I have been working more but my check just seems to barely increase. I am the main tech there I get paid 13 hour we get paid monthly. These past two months I worked 65 plus hours but was payed 454.65. I live in cook county Illinois. I just wanted to make sure that I was blowing this out of proportions.   Your pay stubs should come with a full breakdown of what is being deducted from your paycheck; at 13 per hour working 65 hours should make you start at around $845 for that paycheck before any deductions. After that will be federal income, social security, and medicaid taxes, and then state income tax (possibly; don't know if Illinois has state income tax), then potentially a 401k, employer health insurance, or any other benefits that you partly pay for through payroll deductions.
-
-I do different work in a different state and am at a higher tax bracket, but my take home after all is said and done usually works out to ~60% of my pre-tax income, so it may be a bit low here for you, but that could be for any number of reasons, so without knowing more I can't say if he's deducting too much. Thank you for the advice I am getting payed 2maro hope its close to what the psycheckcity estimated  OP- You need to review your pay stub and see what your gross pay is, and then the deductions being made from it. /r/legaladvice isn't going to have any idea if you're being paid legally or not. Run your own calculations on paycheckcity.
-
-[link](https://www.paycheckcity.com) 
+version https://git-lfs.github.com/spec/v1
+oid sha256:82c47d61347c7cf41de01a323cb39bdb069a71334f23f9300bff47715976db41
+size 1555

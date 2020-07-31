@@ -1,1 +1,3 @@
-i have 3 points on dl in florida. work in the hvac business and my boss is giving me a work van. but i’m worried the 3 points will raise the insurance rates to the point he want to give me it. lawyer i talked to says it will cost 200$ for a chance to get them removed. points usually matter to commercial policies. he already pay rates high enough to cover any idiot he allows to drive.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42bdd104f75dff1a436b0857f11e84380152e424cfb5b58a027510f31c401e09
+size 388

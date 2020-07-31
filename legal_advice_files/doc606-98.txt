@@ -1,1 +1,3 @@
-I am currently 14, I wish to start hrt as soon as possible but my parents are extremely transphobic and also anti mental health and won't let me visit a psychiatrist. I live in Nebraska of the U.S. Planned Parenthood have services in Omaha and Lincoln. Give [them](https://www.plannedparenthood.org/planned-parenthood-heartland/patient-resources/services/transgender-services) a call to discuss your age, consent and the process, as a first step.  Please contact the National Center for Lesbian Rights for assistance.  
+version https://git-lfs.github.com/spec/v1
+oid sha256:6beed106ca8d8b7b5118864751321cdbf4be7f3927f23da4e8eaec676ffae3e2
+size 519

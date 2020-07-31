@@ -1,5 +1,3 @@
-https://imgur.com/gallery/597I8vE
-
-My boyfriend sent me this video and I just feel like the environment it’s in isn’t suitable for it, but I’m not familiar with Mexican laws. Any help is appreciated! [removed] [removed] I will do this, thanks! This would, unfortunately, probably be legal in several US states, and a cursory Google search indicates it was legal in much of Mexico about ten years ago, so it probably still is. Big cat ownership is woefully unregulated -- more tigers live with private owners in the US alone than currently live in the wild.
-
-Your best bet, I think, would be to contact a big cat rescue and either have them try to purchase the tiger from its current owner directly or have an intermediary do so and then hand it over to them. If the owner won't sell, there's probably nothing you can do (other than lobby various governments to outlaw this, which I think we all should, but that's a discussion for another day). IANAL but see if you can reach out to The Wild Animal Sanctuary! They handle big cats and cases of egregious abuse. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:515aaeb761a152a3fcbe493016e47f5ca0dbe63f7929e4eada69f16e21b9c750
+size 1067

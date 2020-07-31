@@ -1,9 +1,3 @@
-Good day,
-
-We are working on a school assignment, and I have a quick question. 
-If Disney has a copyright in the USA, and the USA has longer copyright protection then another country who has signed the Berne convention, does the other country respect Disney's USA protection length (i.e. the sticker rules)?
-The Wikipedia page on this confused me, so if at all possible if someone has a link clearly stating this, would really appreciate it!!!
-
-Thank you,
- Thank you. 
-Will post there for additional questions  This belongs in r/Legaladviceofftopic, but the answer is generally that the copyright length applies to the individual country, no country can enforce their laws on another like you are thinking.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7de2fc81505881ce93b2fe3522106ccb51d71c33a6072c5133792b25c160dd9
+size 706

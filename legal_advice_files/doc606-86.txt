@@ -1,3 +1,3 @@
-Asking for a friend.
-
-She is leaving the country and moving to Canada tomorrow morning. She sold her car via private sale to a former coworker. The buyer had seen the car several time before the sale. She sold the car at 10% less than she intended because it was a coworker, plus she covered taxes. On Friday afternoon, they signed over the title. Friday evening, the buyer decided she no longer wants the vehicle because she noticed the scratch on the front. The scratch is about 3" long and has been there the entire time. The car was appraised and priced as in "good" condition. The buyer is claiming legal rights to a refund. Does the buyer have a legal right to a refund for this car? That was my belief, but I wanted to hear it from others to verify 🙂 Used car sales are generally "as is".  A thousand times no.  The buyer can fix the scratch. No used car is perfect.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61536cb473e721329fd564f4b661627472cc27429c8c71ef84260fa527a439ee
+size 876

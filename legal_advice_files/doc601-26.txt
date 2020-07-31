@@ -1,34 +1,3 @@
-A family member had a levy placed and the collectors took moneys from their bank account (a few hundred dollars, nothing significant.)
-
-The family member asked if they can deposit cash/checks into my account and pay bills using my checks.
-
-I personally don't have an issue with the organization aspect of it (knowing which funds are mine and which are theirs). But I am concerned about the legal aspect. So my two questions are:
-
-1. Is it legal to allow a family member use my account, deposit money/checks into my account, and use my checks to pay their bills?
-
-2. Will this affect my taxes in any way?
-
-3. Are there any other negative ways this may affect me?
-
-
-Thank you! &gt;So my two questions are:
-
-&gt;Is it legal to allow a family member use my account, deposit money/checks into my account, and use my checks to pay their bills?
-
-&gt;Will this affect my taxes in any way?
-
-&gt;Are there any other negative ways this may affect me?
-
-To answer your three questions...
-
-While allowing a family member to use your account IS legal, it may be against bank rules, which may lead to your bank accounts being closed.
-
-No impact on taxes, since none of that is income. May complicate a potential audit, since those deposits may appear to be income you are hiding from the IRS.
-
-Lots of other ways this can hurt you, given that you are aware that your family member has a judgement against them and you are actively helping them avoid paying their debts.
-
-The most likely of the negative consequences is that the creditor learns about your scheme, goes to the court and shows them evidence that your relative's money are in your account, then they take all your money and let you sort out later which cash was yours and which cash was the deadbeat's you are trying to help.
-
-I would strongly advise you to stay away from that relative, since people who are willing to cheat others are totally willing to cheat you - many cases of fraud involve victimizing family members. And as soon as the family member is put on the account, OP's money then becomes fair game to be garnished too. &gt; Are there any other negative ways this may affect me?
-
-Well, you're helping your family member avoid paying their debts.  Without knowing what the garnishment is from (civil vs criminal proceedings), it's hard to say what effect these actions may have on you. In the US, banks generally won’t accept such deposits unless the receiver is on the account. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:54f9b1f04aa33d8ac57193b5e7dd38541d0caf9f0439c2a4487c07c6d58571bd
+size 2442

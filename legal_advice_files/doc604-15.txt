@@ -1,5 +1,3 @@
-I am curious regarding the language on the terms and conditions of a Burning Man ticket. Specifically it states that buy buying the ticket and attending, that you assign joint copyright. I believe this to be totally unenforceable.
-
-"I assign to BRC a joint ownership in the copyright to my Event Imagery for the purpose of enabling BRC to enforce that copyright against any third party that displays or disseminates any of my Event Imagery in a manner not authorized by these Terms and Conditions. I appoint BRC as my attorney-in-fact to execute any documents necessary to effectuate such assignment. "
-
-https://tickets.burningman.org/terms-and-conditions/ Man, the title got my hopes up that this was going to be a Sovereign Citizen post. It's totally enforceable. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:8897f0bba62d7b954a9f06098e0c73037312327dda9637024bb81383148a6efc
+size 766

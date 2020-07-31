@@ -1,15 +1,3 @@
-My sister works for a small business that drives elderly people to their appointments and such. While she was driving she was rear ended while waiting to turn left at a stop light. She walked away with minor injuries and the client did as well. The police gave the other driver a ticket and said that it was his fault. His insurance has already paid for the repairs to her car and is offering $500 pain and suffering as well. We intend on taking after a couple months once we are sure she didn't have any unseen injuries from the accident.
-
-This is where we come to the issue at hand. When the police took the report they swapped her and him on it making it seem as though she was the responsible party for the accident. The client she was driving has retained a lawyer and is looking to recover damages. We have been told by our insurance that they are not covering anything coming from the client. Here are my questions:
-
-Whose insurance is responsible for paying any damages awarded to the client? I understand it should be the other driver, however will our insurance, her employers insurance or will she originally be sued and then they will have to recover damages from the other drivers insurance? 
-
-What is the best way to go about remedying the incorrect police report?
-
-Does our insurance or her employer's insurance have a responsibility to represent her if the client pursues legal action?
-
-At what point should she retain a lawyer?
-
-Thank you in advance for any advice provided. We don't have a large amount of money and we would like to avoid having to pay out anything. First time poster so sorry if I missed any of the rules.  IANAL
-
-If she was rear ended the damage to the car that she was driving should be evidence enough that the accident was not her fault. Talk to the officer who submitted the report. Yeah I told my sister to call the police department today to try and get it amended  NAL but I have been in a car accident recently and had the same issue with the officer getting the report wrong.  The report I looked at was pretty thorough, with descriptions of both vehicles, an illustration of the accident, and two narratives of what happened.  The officer swapped mine and the other driver's vehicles in two places (throughout, mine had been listed as V1 and the other driver was V2).  I called him ASAP to alert him of the mistake and he filed an amended report.  Is this a route you could take?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bd2e4253a03a2fcb40f3cd0eacca8f74d2b8126769bbd8f1720c9d52ce3c8da
+size 2426

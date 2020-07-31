@@ -1,9 +1,3 @@
-I know it sounds redundant, however, I lived in the county when I took the civil service exam. I lived in the county from 1994-  December 2017. 
-
-I took this exam in 2016. I just noticed that there was a residency requirement.
-
-I no longer live in the county out of necessity, I moved with my parents to a neighboring county then from that one to another one with my girlfriend. 
-
-My grandmother still lives in that county, should I spot my residency between where I currently live and where my grandmother lives. I have a lease under my name so it wouldn’t make sense to not live with my girlfriend at all. 
-
-I don’t want this to bar me from a job career, in which I’m qualified for.  [removed]
+version https://git-lfs.github.com/spec/v1
+oid sha256:170a243b3cfcf90e2d4591afa34673c4a2dff6499289b18b73ac469fbda64aee
+size 701

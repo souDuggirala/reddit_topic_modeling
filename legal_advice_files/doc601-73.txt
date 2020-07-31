@@ -1,22 +1,3 @@
-After looking over my potential lease. I'm seeing a few red flags right away such as asking for power of attorney over me, accelerating rental payments outside of court, and the landlord putting a lien on all of my possessions.
-
-My main question is are these 3 provisions enforceable, and are they legally binding in Michigan. I can provide a copy if anyone wishes to see the exact wording. Then you can run that by a lawyer in MI to determine whether it's valid to have that. Yes, but as far as I'm aware you can't require that in the state of Michigan. 
-
-according to Michigan's Truth in Renting Act which regulates residential leases—prohibiting certain clauses or provisions and prescribing penalties. A provision or clause in a lease that violates the Truth in Renting Act is void. In particular, in the document “A Practical Guide for Tenants and Landlords” prepared by the Michigan Legislature and the Michigan Attorney General a written lease shall not include a provision which:
-
-14. Requires the tenant to give the landlord a power of attorney.
- This means that if the landlord decides to take out a second mortgage on the property or is faced with a property lien, they have POA to do so. http://imgur.com/a/XmmIS4M I'm not seeing anything about subordination or power of attorney anywhere in the section you described. Ok, the subordination section is near the top on the second to last page.
-
-That is what I'm most worried about.  Not seeing the subordination section.
-
-The lien - Right, they have a lien on your property to recoup any costs if you don't pay your rent.
-
-Court costs - There's nothing there about having to pay out without the court's discretion.  It says that if they have to sue you because you're not paying rent, then they can include court costs in the filing. http://imgur.com/a/ZaaQbcE
-
-landlord right to access and inspection: ends with the sine saying the lien on my property. 
-
-Subordination: says the line have power of attorney over me. 
-
-Court costs and attorneys fees: line about having to pay out without courts discretion. 
-
- What is the exact wording of those provisions?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cf9fc853900b60934a7d95e10cc211f2aa47b64e13c004e9c8cdff188873253
+size 2125

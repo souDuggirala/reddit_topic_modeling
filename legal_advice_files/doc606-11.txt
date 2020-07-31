@@ -1,3 +1,3 @@
-I was caught using a fictitious license to get into a local bar. I was not under the influence of any substance, nor was I asked about it. I was given a traffic infringement ticket; however, my attorney was able to reduce it to a simple parking ticket. The DMV has sent me a letter stating that my license will be suspended for 90 days, but I cannot afford to have my license suspended that long. They said since it is my first offense I may request a hearing in which I can bring my attorney if I wish to appeal said suspension. I have obligations to drive my sisters to and from school, my dads house, to their sport meets, etc. all of which are about an hour away from my location.  All he told me so far is that he’s trying to figure out a way to save my driving privileges and will get back to me. &gt; They said since it is my first offense I may request a hearing in which I can bring my attorney if I wish to appeal said suspension.
-
-Then this is what you do. What did your attorney say when you asked him? 
+version https://git-lfs.github.com/spec/v1
+oid sha256:e544776dea091268f6cd86588a2a543419cb240fa8f201c7e7e9d4baf105022f
+size 1017

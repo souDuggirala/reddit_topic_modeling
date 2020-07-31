@@ -1,14 +1,3 @@
-First, sorry if I used the wrong flair.
-Second, slightly rushed and on mobile. I'll clean up as I can.
-
-But, I work as a software developer. I recently acquired a job for someone willing to pay at a rate that would equate to about $400 for the finished product.
-
-My "friend" over here, who I initially allowed to help collaborate, decided at the last second to run off and present the existing code and programs as *his* work and *his* own.
-
-He didn't have access to everything, meaning some parts are either broken or rewritten from scratch. But besides that, he scrubbed my name from everything, slightly changed the style, and tried to pin *me* for plagarizing *his* work, and therefore he's the one that gets paid, not me.
-
-The money isn't my concern. My concern is that when I attempt to resolve this with the client I worked for, they're convinced what he says is truth.
-
-He knows he can do this because I lack the funds to afford a lawyer. At this point I'm certain I'll need to take legal action, but where do I start? I assume some form of copyright law?
-
-For the record, I'm based in Indiana, and he's in the Netherlands, making this the nightmare that is international disputes. [removed]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d97af9487154b39d75df9afe0792e003bd973fcfa8f2dc36e84c5706738f5952
+size 1199

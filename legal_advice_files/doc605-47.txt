@@ -1,23 +1,3 @@
-So earlier this year, I had planned to start a business on my own. I went through the process of creating my own Delaware C-corp, got a federal EIN etc., however life happened and I unfortunately decided to stay with my current job, instead of starting my own business.  Now I'd like to go through the process of dissolving this business.
-
-&amp;#x200B;
-
-\- Since I haven't actually conducted any business beyond just registering it, do I still need to file a final IRS tax return?
-
-\- What form do I need to dissolve a Delaware C-corp?
-
-\- Anything else I should be aware of? [https://www.delawareinc.com/blog/dissolve-a-corporation-with-certificate-of-dissolution/](https://www.delawareinc.com/blog/dissolve-a-corporation-with-certificate-of-dissolution/)
-
-&amp;#x200B;
-
-Probably the simplest way to close out a never active (and least expensive) is to request the RA to resign.  
-
-Doing it the direct way through the Division of Corporations requires filing a form and completing any annual returns that are due.  There are multiple forms and fees involved.  It is not clear to me which form is appropriate in your situation.  I suggest reaching out to the DoC for advice.
-
-[https://corp.delaware.gov/](https://corp.delaware.gov/) First you file a Certificate of Dissolution in Delaware.  If you're sole proprietorship this is easy.
-
-Once that's been received, you tell the IRS you are dissolving, and they'll let you know any due taxes.
-
-Then you can close up any bank accounts or credits cards and you're done.
-
-That's it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76ecb7859c6c359366b542e68233113a38253d0800863f180ebf4a3f8ddf1153
+size 1526

@@ -1,21 +1,3 @@
-A few months back, I made [this post](https://www.reddit.com/r/legaladvice/comments/9juri1/parents_took_6000_from_me_without_my_consent/) regarding how my parents threw me out of the house after stealing $6000 from a joint bank account of mine they had no jurisdiction over. 
-
-Thankfully, I took a lot of advice come to comments, and found out:  
-
-
-1. My great grandfather does in fact exist
-2. There were no loans being taken out by my parents from my account
-3. My credit score (from Credit Karma at least) appears to be nonexistent as it was before
-4. My Uncle (whom I share the joint account with) did not play a role in the matter
-
-I've since taken the matter to the police, and have both called them on their non-emergency line as well as visited their headquarters, and they have taken no action whatsoever despite a submitted three-page report detailing all the events in detail. At one point an operator hung up on me telling me my case wasn't worthy of police involvement.
-
-I double-checked the date of the bank account being opened (since my memory can be bad with dates) and found that it was created around the time we moved, which was the date of my 18th birthday, so thankfully they can't claim that I wasn't an adult at the time they took the money.
-
-I wanted to take the suing route, but unfortunately, it seems as if they don't have the money to pay me back, meaning I'd likely be spending money pursuing the case and getting nothing back.
-
-I should probably explain a few things about the original post as well. The reason I left the school after being booted out is that I was already stressed out about the diplomas, and now was in a situation where I had everything in my life just vanish. When I was in the shelter, I had no way to properly commute to the school and back, and even if I did, I felt that if I was to go to the school, I'd break in front of everyone and be unable to focus with everything else on my mind like getting out of that shelter and employment. Most importantly, however, I was worried that my parents would be at the school looking for me. Looking back at it, it was definitely flawed logic, and I have been attending an upgrading institution (at no charge from the public school district) to finish off the courses I essentially dropped.
-
-I've since moved back in with my parents, as awkward as it is again, but I just can't stand them. I've been trying to get a job for weeks now, but the economy is such a pain in the ass at the moment. When I do manage to get a stable income, I hope to move out ASAP and cut as much contact with both of them as physically possible. I must have applied to over 100 different listings by now, and gotten only two responses, both of them being declined.
-
-Thank you for all of your support. I honestly have no clue where to go from here regarding this situation. Of course, they're still trying to get me to pay the $250 a month despite the $6000 they took covering that rent for a long time, and expect me to "contribute to the family" on top of that. I hope you guys have suggestions, but if not, I thank you for at least being there to show me that even if nobody I know were to care, I still have complete strangers with kind hearts behind my back.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27ff10e2ec58e16da9330164f422b21c4e46e1dc52e3f4bc65f2b572651dfa85
+size 3235

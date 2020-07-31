@@ -1,14 +1,3 @@
-Below are the contents of an email from the court. My attorney won't return my calls (he's a public defender) and I have no vehicle and am trying to figure out if I need to take two hours worth of trains to be there tomorrow. I'm the defendant, it's a family court case, in Texas:
-
-
-NOTICE OF DISMISSAL HEARING
-
-The Court has reset this matter for DISMISSAL REVIEW on:  12/06/18 @ 9:00 a.m.
-
-Appear before the court at the dismissal hearing on the above date and time.
-You may write or e-mail to request that the case be retained on the docket.  A written request may be submitted within ten days prior to the dismissal hearing. A written request to retain will be considered only if received prior to the dismissal hearing.
-The court will dismiss the pending action for want of prosecution per rule 165A unless there is good cause to maintain the case on the docket.
-
-THIS IS THE ONLY NOTICE YOU WILL RECEIVE OF THE NEW DISMISSAL SETTING. YOU WILL NOT RECEIVE ANY OTHER NOTICE FROM THE COURT. IT IS YOUR RESPONSIBILITY TO NOTIFY ALL PARTIES OF THIS NEW SETTING DATE.
-
- [deleted] [removed]
+version https://git-lfs.github.com/spec/v1
+oid sha256:07d49bc2a5b862987b510113179c26da15c39874aac6e3c878e669a10ea9cdc1
+size 1089

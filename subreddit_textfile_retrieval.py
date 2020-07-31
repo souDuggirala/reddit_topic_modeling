@@ -122,9 +122,9 @@ uri = 'https://api.pushshift.io/reddit/search/submission/'
 subreddit = 'legaladvice'
 request_size = 100
 payload = {'fields': ['id','num_comments','selftext'],'subreddit': subreddit, 'size': request_size,'author':'!LocationBot','mod_removed':'false','after':''}
-for i in range(5):
-    after = str(604+i)
-    print(after)
+for i in range(30):
+    after = str(720+i)
+    print(str(i) + ' ' + after)
     payload['after'] = after+'d'
     submissionlist = makeRequest(uri, payload)
     makeTextFiles(submissionlist, dir_path, after)

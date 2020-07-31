@@ -1,11 +1,3 @@
-I live in Ontario,
-
-I was traveling from BC to Southern Ontario with my car because of a medical emergency. At a stop light in Northern Ontario I was changing a song on my phone when a cop pulled up next to be, he gave me a distracted driving charge. This happened in May. I was trying to get to Toronto as quickly as possible as my boyfriend was in the hospital so I didn't bother to stay in town to fight the charge. Getting there was more important than $500 so I paid the fine and went on my way.
-
-Today I got a notification from my insurance now that Ontario has changed their laws, distracted driving is a much more serious charge so they're cancelling my insurance.
-
-If I had known this would have been such a problem I would have taken the time to sort this out in May, is there anything that I can do now? Thank you!! The prospect of my charge changing was my main concern. Your charge from May is not changing. Your insurance company has decided that you're too much of a risk for them and they are canceling your policy. Maybe it's due to the change in laws, maybe some combination of factors. 
-
-Since Canada differs from the US in more than a few ways, you might want to crosspost to /r/insurance for more insurance-related advice. But generally speaking, if your policy is canceled, it's canceled, and you need to get a new one before you can drive. You can find another insurance company.
-
-They have deemed you a high risk driver and no longer want to cover you.  That's their prerogative to drop you as a client if they feel you are too great of a risk.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e15848c8ac2b748781a731814d92c0a3b76b4678898e6c29c52a88ba3ce1efbb
+size 1568

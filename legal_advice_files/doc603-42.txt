@@ -1,17 +1,3 @@
-Mother passed away from Alzheimer's and my brother is planning to withhold bank information from probate to avoid paying creditors. He was POA and took care of mother's finances. I also was POA but I did not manage anything and I do not know the details of any of said finances. I think the one he wants to hold back may be worth in the neighborhood of $75,000. He claims it will be more money for us and all the rich people do it.
-
-&amp;#x200B;
-
-What are the chances he will get caught? Is there a way the court somehow knows of the account when he fails to ?
-
-&amp;#x200B;
-
-Do I have any obligation to report him to the authorities? Do I have to report the bank account to probate court myself? Again, I know of the account but did not manage it or know the exact amount it contains.
-
-&amp;#x200B;
-
-My husband says I need to get a lawyer so it doesn't fall back on me since I had knowledge he was planning this. Is he right?
-
-&amp;#x200B;
-
-I know this is illegal and disagree with him. I don't want to get fined or jailed for his decision. I'm scared of what my brother intends to do, please help, reddit!    Yeah, it will be a problem then.  The estate needs to hire an attorney to administer the estate.  This isn't something you should be doing by yourselves. [deleted] It depends I guess.  POD accounts pass outside of the estate and creditors of the deceased have no rights to the money.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af7c6147748dbc2a57a5959e173790cf8daa56b59d995a3593d3cb0a0752ec32
+size 1394

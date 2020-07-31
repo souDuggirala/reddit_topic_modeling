@@ -1,21 +1,3 @@
-This is in Texas.  I was involved in a traffic accident.  I came upon a vehicle stopped in the lane of traffic I was in - I was going 70+ mph.  I had someone in my blindspot - I had no other choice but to stop - to which I did.  I did not rear end the person that was stopped on the highway.  I was rear-ended by another vehicle.  
-
-&amp;#x200B;
-
-The person that hit me, also went into the median and it bounced their vehicle back to the opposite side of the highway - the police working the accident denied me passage to visit the person - and told me everything would be in the police report.  They gave me a card with the policy report - and told me all the information was in there.
-
-&amp;#x200B;
-
-I have been in accidents before, but never in this situation where the police report wasn't readily available.  Clearly this is not my fault.  I am cheap though and I don't pay for things on my insurance policy that I rarely use or have a need for- like low deductibles, rental car coverage, and medical coverage. 
-
-&amp;#x200B;
-
- After the accident I went to the ER to get checked out - I will not disclose the results of the visit here - which I used my medical insurance that has a high deductible.
-
-&amp;#x200B;
-
-It's been over a week.  The police department hasn't made the report available for me or my insurance company.  My insurance company refuses to give me a rental because it's not in my policy.  I'm also on the hook to pay my deductible to get my car fixed.  My insurance company will also not even talk to me about reimbursing my medical bills i'm out of pocket for.  My insurance company said once they have access to the police report and are able to contact the other person's insurance they can begin the subjugation process, but I'm afraid I will have to eat something.  I've been driving my wife's car to/from work - she works from home, but on the weekends it's stressful with having one car because of our personal lives.  We are holding off on renting a car on our own because our insurance company can't confirm if we will get the other company to pay for it.  My car isn't expected to be ready for three more weeks.
-
-&amp;#x200B;
-
-It's not my fault and I'm a patient person - but I did not ask for this happen, and I feel highly in-convinced, but trying not to feel 'entitled'.  I'm not looking for a payday - I just don't want to 'eat' anything and live my life as though this accident didn't happen - as close as possible.  Well I did - and i find out it's been readily available for pickup for several days now.  I'm just more pissed at my insurance company for dragging their feet.  My insurance company (national big name provider) asked me if I could get the report and fax it to them?  REally?  Me?  You want me to take time off from work, and drive into downtown, pay parking, etc, to do something you should be doing for me?  I've never been treated this way by an insurance company.   Call the police department and ask for it. No - it's in the police report which hasn't been released yet. Have you contacted the other driver's insurance company?
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1fa4005d2050e764ba770f5be2a37db24c2d974913bdc4e47471205d415c73e
+size 3086

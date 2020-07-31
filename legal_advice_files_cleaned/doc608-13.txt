@@ -1,1 +1,3 @@
-what types of documents would we need to provide to get a delayed birth certificate. we live in nv and have contact with her mother. does she have contact with any older relatives or family friends who remember her birth and can attest to the facts might there be school or church or medical records from her early years how about a census transcript the regulations for a delayed birth certificate in arkansas are here beginning on p. 8 . 
+version https://git-lfs.github.com/spec/v1
+oid sha256:be8115f5ba9dfc19b441a81dd07efa989acabaded2495bd71b75be1081cac6c8
+size 440

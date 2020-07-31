@@ -1,15 +1,3 @@
-This is also posted in /r/cartalk, just trying to get some well rounded suggestions for my situation. 
-
-While I was home from school for thanksgiving break, I took my car in for a regular oil change, tire rotation, and a small bead repair since I had a slow leak in my one tire. They did everything, fixed the leak by reseating the tire and cleaning it up around the edges.
-A few days later I began my 3 hour drive back to school, right when I hit the Pennsylvania Turnpike the speed limit goes up to 70, so everyone is going around the 75-80MPH mark. About an hour from getting back to school I get hit with a TPMS sensor fault code and my car begins to violently shake when I am above 65mph. Once I got the time to take it to a local shop, I took the wheel off in the parking lot for them because they were busy at the time and the one tech offered to take a look and rebalance the tire for me to make sure for a small tip. Got the wheel off the car and I could hear the TPMS bouncing around the inside of the tire. Told the tech this when he came to get the wheel from me and said he would take a look. 5 mins later he comes in with this [ridiculousness](https://imgur.com/Q7ZJrbN). 
-
-The tech (or manager) said if he ever caught a tech in his shop doing that to someones car they would get the boot. He was saying most likely the previous shop accidentally broke the band and the tech working didn't say anything and tried to cover it up by zip tying it up real quick.
-
-I called the previous shop and asked them what the deal with this was, and they were not directly answering my questions and just told me to bring it in. They pretty much denied everything about what happened and just want me to come in. Once I am home for winter break I will be making a pitstop in there.
-
-Now I know for a fact that it did not hold up for almost 2 years since I got the tires (at the shop that potentially did this). I trusted them and they are very reputable in my area. They have found safety issues with my tires before I got the new ones two years ago (uneven wear) and pulled me into the shop and showed me. I would've at least expected them to say something if they saw that type of work on my car when I brought it in to get new tires because of the safety concern and liability. Just figured I share my experience and any comments or suggestions are appreciated. 
-
-Also keep in mind i'm figuring the sensor is definitely broken after banging around inside the tire/wheel for couple days, and labor and a new sensor would be over $100. Pretty much just trying to get the shop that did this to cover the damage they did with their sloppy work, considering the safety liability of doing that consider it threw my car out of balance very bad. I am located in Pennsylvania if that helps, car has valid state inspection as of 7/18 - 7/19. Fixing the bead refers here to fixing a leak between the rim and tire. Could be a dusty or dirty rim surface. 
-
-That sensor loose in the tire would definitely make the tire out of balance!! It is a weight that ends up being at random places in the tire geometry which would throw the weight distribution OUT of BALANCE ....
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe56903b91ef14c6197d9642317f727cf9c29e7f399959ee6bd8c19f1c433faa
+size 3159

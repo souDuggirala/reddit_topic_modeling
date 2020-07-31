@@ -1,1 +1,3 @@
-I’m a semi driver and my truck was hit while legally parked causing a little over $13000 in damage. My truck has been in the shop for almost a month and is finally done but there insurance is refusing to pay for the damages unless I accept a low all offer for lost wages. My insurance has a $8000 deductible that I really can’t afford right now so I really need there insurance to pay for the repairs. Is it legal for them to refuse to pay unless I agree to sign and accept what there offering me for lost wages?  Insurance is completely different by state, need a state or we cannot even begin to help.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f28808564a518c6fbbc8b688fbe9dfa33599f029dbedd4407d2096503aa07eb5
+size 607

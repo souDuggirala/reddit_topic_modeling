@@ -1,1 +1,3 @@
-the song is "let the moment last" by the vision. dan greer appears to be the creator and the label appears to be mgm which was absorbed by polydor. how do i go about trying to get permission to sample a song you need clearance from two parties: 1 the copyright owner of the song itself usually the publisher and 2 the copyright owner of the master recordings usually the record label . identified the label already polydor and the publisher of this particular song is gene music gre jac music. since the publisher performing rights organization is bmi you may be able to contact them to get pointed in the right direction as far as locating whatever party is currently managing or administrating that publishing company these days. looks like you need to go through universal music group. they handle u.s. distribution rights for polydor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7304254afb78a870f6419a66d3c8e2d97ae28ab379ea29cb468e879e14bec9b
+size 838

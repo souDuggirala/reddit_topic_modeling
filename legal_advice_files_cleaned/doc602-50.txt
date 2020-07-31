@@ -1,1 +1,3 @@
-so i am buying a house and and currently have 7 months left on my lease. i’m pretty sure i was told that if i cut the lease i would have to pay monthly until someone moved in. now i’m told i have to pay the remainder. i have the money for this on top of buying a house. it does not talk about cutting of a lease in the lease document.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41afdb312c5c71172e6da1b58871de0db1474e04df5b4ea9cf1a5516d80a411b
+size 338

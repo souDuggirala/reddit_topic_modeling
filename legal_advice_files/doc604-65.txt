@@ -1,33 +1,3 @@
-Ontario, Canada
-
-We are both in our early twenties (even though this persons behavior is something out of high school).
-
-First of all, yes I know buying someone a phone and plan contract is stupid, as ultimately it's in my name and it's my responsibility if the person doesn't act in good faith. I have learned my lesson and the plan is no longer active, nor does this individual have the phone any longer.
-
-So this persons phone was acting up and they had bad credit, so they were unable to get a phone plan or a new phone on their own. I (again, stupidly and naively) bought them a new phone and plan for their birthday. We agreed via text that they would pay me for the bill until I was able to transfer the phone into their name (which I had to wait about 2 months for).
-
-This individual shortly thereafter showed me their true colors and put me through a lot of drama, to put it lightly (I don't want to go into the whole crazy and messy situation, but they essentially went nuts and fought with me constantly, among other awful things they put me through) and they routinely started threatening to block me and run off with the phone. They eventually did block me and claim they were going to run off, so I contacted their mother who got into contact with them and thankfully got the phone back to me, where I could then return it and cancel the plan (which I did).
-
-However there was still the matter of the monthly bill, which was around $150 but their mother kindly offered to pay it for me, which she did. Technically this individual, not their mother owed me the money but I just took the offer and wanted to move on with my life. I thought the whole matter was over with and I could move on from this toxic and abusive person, until I got something in the mail saying I owed nearly $300 for the phone bill.
-
-I knew that this person went over their data but I thought it would be at max $50 in extra data charges (since the phone company has a thing where it turns off your data if you reach $50 in extra data unless you willfully opt in to go past that), which I was fine paying for, whatever. But I later found out that the person went over DOUBLE of what they originally had on their data (7.2 GB / 3 GB per month). Keep in mind this person had the phone for 10 days. I usually use 2 GB in a month and that's if I even try.
-
-I talked to an online support assistant and they showed me the day by day data usage, and that they did indeed used absurd amounts of data each day. I also have multiple texts from this individual from when I initially found out about them somehow going over their monthly data cap, and they claimed to have not known and that it was an accident.
-
-However, the online support assistant told me that their had been multiple texts sent to the phone itself to warn of the data usage and even showed me which days, meaning she was aware. Not only that, but when they hit $50 in extra data they actually MANUALLY OPTED IN to keep going (which requires texting something back to the warning message) all the way to $300.
-
-And the icing on the cake is that this person somehow went over the 3 GB on the very second day of having the phone, which just so also happened to be my birthday, which crushed me. I have screenshots of all of this too.
-
-So upon learning that, there is no way I'm shelling out $300 for what essentially is this person screwing me over after I was kind enough to help them, and I'm 99% sure they did it on purpose and honestly probably always intended to just run away with the phone and leave me with the absurdly high bill.
-
-So my question is, is can I be reimbursed for these costs through small claims court in Ontario? Can a simple text message count as a legitimate contract? And if it is and I actually have a chance, does the fact that I later recovered the phone, cancelled the plan and already paid for the two charges void this contract and render me unable to get reimbursed by this person? I'm out nearly $500 and I'd like to get paid back, AND pay this person back for essentially stabbing me in the back after I helped them.
-
-Also, should I ask this question in the canadian equivalent of legal advice (if there is one)?
-
-Thank you, and if you have any questions feel free to ask!
-
-Tl;dr: Bought an awful person a phone, they agreed to pay me for phone, they went nuts and ran away with phone, got phone back and cancelled plan and paid for the ridiculous costs they piled up for their bill, can I get reimbursed through small claims? Thank you so much for the help, seriously. You're the only one who responded haha so thank you for answering my follow up questions too. You make a claim in writing stating the bare outlines of your claim (no evidnece, just assertions). Like, "Bob needed a phone. I agreed to buy a phone for Bob on the following terms... Bob failed to repay me". 
-
-At trial, you provide your evidence. Your testimony is evidence, but anything tangible you have (like texts) to back that up serves to bolster your testimony. Then Bob gives his evidence. The judge decides which version is more credible. Thank you. I was just wondering because it's not like it was formal or anything, just a few instances of me saying "You're going to pay me for this right?" and them being like "yeah sure" and stuff like that.
-
-Do you have any advice for me in general? I've never been to small claims and I am very nervous about all of this, it's overwhelming. An oral agreement can be a legal contract in Canada. There is no requirement that there be anything in writing, except for in very limited situations (as in transfers of land) So a text is viable as a legal contract in canada? Yes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cbe840d935511f4717a156000f4e942c44e99c48472d7b2b031e26439ad68c7
+size 5667

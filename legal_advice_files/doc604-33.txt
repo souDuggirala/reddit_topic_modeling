@@ -1,5 +1,3 @@
-Hi, so a year and a half ago I was charged with alleged assault. The case went on for almost four months. I was damaged mentally because the reality of it was that I was assaulted, and when I threw my attacker off me, they told others that I threw them. They were choking me and I threw them off, over my back. They had already marked me with scratches and bites. I was bleeding and my blood got on them. The person who reported it saw my blood on them and thought it was theirs. The case cost my $7000 and after being warned that any contact with the “assaulted” would be a fine and/or imprisonment, Mentally, I was a wreck, and would get panic attacks any time I so much as even heard sirens. I couldn’t even watch tv shows with prison content in it because I kept seeing myself there. 
-
-A month later, I lost a parent. I didn’t get a chance to recover from one tragedy before entering the next. Which is why only now have I begun to wonder if there’s something I can do about the alleged assault case, since the charges were dropped. 
-
-If I need to provide any more clarification or information for this please let me know. Thank you
+version https://git-lfs.github.com/spec/v1
+oid sha256:bae88b0ce9d8eadbaaff7ceae0ed74504c655fae9697f3de9c0f450f5f2d11f5
+size 1146

@@ -1,1 +1,3 @@
-[removed] They could take out their own loan and pay off the current one. Is her best option to call the company and ask for them to refinance? Or should she call the dealership?  Likely not. Unfortunately, “co-signer” really means “co-debtor”. She’s probably on the hook for this. [deleted]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff8199dc694ecdbc326c03da07e349df1dc130f9bf315e8f5cd345c70afec8fc
+size 301

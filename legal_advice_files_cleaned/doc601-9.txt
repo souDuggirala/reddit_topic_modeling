@@ -1,1 +1,3 @@
-is it worth it to get a lawyer in a state with mandatory sentencing for dui nevada of course. it is only mandatory sentencing if you are convicted. it is also possible in nevada to reduce the dui charge to something less by plea bargaining. an attorney is your best option for either situation. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:4994eb1f10a6497179ee89a1fa5d6af526bbd1215976a296594c0bfc958152da
+size 295

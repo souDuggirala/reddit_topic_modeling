@@ -1,2 +1,3 @@
-Hi, I'm in the UK and have a family situation. A family member died a little over 2 years ago, they were unmarried, no kids, but several siblings that don't get along. Probate was granted over a year ago and no will was left. Can anyone explain what would happen as non of the siblings have heard anything from anyone and the one handling it won't speak to them about it. Thanks. 
- Perhaps this relative did not leave anything for any of the other relatives. Or after debts were settled, there was nothing left.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41d46973f6dfb6288913c57305d8f2721b9f2648f4c39dd1521926d3279f77fb
+size 511

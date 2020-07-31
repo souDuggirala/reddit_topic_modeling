@@ -1,1 +1,3 @@
- #x200b; update: so just got off the phone with the property manager and they evicted him yesterday for scamming multiple people. i paid him $2 000 in cash for rent + security deposit. this is in los angeles. i have his name phone number emails and resume work history found from his linked in. any advice should i just file a police report do you have a previous post to link to so we know what talking about 
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e59b42ef4dbe9c371fe0390a67cdd227b49904693255ad70dcc0d14c132b594
+size 410

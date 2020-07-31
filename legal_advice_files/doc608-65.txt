@@ -1,5 +1,3 @@
-We are at the end of a probate case involving my mother’s estate. I was made the executor. The money in the estate account can only be disbursed by court order. My brother is in prison, so he can’t open a bank account or sign over a check. My attorney wants to charge me more to open a trust or get a POA.
-
-Do I have any other options? Can i ask that I be put in charge of disbursing funds? Is there a law that states 1/3 HAS to go to my brother?
-
-We have all ready been charged way more than they quoted us, and the “final bill” (their words) has been paid. This is why you hired an attorney. Ask them.  There was a will in place, but it was outdated. She never updated it after she got divorced. And no, we have not filled out anything stating what we would like to do with the money. Was there a will in place?  Did you all complete affidavits of heirship stating the amounts you would all like to receive? 
+version https://git-lfs.github.com/spec/v1
+oid sha256:edea61d355a5dd19b1c0ea1ea9f74c8d3802cd3960bf5eafc7bd417482213850
+size 918

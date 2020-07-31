@@ -1,8 +1,3 @@
-I have received my first ever ticket 
-25 over (not wreckless)
-no seatbelt 
-are there diversion programs for first time traffic violations? The Louisville prosecutor's office has the DriveSafe Louisville program. You have to meet certain guidelines and be referred by the prosecutor. If you get in and do the online class (and pay their fee, of course) the ticket is dismissed.
-
-There is also a statewide traffic school run by the State Police. You have to be a KY citizen to get in. I don't think it gets you out of the ticket, but it might keep you from getting any points on your license. Talk to an attorney for details.
-
-The biggest issue is the speed you were ticketed at. Louisville is not well known for amending or dropping tickets in the 25mph or greater range. Again, talk to a lawyer to find out what they think you're best options are. Talk to a traffic attorney for the jurisdiction your received the ticket.  If there are diversion programs available, they'll have knowledge of them and could get you into them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6097b61b501dc1543301ad0ecd5c6a41fb21c9f509dc392105068004aaa7846
+size 1025

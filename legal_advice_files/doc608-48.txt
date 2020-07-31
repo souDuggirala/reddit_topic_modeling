@@ -1,32 +1,3 @@
-Hey guys, I recently got in contact with the state's justice center due to a patient falsely recording a rape by one of the male staff. This is 100% confirmed to be false, but I am the last person that needs to be interviewed. Today, as I was supposed to go into work, at around 9 am, the conversation went, verbatim, like this. (L is the lawyer)
-
-L: You are working at X:XX correct?
-
-Me: Yes I am.
-
-L: thank you
-
-At this point, I thought nothing of it. Went about my day, and then received a call from my boss, saying I was canceled at around 1pm. This is normal as I would have been in overtime so my boss just didn't want me to work. I go about my day, and around 3:40pm I got a call from my boss saying that the justice center is now proceeding to press charges against me for obstruction of justice. 
-
-
-Before this point, he has been canceling appointments on me left and right. I work a set hour schedule, that does not change, and have offered him to come at any of those times. If those time did not work, I offered to speak to him at the club house where I live, where we can get a private room and everything. He has refused all of this.
-
-What should I do? Should I speak to my boss? Or try in get in contact with the lawyer? Should I say screw it and go to Alaska?
-
-TL:DR health justice lawyer is pressing obstruction of justice because my work canceled me and I didn't know he was going to be there. What should my next course of action be?
-
- One, retain a lawyer.
-
-Two, do not talk to the health justice lawyer. That's your new lawyer's job. Possibly; at least one law blog from NY makes the claim that cops and DAs there love to throw around "obstruction" when it doesn't meet the criteria or have any case law supporting it, so I wouldn't be super surprised to hear that a pissy prosecutor actually tried to say they'd charge OP with obstruction in order to get them to cooperate. So from looking for the exact statute for NY I found a blog talking about how this works in NY, and it seems that there is at least some measure of overuse of the charge or threat of the charge of obstruction when it doesn't apply. The exact statute is from New York Penal Code, section 195.05 - Obstructing Governmental Administration in the Second Degree:
-
-&gt;A person is guilty of obstructing governmental administration when he intentionally obstructs, impairs or prevents the administration of law or other governmental function or prevents or attempts to prevent a public servant from performing an official function by means of intimidation, physical force or interference, or by means of any independently unlawful act, or by means of interfering, whether or not physical force is involved, with radio, telephone, television, or other telecommunications systems owned or operated by the state, or a county, city, town, village, fire district or emergency medical service or by means of releasing a dangerous animal under circumstances evincing the actor's intent that the animal obstruct governmental administration.
-
-(The first degree, for those wondering, is when you do that by means of interfering with a telecommunications system thereby causing serious physical injury to another person. Section 195.07)
-
-Basically from my non-lawyerly reading, you needed to have intent to impede his investigation; it sounds like you did not take his question to infer that he was going to come look for you, and so did not intentionally evade his questioning of you, just that your plans changed.
-
-Upon reading that, your story, and that blog post from earlier, it sounds to me like a DA is just pissy for one reason or another. You should probably call the lawyer back and explain what happened and say that you didn't realize he planned to come interview you at that time, and that you got let off early and didn't think about it. Ugh, sorry, that's my bad, I totally missed the tag in the title. That will also work to fend off LocationBot since it's, ya know, valid for your location.
-
-Other advice still stands, but let me see if I can find NY's definition of obstruction. Federally it specifies you need to intend to obstruct the proceeding, NY *might* be more vague. One sec. I really think that OP’s employer was just talking out of their bum. NY, sorry. I'll make it more clear. So because you mentioned Alaska as a joke, Location bot didn't work, but your location matters for more specific advice here.
-
-If you're being charged with obstruction, you need to consult a criminal defense attorney.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e48a7da905d13f77deca2f859376ce0af9ca3086be725536d439f9bff147612
+size 4504

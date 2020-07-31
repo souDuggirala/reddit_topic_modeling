@@ -1,18 +1,3 @@
-Part of my job involves managing web-facing systems that have (very limited) interactions with the companies internal finance system.
-
-All instances of this web-facing system come with a default system administrator account, that always has the same access details (until it is changed by a human).
-
-I have been advised by the company that provides the software that this default administrator account often is not secured in any way by many clients - supposedly about 50% of organisations they work with ever amend the default log-in details.
-
-I am aware of several other companies that use this software. If I attempted to log-in to their instances of the software using the default credentials, with the purpose of immediately logging out &amp; emailing the company if it worked, would this break the law in any way? Looks like it.
-
-I was hoping that there might be some exception for testing/white hat-like actions that do not involve accessing live data (the initial log-in screen for this software does not contain sensitive data), but it sounds like it would be better to leave it be and let other organisations take their own chances. IANAL but it seems that this would fall afoul of Section 1 of the Computer Misuse Act 1990 which covers unauthorised access of computers.
-
-&gt;1 (1) A person is guilty of an offence if -
-
-&gt;(a) he causes a computer to perform a function with intent to secure access to any program or data held in any computer or to enable an such access to be secured;
-
-&gt;(b) the access he intends to secure, or enable to be secured, is unauthorised; and
-
-&gt;(c) he knows at the time when he causes the computer to perform the function that this is the case.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f46a3ac868b0bec600d4c72e2a91ee078455d87d3e07dcddda1f2f7c94ce63c3
+size 1692

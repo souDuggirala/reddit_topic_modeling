@@ -1,29 +1,3 @@
- I live alone in a 2 br apartment and it is not uncommon for people to have roommates and there are plenty of units in my building that have more than 1 person living in them. I am trying my hardest to follow his rules, but he is making this so hard. he wont get back to me for days or weeks and he will only text me which makes this even harder. It's hard to find someone that passes my criteria that I want to live with and I've been loosing tenants and money because he wont get back to me in a timely fashion if at all. Having a roommate is big for me. He's done all but actually tell me I can't have a roommate. I don't get this. I am honestly livid! If anyone has been through something like this please what is your advice as to how to deal with this? Any advice, legal advice or just any advice. ...and please don't say move because I've already thought of that and that may actually be happening, but it's winter in Wisconsin so I'm trying to deal with this. Also, everything else is fine. There's no other issue. Thanks.  The unfortunatw reality is that it's his house, and he gets to make the rules.    Whatever motivates him is inconsequencial..
-
-
-Perhaps use his arbitrary capriciousness to motivate you to buy your own property so *you* get to make the rules...
-
- I'm not trying to play any game whatsoever. I'm just trying to make sense of what's going on here. I see no reason why I shouldn't be allowed to have a roommate in a 2br apartment. You bring up an interesting point when you say "All you can do is talk to him" because that's what I've been trying to do. I really am trying to go by the book here. You would think paying rent timely and being a good tenant overall would hold some sort of merit even though nothing legal. Sadly it does seem at this point he's just being a total dbag about it instead of just being straight up with me, which is just shitty and sad. It wouldn't be such a big deal if a big amount of money wasn't involved. I mean he literally has to do nothing to let me have a roommate and now I have to sit here with this extra room for no apparent reason. A bit of a vent here. Sorry. If you want to play the "lease isn't valid" game, then realize that essentially makes you a squatter, and you hold no cards.
-
- Leases work both ways, protecting the tenant and the landlord.
-
-
- &gt;Is there anything I can do to give him an incentive to work with me?
-
-All you can do is talk to him.    Unfortunately, many landlords aren't reasonable or care much for your feelings.  You can't compel them to make sense or accommodate your preferences.
- When a lease term expires it usually means that you are now on a 
-"month-to-month" term. All the conditions of the lease remain active and valid, the only difference is that either party can end the lease upon 30 days notice. &gt;So the lease is valid then? Even if it's expired? I'm willing to do pretty much whatever it takes to get a roommate, but he won't communicate with me. He won't give me a clear yes or no or explain his policy on roommates. Is there any advice on that? Is there anything I can do to give him an incentive to work with me? I don't understand what's going on here because a number of his other units have more than 1 person living in them.
-
-&amp;#x200B; [removed] If he finds out you have a roommate he can end your tenancy, but you can end your tenancy as well with proper notice. [deleted] So you want him to change the terms of an expired lease.
-
-If he doesn't want to change the terms, there's not much you can do.   At the end of the day, it's his property and he doesn't have to accommodate your preferences.
-
-Best choice is to find somewhere else.
- &gt;The lease says 1, but it's expired. He allowed me to have a roommate before, but it was like pulling teeth. Now it's just like he's nonexistant.
-
-&amp;#x200B; The lease says 1, but it's expired. He allowed me to have a roommate before, but it was like pulling teeth. Now it's just like he's nonexistant. The terms of your contract are spelled out in your lease. If your lease says nobody else can live there, then that's what you agreed to and he is not required to allow you a roommate. So what does your lease say? You'll have to be more specific.
-
-What are 'his rules'?
-
-Is there language in your lease limiting the number of occupants?
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:217200ccf6e8f2b99e77757ebae1a69a173dc4528a450f479679f5a9322b2b91
+size 4310

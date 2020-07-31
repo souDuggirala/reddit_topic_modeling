@@ -1,13 +1,3 @@
-Neighbor mentioned that they wanted to push back the wall onto our property. We told him that property line has been the same since we moved in (almost two decades), but he said he had the land surveyed by professionals, which they said they own a part on our side. They also came onto our side to spray paint what they claim to be theirs. I was told that the fence was the property line for several years even before moving in. 
-
-Neighbors moved in about a decade ago, and now are disputing ownership on our side due to a renovation project. The owner does not live on the property and I believe owns the condos next door. 
-
-Note: this is for a relative and not me. 
-
-Any advice? Thank you for this helpful message! They never disputed this. They started pavement work 10 months ago, and relative told them that they could not build that close to our side, so they were pushed back closer to their side. Relative also has a paper saying that they are doing work/responsible for the work when they started the work 10 months ago. Now the owner is saying he paid a lot of money for engineering and it's not working (due to space limitation) and is now trying to claim a part of our side. Not a lawyer, but a land surveyor (not in Massachusetts). I find it odd that the neighbor has owned the property for 10 years and never raised an issue until now. Did they ever act like the area they are now disputing was their property?
-
-I would request a copy of the survey that they had done, and take it to another surveyor and have them review it. They may raise possible issues that would need to be resolved by a survey or your own, or they may confirm the other survey's conclusions. Keep in mind that a boundary survey in the United States is an opinion on the location of the boundary line, and not a final unappealable decision. Surveyors do the best that they can to recover evidence and resolve the boundary lines described in the deeds, but they can and do make mistakes.
-
-I would also talk to a real estate attorney in your area for advice. If there is a wall/fence in place along the supposed boundary line for 20 years, there could be a possibility of acquiescence or adverse possession. Perfecting title to property through adverse possession requires a quiet title lawsuit, which you may not want to go through.
-
-Start documenting things with photos, and any records that you have of where you were told the property line was. The City/County may keep survey records on file, but I am not familiar with the record laws of your state, so there might not be any public survey records there. Get a survey of your own done. Start with the town offices. Sorry, that's all I got. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:125d0a97d0db20711f0cccfa058cafdedc3695437e67ca4dc83b34206694101d
+size 2680

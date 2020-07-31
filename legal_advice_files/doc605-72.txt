@@ -1,15 +1,3 @@
-I was in an injury accident where the other person was injured. I called a local attorney specializing in accidents / injuries. His website advertises a free consultation. I told him a lot of details about me and the accident, but haven't officially hired him. He is in the same community as the accident and now I'm worried if the person I hit hires him could he use what I told him against me?  I assumed there was some kind of attorney client privilege, but now I'm worried. Maybe I'm paranoid, but just wondering if I screwed up or if he has some kind of duty to keep what I told him private. Should I worry? Should I hire him as a precaution now?
-
-Thanks &gt; I think you misunderstood. I was not the person injured. I am worried about being sued.
-
-I understood perfectly. I know exactly what's going on. [deleted] &gt; Yes. That's how they describe themselves on their website.
-
-Yeah, you're not fooling me. You weren't injured. You weren't calling to seek representation from that firm. You called to try to conflict out the PI firm because you hurt someone and you're proactively trying to take out perceived enemies. But it won't work. You're not the first person who incorrectly thought they could game the system.
-
-Judges and grievance boards aren't stupid. They'll know in 10 seconds that there was no chance of that firm representing you *as a defendant*, and within the next 10 seconds they'll know you didn't have a reasonable expectation of them representing you, so your claim of attorney-client privilege will go down in flames.
-
-I would applaud your creativity, but your idea wasn't all that creative. Sorry. [deleted] Did you call a dedicated personal injury firm? [deleted] Yes, it would make a difference. I'll just wait to hear what you wanted to know from the attorney. [deleted] What if OP didn't call to obtain representation? What specifically? [deleted] &gt; and firm who interviewed you
-
-What about subrule (d)? &gt; I called a local attorney specializing in accidents / injuries for some advice.
-
-What kind of advice did you ask for?  [deleted] [deleted] [deleted] An attorney has to run a conflict check before he/she meets with potential clients. If you spoke with an attorney in their professional capacity and they know your name and details about your case, he/she would be presumably conflicted out from taking the other side’s case. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5f71859b721dbed7f12cabfaec312a6041ebc9720e710322f571a6a170b59de
+size 2372

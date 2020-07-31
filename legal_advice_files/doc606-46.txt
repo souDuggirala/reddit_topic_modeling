@@ -1,2 +1,3 @@
-Back in 2017 I got a series of moving violations while working a job as a sprinter van driver. The total points from these would put me well over the amount that could get my license suspended, but I have plead not guilty and then pushed the court dates back on all of them and they are now all over a year and a half old. I have since moved to Pennsylvania and have not gotten any other moving violations.
-My questions are: Is it still possible that a traffic judge will suspend my license in New York even though the offenses occurred over a year and a half ago? And - if a your license is suspended in New York is it also suspended in Pennsylvania? I spoke to a PA traffic attorney who said that the points 'can' transfer to PA from NY or NJ, but usually don't. Yes, the judge can.  And otherwise listen to the attorney.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e9e40b875b35d0f1bec5cc9fc514962ef5bffcc14e5f32d7f57ac001287bf2b
+size 823

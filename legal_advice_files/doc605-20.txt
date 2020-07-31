@@ -1,15 +1,3 @@
-NC - A family member of mine lives in a development with no HOA,  the development has just finished being developed within the last couple of months and all of the homes have been sold.  I have two separate situations that I was hoping for advice about.
-
-&amp;#x200B;
-
-&amp;#x200B;
-
-1) The developer kept both entrances nice an tidy with a regular maintenance plan while they were selling and building.  Now that they have moved out, the entrances look terrible and are all over grown with weeds taller than the planted landscaping.  According to the homeowners that are the first houses at the entrances, they were told by the exiting developer, that they (the homeowners on those particular lots), were now responsible for all of the upkeep.  However, those homeowners feel that they are not responsible for the up-keep and just let it all overgrow.  It now looks really bad and is probably deterring future home buyers.  Again, there is no HOA and most feel that they do not want one.   People in the neighborhood are willing to have community clean up day to work on the entrances.  My questions for this situation are... How do the people in the community working on entrance protect themselves from being sued in case of a scenario where they accidentally kill a tree/bush, or break something (masonry features), etc?  Same question for the homeowners on those pieces of property; how do they protect themselves from getting sued by the community volunteers if an accident happens?  Both sides are afraid of committing to a solution out of fear of being sued.  I am personally willing to do the work, but I am not sure how to protect myself if one of the homeowner's does not like the way I trimmed a bush or something trivial.  Any advice?  Is an HOA the only option?
-
-&amp;#x200B;
-
-2) Now the developer has left, lots of people are ignoring the strict covenants that the original homeowner's had to sign and agree to when the homes were built.  If I understand correctly, these covenants apply regardless of how many times the property is sold, rented, etc.  My question is, can these covenants be enforced without an HOA present, and how would they be enforced?     
-
-&amp;#x200B;
-
-TIA
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdf8abad2758cc4b39e9ede87aa1cd95b204b3ae3a2304fde267e4f0ef99ced1
+size 2194

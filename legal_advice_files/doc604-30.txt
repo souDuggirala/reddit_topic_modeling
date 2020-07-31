@@ -1,10 +1,3 @@
-I made a t-shirt design in Photoshop and posted in r/brooklynninenine. Someone used the design without my permission and sell it on shirts (made about 680$ so far)
-Can I do something about it? I tried to contact him and he ignored my messages This is a mess.  So you stole [/u/hello_luigi's artwork](https://www.reddit.com/r/brooklynninenine/comments/a2nldx/celebrating_the_new_season_with_my_take_on_the/), took a few minutes to rearrange it and slap it onto a t-shirt design, and then someone else steals *that* and sells the t-shirts.  And meanwhile, the entire affair is trademark violation of the TV Show.
-
-You have no legal recourse here. No, you cannot do anything. 
-
-If you want to give them a scare and maybe have them stop, google a template for a Cease and Desist order.
-
-Email/mail them a cease and desist letter stating that they do not have permission to use the photo and you will pursue legal action if they continue to do so.
-
-You’d spend more on legal fees pursuing this case than you would receive if you won. Sorry. Next time use a watermark.  [removed]
+version https://git-lfs.github.com/spec/v1
+oid sha256:746947c4b05e092fc4298baa3b861494e61bca5d61c5794d352411c4ad8bc0cb
+size 1075

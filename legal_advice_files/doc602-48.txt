@@ -1,17 +1,3 @@
-Hi r/legaladvice
-
-&amp;#x200B;
-
-I am a low-level employee at a venue and we recently had an event that was egregiously bad. So bad that people wanted refunds. I felt cheated by the sponsors of the event so I contacted a local newspaper about it. I used a fake name and requested anonymity but because of miscommunication within the paper they ran the story with my fake name and position in the company. 
-
-Because only a few people have the same title as me it was going to come out that I was the one who contacted the media. My boss reached out to me and asked if I had spoken to anyone and I admitted to it. They said they were grateful to me for being honest and were going to talk to some others and call me back. When I received a call back, two hours later I was put on speaker phone with other people but I don't know who. 
-
-They asked me about when I contacted the paper, if I'd used a fake name, if I'd made it clear I was speaking my own viewpoints, and if they could see a copy of the e-mail I had sent to the paper. I was honest about everything but was hesitant about sending the e-mail. I want to be compliant because I intended no ill wishes to the company and I didn't reveal anything that was "confidential" or being kept under wraps. So I sent the e-mail that I had originally sent to the newspaper to my company. 
-
-&amp;#x200B;
-
-Am I in any sort of legal trouble for "leaking?" Should I seek out council for any other conversations that I may have with the company? What about turning over documents, should I release anything to them if they ask for more? I have never been in any sort of situation like this and "honesty is the best policy" will only get me so far.  As long as you didn’t lie it’s not slander. I can’t imagine there’s a basis for a civil suit for using an assumed name. 
- 
-If you think you’ll be fired, try and find a job ASAP and resign.  [deleted] High likelihood you’ll be fired for cause and if apply, denied unemployment. Probably for acting as a representative of the company without permission. 
- 
-You don’t have to give them any other information, but that will also get you fired. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:06af24aa089ec460ad5345e4e0e96cea0f0003cb0c4bd3b6ba4c939a5f3eb44d
+size 2143

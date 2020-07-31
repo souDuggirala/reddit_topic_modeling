@@ -1,1 +1,3 @@
-legal education is not only meant for lawyers or law students but is also helpful for ordinary people to help them deal with dreaded situations. with the right knowledge of all your fundamental rights and other lawful terms you can tackle any situation. legal dictionary provide you help with all civil criminal and family law terminologies as well as some also has case briefs to make you familiar with sharp points of the case. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:daabe306f71177d4e7d9020354028c3c4a272af56b1c6924f4edf67e4f96f5b7
+size 430

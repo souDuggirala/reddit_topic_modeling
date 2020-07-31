@@ -1,12 +1,3 @@
-My downstairs neighbor insists in sending her grandchildren to play on the garage, which is strictly prohibited in the rules of my condominium.
-
-I care because
-1- the kids play unsupervised the majority of the time, which is dangerous. 2- the garage is right under my window so there's a lot of noise which prevents me from working or studying at peace.
-
-Manager says he "doesn't believe in taking extreme actions such as fining" and that he already talked to her and she claimed to have stopped. I then start to make videos to prove that she hasn't and send them to the manager via WhatsApp.
-
-He is now ignoring my calls and messages.
-
-What do I do? 
-
-I'm in Brazil, and I understand most people here won't know Brazilian law but I'm wondering if, in general, this is worth fighting for.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c944b84334aa316a0add52e227d6bc6374ad8365c237ee9ac8cb499a746833cf
+size 788

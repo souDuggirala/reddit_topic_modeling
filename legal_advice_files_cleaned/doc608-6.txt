@@ -1,1 +1,3 @@
-i live with two other people. one of my roommates is all for paying his share but the other is claiming he not here enough to warrant paying a fare split. do i have any recourse to get that money or am i just out of luck #x200b; if the agreement was to split utilities evenly then one or both of you can pay for the delinquent roommate portion then sue that roommate in small claims court for what they owe. what does his lease say regarding how the utilities are split 
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dafa0d6b6fb2e752fe46bc5917044c8483ac80548cc612b650616cfceff91ba
+size 470

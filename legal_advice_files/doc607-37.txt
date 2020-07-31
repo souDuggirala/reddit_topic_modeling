@@ -1,35 +1,3 @@
-Last year, January 17th, I was hit by a pick up truck making a right turn on red as a bicyclist. I believe the statute of limitations on this is 18 months, but please do correct me if I'm wrong.
-
-The driver of the pick up got out to make sure I was okay, and seeing that I was able to get up, gave me 100$ and left the scene. This bit of detail, I didn't mention to the cop, so its not on the report. As he drove off, I was able to memorize his plate number.
-
-I wasn't in any pain initially. As I was leaving the scene, a dude told me I should call 911. I did. An officer came, along with him came an ambulance. I didn't have insurance at the time, so I refused medical attention. He ran the plate through his computer and found it matched my description. It turns out it was a company vehicle for Sprint.
-
-Though I wasn't in pain initially, my arm began to hurt, I was afraid it was broken and so after arriving home, I ordered an uber to get to the hospital. They told me it was just a sprain. The two minute check up alongside a prescription for a muscle relaxant cost me $2,000. I thought charity care would cover it, but a few months after the hospital visit, I learned accidents are not covered by CC.
-
-Now, nearly a year after the fact I'm filing a suit. First off, is my delay something I would have to explain to the judge? If so I don't imagine it would be too crucial...All I've got is a three part excuse for this: One, I'm a lazy sack of shit, two, its on record that I've gone through a pretty severe episode of depression from before the time of this accident to around late august, and three, not having a car or money for an attorney made it very difficult for me to take care of this.
-
-But here is really what I'm looking for advice on: I really only need $2,000 for the medical bills, but another $1,000 on top of that wouldn't hurt. The limit for a small claims suit is $3,000. I feel like I would do well in representing myself in court for the $2,000, as the bills $2,000 exactly, but would the judge look upon me less favorably seeing that I'm trying to make some extra cash in all of this?
-
-I don't have any other resource for help, so if you feel I've got something wrong in my understanding of this process, correct me and straighten me please.  Thanks for this. All that law &amp; order's instilled some misconceptions in me. I won't go above 2k. Although the courts do include court fees in criminal cases, I think I can charge them the filing fees. You could add in lost wages, yes, but only for medical reasons, not for stuff like court time.
-
-Your idea of "protocol" is a misunderstanding. A court case is not a blank check; you need to justify how much money you're asking for. In some (well-publicized but rare) cases a judge or jury may make up a big number, but usually you have to specify exactly what &amp; why you're asking for. Keep in mind that if he has insurance, they will hire an attorney to represent both him and the insurance company.  You haven't even filed a claim with them at this point.  If I'm only looking for 2k, in what way can small claims court screw me over?
-
-I already have contacted a lawyer...they won't pick up my case. Those personal injury lawyers just want to be paid by a portion of the settlement. There was one dude who was incredibly enthusiastic about the case, but when I told him the accident had occurred 8 months prior and I hadn't gone to see any doctors for a follow up, he told me he would have a hard time forcing them to settle, much less convince a jury to grant me any kind of favorable verdict. 
-
-He literally told me the cost for me to pay him his fees would be greater than the $2,000 I would get from the company if I was only looking for the cost of the medical bills.
-
-I can't think of a venue better than small claims. I don't have to hire a lawyer, and I'm articulate enough to present my case, which I feel is pretty solid. 
-
-Again, I'm perfectly fine with just getting 2k, which is exactly the cost of the medical bills...but it wouldnt hurt to win an extra $1,000.
-
- Do you think I could do something along the lines of lost wages? I didn't miss any days of work but would it hurt to add like 200$ of that...plus my time off work in having to go to court.
-
-I think the cop might be able to remember as he was a really nice dude and we had a nice conversation...he asked headquarters if he could take me home although I lived like 45 minutes away.
-
-In cases like this I feel like proper protocol from a lawyer is to file for the max, and then have the judge grant what he feels is fair.
-
- You should contact a personal injury attorney.  Hopefully, the other driver has insurance that will compensate you.  If this has not been reported to any insurance company, you may run into issues with them accepting liability. 
-
-As stated above, small claims court really is not the best venue for this type of tort. Pain &amp; suffering are usually not an option in small claims court, so whatever the judge thinks, you're not going to win it. In other words, it can't help.
-
-The delay probably won't hurt too much; legal processes often take a long time to shake out. The only risk is that if you wind up trying to collect more evidence (like getting a statement from the police officer), their memory is less likely to be reliable.  
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ad8c3613345c9e608f5bb5ba480fba78d9a7e0f0a052a1126c94f730cea28f6
+size 5319

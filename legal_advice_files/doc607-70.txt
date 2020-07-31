@@ -1,3 +1,3 @@
-My fiance and I would like to be able to view the will of her deceased grandfather who we know has left her posessions yet the executor (her uncle) has failed to acknowledge and is being generally unhelpful.
-
-Does anybody have any advice? Apparently in my state they have like 3 years to file in probate. They probably have three years, but they might not know that. You can probably get a lawyer to send them a letter.  Gotta play the long game then, if he did something funky in the meantime you can get relief at the end, but untill probate is filed it is what it is, you cant do anything to rush him if he truely has 3 years. it has to be filed with the probate first, but something tells me the executor won't do so for a long time if at all necessary. The will should be a publically registered document [removed]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1a1e719ebad62e9c58603e6a43f1de7079988c3e447f35b347d796eeeb77c82
+size 819

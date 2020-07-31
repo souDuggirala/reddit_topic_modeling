@@ -1,1 +1,3 @@
- what state are you in california for instance has strong laws regarding use of likeness. who took the picture 
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9b91fabe11884d988b1695cd3ab6dc0020d5babdae0de8343e6a1676d500828
+size 111

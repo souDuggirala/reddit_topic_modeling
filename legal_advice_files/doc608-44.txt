@@ -1,13 +1,3 @@
-While my friend was interviewing for a job, two different acquaintances (one being a previous colleague) sent the new employer derogatory letters attacking the professional skill and character of my friend. The letter stated my friend was previously fired for ethical reasons such as violating NDAs, etc (none of it is true) and that my friend is of such low moral character that the future employer should avoid hiring them at all cost, even saying they should return to their home state to receive "professional help."
-
-Fortunately, the employer realized what was happened and did, in fact, offer my friend the job. I'm just wondering if there anything my friend should do or any recourse to take in this instance? Is that behaviour considered harassment or is it a case of ignore it and hope it doesn't keep happening? Good luck.   I know in Texas, it can qualify in certain cases, but not in others based on the circumstances.  I would be confident that the lawyer you meet with would have a much better and complete answer since they would know the specifics.   Thanks. I think they'll consult a pro and see what the advice is. I know that people can have any opinion they want, but when it started to get into professional conduct, I had a feeling it would be worth chasing down.
-
-Do you know if defamation qualifies if the other party is out of state? It depends on how far your friend wants to take this.  He suffered no damages since he got the job.  However, he may want to take steps to protect himself in the future.  
-
-He could request an attorney draft and send a cease and desist letter to this person.  
-
-He could request a consult with an attorney to discuss the specifics of what was said and see if harrassment would apply (although typically not if it was a one time issue).  
-
-He could request a consult with an attorney to see if this qualifies as defamation per se, which does exist in Colorado.  In defamation per se, the victim does not have to have actual damages.  One of the qualifiers is that there is an allegation of professional misconduct, which you stated there was.  For that reason it may qualify.  
- Sorry, updated with location.
-Friend is in CO. Other people were from out of state [removed]
+version https://git-lfs.github.com/spec/v1
+oid sha256:7854b201f96aa2982ff5f3c10c1813fca2e75abbf94a665a928792ef0d5cda12
+size 2229

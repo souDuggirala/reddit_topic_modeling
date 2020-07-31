@@ -1,11 +1,3 @@
-I'm on mobile so apologies for formatting and all that jazz.
-
-My boyfriend recently told me that his boss monitors his work conversations at the store (like they have security cameras but with sound so they can hear everything that happens in the store).  I did a quick google search and apparently this is illegal without consent according to a federal wiretapping law.  
-
-My questions:
-
-Are there any state laws that can trump the federal one?
-
-Should my boyfriend be concerned about this (he doesn't seem to care at the moment)
-
-Should he do something about it? [deleted] Wiretapping laws are broader than this, they apply to recording of any conversation in which the participants would have a reasonable expectation of privacy.  But since this is in a public place with no such reasonable expectation, there is no issue. There is no federal wiretapping law that would apply here, this is entirely intrastate activity, it would be governed by the SC wiretapping law.  However, the more important issue is that it’s not illegal to record where you have no reasonable expectation of privacy.  While there would be exceptions for the area like the bathroom, and MAYBE private offices or break areas, generally the space in a store is fine to record audio in.  Nothing appears to be illegal here. [deleted]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c81465c3e0fb759beb4c44ade78b9ca8c3686b4df70ee9c8b975a80ac99664a
+size 1308

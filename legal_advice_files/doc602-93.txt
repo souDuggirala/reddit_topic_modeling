@@ -1,5 +1,3 @@
-I’m in California and I rent a 3-bedroom apartment with two subtenants who have stopped paying rent. If I stop paying my rent because of this, I know my landlord has to sue all three of us. But will all three of us be responsible for the unpaid rent, or just me? Only me and my former roommate who moved out before I got these subtenants. Who is in the actual lease with the landlord? But I’ve read in multiple places that my landlord can only evict all three of us, not just me. Is this not true? Unless your landlord has a lease with the other two people you're getting sued, not then. You'll be responsible for the unpaid rent, not them. You are the landlord for your subtenants. Therefore, you are wholly responsible for the amount listed in **your** lease, and your subtenants are responsible for the amount in **their** lease. If you stop paying your LL, they can and will sue you for the entire amount of your lease. You'll then have to sue your sub-lessors for the amount they owe you for their lease.  Just you.
-
-&gt;  know my landlord has to sue all three of us
-
-No. Your landlord has no contract with the people you subbed to. You could sue them. But you owe the full amount to your landlord no matter what.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c03c4be59c299871f3d09af385424eb7284738b209f1fb70e87a7ac3917c811
+size 1222

@@ -1,23 +1,3 @@
-I returned to work today after being out since the 14th of November. I had surgery for a bilateral hernia in my groin. Not pleasant. The disagreement started when I asked my HR rep "Dick" why I hadn't received a paycheck.  I should have received 70% of my pay for the second week I missed. Dick asked why I hadn't filled out "Short Term Disability" paperwork to receive the benefit, and I responded that we had never discussed the existence of this document(my supervisor also admitted to having no memory of this paperwork being mentioned in a meeting held before my surgery with all parties mentioned to discuss required paperwork to keep my job secure). As you can imagine, I was quite upset. I feel like it's his job to make sure the paperwork specifics were taken care of and to make sure I am aware of any issues and now he was blaming me for all of it. 
-
-&amp;#x200B;
-
-So the discussion got heated as Dick was now saying that my job is at risk due to the fact that I didn't have a doctor's note reflecting that I'd be out of work for 2 weeks "after" the surgery. I guess a doctor's note saying that I was having surgery on the 14th and the subsequent "Fit For Duty" paperwork detailing my light duty restrictions for another 2 weeks wasn't enough. 
-
-&amp;#x200B;
-
-Fast forward to the near conclusion of the meeting where Dick now decides that I am not allowed at work until the last two weeks of my absence is verified with a doctors note and he sends me home without pay. 
-
-&amp;#x200B;
-
-Is it legal to send me home without pay even though I have a "Fit For Duty" document filled out by my surgeon stating that I am physically able to work as of today? Is this private entity I work for required to pay me for the hours I missed today?
-
-&amp;#x200B;
-
-I feel like it's relevant to state that Dick was going to let me return to work for the day until this big heated argument happened. I was walking out of his office door to return to work before our discussion got heated and escalated.  This also isn't the first heated argument we've had, as I've been very vocal about the recent benefit cuts at my job and the possibility of a union.  FYI living in Washington State.
-
-&amp;#x200B;
-
-Thank you for your time.  Did the note say you were to be out of work entirely or on light duty? If it said light duty, that is supposed to go to the company prior to your absence with your restrictions and they tell you if they have work for you that will be within those restrictions for that time period. If they do, you show up and do light duty work. If they don’t, you stay at home.  Yes they can send you home and yes they can require you to get specific paperwork from your doctor.  
-
-When you left on leave for your surgery it would be considered your responsibility to ensure that all the paperwork your employer needed was done and everyone was on the same page for what to expect, that doesn't seem like it was done.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a96e42d29072d426444f2861a619c9e6f1af2e1a379b8e67b6d7878a0959a74b
+size 2923

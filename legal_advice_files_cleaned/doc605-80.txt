@@ -1,1 +1,3 @@
-so last year i shot a music video for a young artist and we agreed to split whatever revenue made from the video 50 50. the video went viral and we were making good money which we were splitting. about 4 months ago he got signed to a distribution company so now the video on my channel no longer allows me to receive any revenue from the video. is there anything i can i'm presuming he filed a copyright claim on the video. i know where ownership is drawn between artist and filmographer in this case but it likely comes down to whatever contract you have. if you have written agreement that be 50 50 probably okay. either way you should talk with a copyright lawyer because copyright can be super complicated. you need a lawyer to sort out the copyright and contract issues involved. i'm not a lawyer but it sounds like you need to hire one. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d165c902898678cdd3b8478c06d0886a067241b68997778c7df33040b33e16e
+size 843

@@ -1,1 +1,3 @@
-are certain things like buildings or gun designs allowed to be 3d modeled and used in games read somewhere that old buildings are not allowed unless you have permission from who knows where. i'm more interested in knowing about gun designs because i find good information on that. very much appreciate if someone would give me some insight on this matter.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c5bb6b53a1e413ac5506a7535f73bec96edab722da83aa00bbc4a41e99a7c65
+size 355

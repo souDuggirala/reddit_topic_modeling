@@ -1,15 +1,3 @@
-In Pennsylvania, a friend of mine (really!) was arrested on this charge, after they found a lot in the back of his truck (0ver 80 lbs). This might sound a silly question, as it's a felony, but how serious is this? Do mandatory minimum sentences exist, and will a plea deal likely get it down? That's one way to put it I think he's been very very silly At that point it might become a federal crime He's paying for a good lawyer. He definitely crossed state lines - he doesn't live in the state he was caught in, and was on the highway.  [deleted] That's going to be difficult to determine.
-By itself, this charge has a maximum fine of $15,000, and a maximum sentence of 5 years - for a first offense.
-
-Then it gets complicated.
-There are other charges that can be brought in conjunction with possession with intent to deliver.
-
-Possession of paraphernalia can carry an even higher fine, and longer sentence.
-
-Then there's the school zone mandatory minimum sentencing, and in Pennsylvania that's not as easy as simply looking to see if there is an actual School nearby.
-
-It can be added on any time the offense took place within the prescribed limits of any property owned by a school - any type of school.
-
-If they can prove that he crossed state lines in order to bring the pot into Pennsylvania then you have additional felony charges there as well.
-
-Your friend needs a good lawyer ASAP. Thanks, I don't think he has much of a history, but he's been incredibly stupid.  These are all great questions for your friend to ask their lawyer. 80 pounds is a lot. It looks like it could be up to 15 year Depends on priors and how much he can spend on a lawyer, really.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1592649a4be6528a0bd72b83bf9ce62d99251c35f6dcab54dcd3bd3bd9234ad
+size 1664

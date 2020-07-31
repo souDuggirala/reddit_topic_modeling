@@ -1,25 +1,3 @@
-I live in NC and we are an at-will state.
-
-I was a Property Manager and Community attendant at the property I worked. I received a 20% discount for being a manager and then an additional $300 for the community attendant position (available for noise calls). I signed same lease as everyone else but had special stipulations reflecting discounts and stating if my employment is terminated said company can force me to move.
-
-I’ve lived at the various properties of my employer from 2012 to 2017 (break between July ‘17 and July ‘18) never had a noise complaint until Oct of this year. I had a guest over who drank entirely too much and I was unable to subdue him and of course the noise/yelling disrupted neighbor downstairs. The downstairs neighbor called cops but no report was created as cops could not hear anything when they arrived. She did receive and acknowledgement from cops saying they came out for noise disturbance. I ended up calling police on my own guest to have him removed. I tried to cancel the call once he said he would leave but due to it being a male and female in a dating relationship they would not cancel the call. Cops came and he left.
-
-I purchased resident an apology card next day but didn’t give to her because I wanted to make edits. The following week I received a call from the director asking me what happened as lady complained. I told them what I typed above and also said its an anomaly because this is my first complaint in 5 years. Note I have 6 years with this company and no marks against me. Not a single write up and scored a 96.7% on a surprise internal inspection of my property the same week as incident.
-
-They fired me on 10/17 because they said “I was not remorseful enough and they think I need to do something else”.
-
-Note the same week I was fired a male employee received his second complaint from a female resident saying he made her uncomfortable. The same director that fired me gave the male employee’s manager insight on how to phrase an internal incident report so he would note lose his job (CEO is big on remorse so make sure you stress that when typing up the internal report is what she told my friend at the company). I was not provided this insight at all.
-
-A white resident was able to keep her apt after her husband threatened to kill neighbors for calling cops on him for beating her. We moved the neighbors who were threatened and the lady was not required to show remorse or apologize to her neighbors although I was. Again we signed the same lease.
-
-Male employees are also allowed to break policy multiple times with a slap on the wrist because we were desperate for maintenance. 
-
-It appears if I had shed a tear or begged to keep my job I would’ve.
-
-Do I have a case or is this just? Thanks for your time. Thanks. Just asking before and/or if going anywhere to get some other viewpoints as its easy to get tied up in the emotions of it all. A single incident of "he didn't get fired and I did" does not necessarily indicate discrimination. Nor is "not showing remorse" necessarily protected by state or federal law.
-
-You can of course make a complaint with the EEOC. I doubt that it will go anywhere, as none of this, as described, seems actionable. 
-
- &gt; Do I have a case or is this just?
-
-You mean "is this legal". An employer is not required to be just or fair. Nothing in your post indicates you would have a successful case for wrongful termination. File for unemployment look for a new job.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7451a48762df01ad3b0d125013305ac0de825af062dcee6f8c6bbaca38db8e5
+size 3488

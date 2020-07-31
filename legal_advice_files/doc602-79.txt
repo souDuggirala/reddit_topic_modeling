@@ -1,7 +1,3 @@
-Does someone *have* to report you for a crime? Can you turn yourself in, even without a warrant? [deleted] The answer to that depends entirely on what's being confessed.  Either way, it's likely that an officer would interview the person confessing, and take down their statements about the timeline of events that happened, and then fill out their report.
-
-Depending on the nature of crime, the police could immediately remand this person into custody.  They may not.  They also may not believe this person, which isn't an impossibility.  Either way, the police are likely to speak with connected, interested parties and try to verify the story.
-
-If this were a confession to a violent crime, the person confessing should expect to immediately be taken into custody until, at a minimum, arraignment.
-
-I'd strongly recommend speaking with a lawyer before confessing to anything or admitting to involvement in a crime. Without a criminal defense attorney, the police will ask you to sign a confession so that if you change your mind later, the confession can be used as evidence at trial. You will be indicted, go to court, and then plead guilty in front of a judge, and then will be sentenced. [deleted] [removed] You can definitely appear in person and confess to the commission of a crime, or show up as an interested person in an ongoing investigation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:710fa0ea124b171cd848ebaf79322d3ced095debe4ae24e9fe67c9abd755506e
+size 1355

@@ -1,15 +1,3 @@
-I was released from custody pending trial, I am now living with my parents in the meantime. The judge ordered that all firearms must be removed from the property and that I am not to be in possession of any of them. Nothing more nothing less.
-
-Ok fine, my dad packed up all the guns off the property and we moved them with a relative 90 miles away. 
-
-I notified probation, when asked, that there were no longer any firearms on the property. 
-
-Now, they are demanding a complete inventory of all guns and amunition, including serial numbers. Which, I believe is already beyond the scope of the court order, but also outside the powers of the probation services. As none of the guns are my own, can they reasonably demand all these things?  Your best bet at getting a most accurate answer is asking a real attorney. Maybe you can set up a short consultation with one for free.
-
-Do you not have your own lawyer?  State is Montana, registration is not a requirement, and storage laws are non existent. I understand what you're saying. I havent dealt with the feds but i have seen state probation officers at work. It does seem to me they're asking more than what is required. Strictly my opinion though and i have no idea how the federal probation officers handle things.
-
-Thanks for the feedback. I responded to further discussion and hopefully OP can learn what is in their scope and what not when others chime in. Fucking with federal law enforcement is never a good idea.
-
-We have no idea where OP is, so gun registration and storage laws may demand this. Otherwise, the PO is within his rights to verify that every gun registered to anyone in the household has been relocated.
-
-If you don't want to be strictly supervised, don't break the law. Not a lawyer but it seems like the best response would be: "what guns? You are more than welcome to do another walkthrough of my house to verify."
+version https://git-lfs.github.com/spec/v1
+oid sha256:2eb29cd4a09ee181cb602938e9550fbfd9645eaea01864ecdcc655772aa1506d
+size 1891

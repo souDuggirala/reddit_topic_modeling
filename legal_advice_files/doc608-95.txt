@@ -1,13 +1,3 @@
-I live in Canada.  I have been renting a 2 bedroom apartment by myself for the last few years.  I've decided that to get a bit of extra income, I will rent out the unused 2nd bedroom.  My landlord says this is not permitted.  I feel cheated since the appeal of this 2 bedroom apartment was that I would have the flexibility to rent the extra bedroom if needed.
-
-&amp;#x200B;
-
-Is a landlord permitted to prevent me from having a roommate who shares the apartment? The landlord may be objecting to another resident who is not on the lease, like a roommate would be. They can have reasons to be worried about this. Did they clarify what would be acceptable? Read your lease and see what it says. In the US, lease clauses that conflict with existing laws are unenforceable. I’m assuming it’s the same in Canada. A two bedroom apartment, by definition, is for 2 people. Great advice, thank you. Your landlord may be saying no, treating this as a sublet. As you noted, its not. This would be a situation of you bringing in an additional occupant as a roommate. To be clear, this person would NOT be an additional tenant; you are the only tenant as you are the person on the lease. 
-
-I'm pretty unfamiliar with NL tenancies. We can't just look at the RTA. In addition, the common law applies (judge set precedents) as well as how your provincial tribunal tribunal has interpreted the RTA. In many provinces, tribunals have held that landlords can't prevent their tenants from bringing in additional occupants, as long as the number of occupants isn't unreasonable. They base this on the right to peaceful enjoyment / quiet enjoyment. NL has this kind of language in its RTA too, namely
-
-\&gt; 87 (b) The landlord shall not unreasonably interfere with the tenant’s peaceful enjoyment 
-
-Try giving [your provincial tenancy agency](https://www.servicenl.gov.nl.ca/landlord/residential_tenancies.html) people a call and asking if you can have a roommate.  Gotcha.  Thanks for the clarification. The way I understand subletting, yes -- you'd be renting out a portion of your rental unit to someone else, under an agreement between you and them, and you'd presumably be their landlord.
-
-However, others here seem to have a better grasp on how this works in Canada so I'll defer to them. Sorry, the province is NL.  I was unable to find anything pertaining to roommates in the Residential Tenancies Act. [deleted] Province is not optional here. Tenancy law varies considerably by province. If you were in Ontario, for example, the answer to your question would be an emphatic "no".  In most provinces, this would not be a sublet - a sublet is of the ENTIRE suite, not just a bedroom. Instead, this would be treated as a roommate situation.  Is this really subletting though? Many places in Canada require the landlord's permission to sublet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0185d3a6370193c05cfded84181f0f546b5fc0bfec7cd8fdac2f4394b60f7e98
+size 2833

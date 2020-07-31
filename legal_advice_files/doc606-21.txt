@@ -1,21 +1,3 @@
-Hi Reddit, I worked with a sign maker to fabricate and install my main sign above my cafe business. The installation had several hiccups where installer did not install the sign to spec and with some wires exposed. The sign maker took a while, but he eventually fixed the issue. I then paid him in full after being satisfied with the work.
-
-About a week later it rains, and now only half the sign illuminates. I contacted the sign maker letting him know that I have my grand opening in a few weeks and he said he’d take a look.
-
-A few days pass and nothing. I then text him if he can come and see the sign and he replies “tomorrow”. Tomorrow comes and again I text him if he’s coming. Again he replies “tomorrow”. Tomorrow comes and goes and I text again - no reply.
-
-What should I do at this point? My grand opening is soon and I cannot have a sign that doesn’t illuminate, especially in the winter. I never signed a contract with him and only have email/text correspondence agreeing to the price and work to be done.
-
-I am thinking of having someone else come and repair the sign and then making the original sign maker pay for it. Is this reasonable? &gt;There is no “default warranty” for work done by a private company/person.
-
-That is not true at all and varies depending on the trade.
-
-I am wondering if this applies to commercial work. It certainly applies to home building and some automobile work.  Like you said, there was no contract, only the correspondence by email, so already that hampers any case you might've had. 
-There is no "default warranty" for work done by a private company/person. 
-
-The sign maker is not legally responsible to repair a sign that broke a week into your possession of it. 
-
-I would not advise hiring someone else to come fix it, if you're counting on being able to recover the money spent from the original contractor. 
-I suppose you *could* file a claim in small claims court to try and recover the money from them, but the court would likely not rule in your favor, in which case you'd only end up out more money. 
-
-Your best bet is to keep trying to work with the sign maker. He doesn't have any legal obligation to fix it at this point, but hopefully he will be willing to do so, to keep you as a customer satisfied.   
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a188045200c6e77311511d80dd248f5878bfae40f431eae776cf74d5926e99d
+size 2283

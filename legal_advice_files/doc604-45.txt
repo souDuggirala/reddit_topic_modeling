@@ -1,25 +1,3 @@
-Looking for some advice/experience in this. 
-
-Some background -
-
-Father was given joint primary custody (9 and 12 year old are with him 5 days/week) because he kept the house and was to keep them in their environment. Mother left the home due to dysfunctional relationship.
-
-After paperwork was filed, father sold the home and moved them 2 hours away.
-
-Mother sees children 3 weekends/month. Wants primary custody but father refuses.
-
-Fast forward 2 years - Children are begging to live with mother primarily, afraid to tell father.  saying things like, "lonely, dad doesn't spend time with us, babysitter gets us to school and after school care til 6pm, wont help with homework, no family time, etc." 
-
-What is the mothers best course of action regarding changing custody. Do the childrens wishes come into play?
-
-Mother has a stable home with no other outlying factors, no negative history.
-
-Father is planning to move again next year, 1 hour away. Refuses to co-parent. Has not completed any of the requirements per the custody agreement (therapy/quit drinking, etc).
-
-&amp;#x200B; Under CA law (family code section 3042), the judge is required to take the kids' preferences into account if "a child is of sufficient age and capacity to reason so as to form an intelligent preference as to custody or visitation."Sounds like the kids are able to do that.
-
-That does *not* mean that the kids' preferences will overrule other considerations.
-
-If you want to ask the judge to reconsider custody, you'll need to have your attorney (you *do* have one, right?) ask for a custody modification. That will start the ball rolling.
-
-Side note: if the custody agreement requires him to do things and he hasn't done them, he may be in contempt of court. That might be worth asking your attorney about too. I've gone through a custody battle and its definitely not pretty.. Her best course of action is to file new court papers for custody modification. If you fear for your child, file an exparte which will give you a court date immediately.. If not then get the regular papers at the court house in the civil area, make copies of everything and explain the situation of why you want the modification. I also suggest if it's possible getting a lawyer because things can get messy and complicated very quick. The oldest child can speak to the court if that's something you wantto put the child through..  My daughter spoke to an investigator/mediator to have them be an impartial 3rd party and represent the kid. Any other questions i might have an answer Take the father to court. The courts usually benefit the mother as a primary care giver, unless there is mental illness, domestic violence issues, or substance abuse. The judge may suggest mediation but it doesn't sound like there is any civil way to come to a compromise. The children's wishes are taken with a grain of salt. Not exactly sure if the mother gave up her rights when she left, but don't be afraid of going to court or getting a lawyer to help. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:55ebde91cd2a4c0a35e8dbb7f76f4b6ec439320930a58520d6390699b8ebdf3c
+size 3005

@@ -1,1 +1,3 @@
-This is in Georgia. Where exactly can I find this law? I know it exists but I can't find it to show them. Thanks!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ad55e24d1ed107dc169fb7dabf5eb32b6d6d8e441f41bdb995ab3430aa3dd2f
+size 113

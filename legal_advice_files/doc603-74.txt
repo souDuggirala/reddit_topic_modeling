@@ -1,5 +1,3 @@
-Its moslty junk mail and ads for stores. The mail person must not check names too well as I get neighbors mail who live a street over from mine almost everyday. If I don't want to walk to their house every single day will I get in legal trouble for not handing their mail back to them? After all its not my jobs but the mail persons who refuses to do their job right. 
-
-New Jersey Yes, you will.  You can give it back to the carrier who mis-delivered it to you, take it to a post office, or just drop it in any big blue sidewalk mailbox. 1. Place it back in your mailbox and the mailman will take it to the correct address
-2. Contact your local postmaster and complain
-3. Do not just throw it away [deleted]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4b472ceed25a72edda11455c19ede3d7740570d95ee742bca252ebc1efa7be8
+size 707

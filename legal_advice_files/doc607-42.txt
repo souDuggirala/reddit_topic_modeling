@@ -1,3 +1,3 @@
-I would have thought that all the people who would be present at the place the time the police shows up would be arrested(workers, etc) but i saw this happen recently and 10 mins after the police leave or so its like they just shut the place down(lock it up) and all the workers and people just leave?  So why are they actually getting shutdown and cosequences so low?  Another time this happened I saw the people who I had known work at a place that got shutdown the day before the next day. Perhaps it's a simple case of a business having some code compliance issues or some such thing, and not criminal activity.  Even if the dispensary were illegal, that may be something unbeknownst to the employees, so perhaps the police are targeting the dispensary itself and the owners, not the employees.
-
-Marijuana is legal in California in various forms and for various reasons, but illegal at the federal level.  Local/state police would generally not being going into dispensaries trying to enforce federal law.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47ca4f7c22477f70b8f1834aa3833c44cd8727de61a1e5697681228950374114
+size 1009

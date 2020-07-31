@@ -1,6 +1,3 @@
-Should I be worried? Do I need an attorney?
-I’m fully insured with bodily injury covered to $100K but wtf. Why would they get an attorney if we are both insured?
-This all seems like a scam because the lady driver got out of the car and was fine until they called someone who screamed at them in a foreign language and then all of a sudden she grabs her back and acts hurt, but then drives away just fine. 
-I got word of the claim today. I’m petrified.  Hi genericusernamemom, any update on your situation. I got in an accident a while back and then just heard recently the same claim. I'm in a tort or not a no-fault state as well. Though your coverage is very high so that is good for protection. Mine is not though. Im wondering what we can do to protect ourselves, as I just have some pictures I believe. I bought a dash cam recently as well &gt; Do I need an attorney?
-
-Not yet. Just notify your insurance company ASAP and they'll deal with it. Make sure you cooperate with your insurer. Not a concern.  Everyone sees an auto accident as a way to cash in ... Let your insurance company handle it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf35a33fc5792cf28a5492b820cc070ade8e183f3607027a45d75b4d17f5ff25
+size 1104

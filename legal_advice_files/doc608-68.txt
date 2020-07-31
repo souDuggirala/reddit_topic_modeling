@@ -1,15 +1,3 @@
-Three weeks ago my roommate and I wanted to renew our leases (individual leases) for our apartment. I emailed my complex asking to renew my lease for next year. They replied telling me to call them to verbally request it. I told this to my roommate so he just called and didn't email them, he was told the cost of rent and that they will send him the lease. I called right after he finished. On the phone they told me the price of the rent for the following year and that I was all set, I asked if there was anything else to do and they told me they will send me the lease. 
-
-&amp;#x200B;
-
-My roommate got a call from them a few days ago telling him to sign it and so he did and he got the price that we were both told at the same time. I didn't know he had already received his lease so I kept waiting until he told me yesterday he already signed it. I called today asking them what happened and they say they have no proof of me asking for the renewal and that the rates have already gone up $15 a month.
-
-&amp;#x200B;
-
-Is there anything I can do to get the rate that I was told from the beginning since they are the ones that messed up by not sending me the lease when I first asked for it.  I have proof of the email I first sent and the time of my call just 2 hours after they replied to my email.  Then that's the new rent.  What they told you verbally earlier likely doesn't matter; what you sign and agree to is what matters.
-
-You're free to negotiate with them.  They're free to refuse to negotiate. They just sent it to me now but it shows the $15 increase so I havent signed it.
-
- Did you or did you not sign a new lease?
-
-What is the amount of monthly rent specified in that new lease?
+version https://git-lfs.github.com/spec/v1
+oid sha256:34ee0de29cfae1563eb328582df7bd792e381e08eaa7d1907706ae419fc45d2a
+size 1697

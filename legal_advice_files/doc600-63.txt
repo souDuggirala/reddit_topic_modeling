@@ -1,7 +1,3 @@
-We don’t have any shared accounts/properties. I pay alimony and child support and 80% of medical bills for the children. We don’t have any outstanding medical debt from the children. Will this effect me if she files for bankruptcy?  Check your credit report and make sure that you are not listed as a co-signer or joint owner on any of her debts, just in case there was something that was forgotten when you were separating your finances.  You should be able to get a free copy of your credit report but if you've already gotten all 3 of those for the year it is probably worth the money to purchase another one just to double check.
-
-If you confirm that you have no joint credit obligations with her, you should be fine. &gt; Will this effect me if she files for bankruptcy?
-
-No. Not sure about alimony but reasonable me thinks that bankruptcy is her choice and not something as a direct result of the divorce.
-
-Child support is dictated by your income and your area's cost of living. I didn’t think it would but wanted to see other people’s opinions. Like could she file for more child support or alimony in lieu of the bankruptcy? I don't see how this has an impact on you financially.
+version https://git-lfs.github.com/spec/v1
+oid sha256:995ca48efcdd48da0851992af1962b1d96c8e2a83ccd49ba38b15d7b6f039a2f
+size 1196

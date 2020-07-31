@@ -1,13 +1,3 @@
-The crux of my question is in the title: if someone has been granted power of attorney, are they required to act in the principal's best financial interest? If so, are these issues civil or criminal?
-
-I have a great aunt who is 83 and rapidly losing cognition. To provide some background: She is an incredibly religious woman, who never re-married (or emotionally recovered) from when her husband died 30 years ago. She purchased a house around that time in north Memphis, and while that area of the city deteriorated, she never moved away. She and her husband took in a foster child who came from a tough background, and eventually returned to that lifestyle succumbing to a meth addition. She would always be generous despite living on a modest paycheck. 
-
-About five years ago, she started to demonstrate symptoms that were of a concern to us. None of our family lived near Memphis, so we asked her to recommend an individual who she felt particularly close to and who she could trust to grant power of attorney. She elected the nephew of her deceased husband, Bill, a man many of us had never met or interacted with. He was helpful with the day to day issues regarding medical care, and was proactive in these needs until we were able to move my great aunt closer to her family in upstate New York. 
-
-Now, as we try to get my aunts finances in orders, we are seeing **major** concerns. Our largest concern involves her home. She was never smart with money, but had her mortgage paid off. The house was in a less desirable area of Memphis, and sold for around 130K. However, we are learning that Bill misrepresented what he sold that house for and how many offers he had to sell it, pocketing 60k. It seems other matters were treated with equal self-interest. 
-
-As we gather our thoughts and concerns to bring forward to an attorney, we are unsure how this matter should be treated. Are these issues civil or criminal? Was he ever required to act in her best financial interest?
-
-**TL;DR:** Great Aunt was the principle in a power of attorney relationship where the agent took actions that resulted in his enrichment at her expense. Can anything be done?  [removed] Yes, someone operating under a power of attorney has an automatic fiduciary duty to the issuer for those acts. Actions outside the scope of the POA are not limited that way, but eg. selling off the issuer's house and pocketing the proceeds is a fairly clear violation unless the issuer was pretty explicit about directing that action and competent to give those instructions.
-
-You should speak to an estate litigation attorney or someone experienced in elder law issues promptly: this will only get harder to deal with over time, as you can expect Bill will spend that money sooner or later.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0156a21618632194af14a5221923b16cc028b507a318e710f416c4330242107
+size 2760

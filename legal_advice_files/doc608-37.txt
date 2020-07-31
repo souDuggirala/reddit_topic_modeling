@@ -1,35 +1,3 @@
-&gt;(Ord. No. 96-O-072, 5-21-96; Ord. No. 17-O-024, 5-16-17; Ord. No. 17-O-081, 11-21-17)
-
-&gt;Family. One or more persons occupying the same dwelling unit, provided that, unless all members are related by blood, marriage, adoption or approved foster care placement, no such family shall contain more than five (5) persons, with the following exceptions:
-
-&gt;(1)
-
-&gt;Domestic servants employed on the premises may be housed on the premises without being counted as a family or families.
-
-&gt;(2)
-
-&gt;A group of not more than two (2) adults, who need not be related by blood or marriage, and the dependent children of each of the two (2) adults shall be treated as one family, provided that the children are under nineteen (19) years of age or are physically or developmentally disabled.
-
-&gt;(3)
-
-&gt;A residential facility in which no more than eight (8) mentally ill, intellectually disabled or developmentally disabled persons reside, with one (1) or more resident or nonresident staff persons, shall be considered for all purposes residential occupancy by a single family. Mental illness and developmental disability shall not include current illegal use of or addiction to a controlled substance as defined in section 54.1-3401, Code of Virginia, 1950, as amended. A residential facility shall be deemed to be any licensed group home or other residential facility for which the department of behavioral health and developmental services is the licensing authority pursuant to state law.
-
-&gt;(4)
-
-&gt;A residential facility in which no more than eight (8) aged, infirm or disabled persons reside with one or more resident counselors or other staff persons shall be considered for all purposes residential occupancy by a single family. For purposes of this subsection, "residential facility" means any assisted living facility or residential facility in which aged, infirm or disabled persons reside with one or more resident counselors or other staff persons and for which the department of social services is the licensing authority pursuant to state law.
-
-&gt;(5)
-
-&gt;A residential facility in which no more than three (3) persons sixty-two (62) years of age or older reside with a care provider. To qualify as a family, the care provider residing in the dwelling unit must own or lease the dwelling unit. Facilities not meeting the criteria of this definition shall be considered a nursing and personal care facility. 
-
-**Background**: my wife and I bought a house earlier this year in Chesapeake (Virginia) with our best friends, people we consider family.  Between us, we have enough kids to go over the five person limit spoken about above.
-
-When we bought the house, we sought the opinion of a lawyer, who talked about tenancy in common, along with other forms of co-owning a house.  Never was city code of family size brought up.
-
-All four adults are on the title as co-owning the home.
-
-**Today**: When checking the mail, I discovered that someone, most likely a neighbor, had printed off the quoted text above from the Chesapeake city code and left it for us to find.  It may also have been the mailman, but I somehow doubt that.  
-
-**Next**: What are the possible ramifications from this?  If someone decides that us living in the house together is an issue and files a complaint with the city, what might happen to us?  Can the city seriously tell us that two of us have to depart the property, just because there are enough kids to go over the legal limit? Oh, it's definitely large enough. We spent months rejecting house after house due to size and layout.
-
-Ours is two story, with five listed bedrooms and the formal dining room now converted (with the addition of doors) into a sixth bedroom, since the other husband has sleeping issues.  Question for you, (May sound rhetorical) is the home large enough for two families? What is the layout of the house i.e. single story or multi-story? The city can choose to enforce the ordinance by whatever means are appropriate/approved. My bet would be that you might incur a fine for having too many non-related persons in the house.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fb2ee3a1fae81eb5677b68e16b44d7d9a4501f8124d7a76c6687d1c475b848a
+size 4101

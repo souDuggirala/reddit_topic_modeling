@@ -1,9 +1,3 @@
-At the company I work for, if you request a day off, even months in advance, they are very likely to deny your request off.  Especially for holidays.  If you call off during the week, you get on point.  On holidays or weekends it’s two points, and you can have up to 4.5 points before termination. 
-
-My question: are they legally allowed to discipline based on the day of the week or year?  Even if you request the day off, then call off when they deny your request off.  
-
-Pay is also the same on everyday of the year, even Thanksgiving and all other holidays. But calling off on those days discipline is more heavy.  They justify this by saying those days are more valuable to the company so calling off hurts them more.
-
-Is there anything illegal about this practice?  Or is the best option to petition or strike as a majority of employees are unhappy about this. Yes. There is not a blanket right to time off because the reason is school or religion. Is it legal then to deny requests off for minors when school or religious obligations are the reported reason for the request? It's harder to find replacement workers on those days. That's why the discipline is more severe.
-
-Yes, it is a perfectly legal practice. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:2640b905c1ee42850ada084f7fd0a0aed609132fa86bfaa0cd8851a2cb59a2b2
+size 1221

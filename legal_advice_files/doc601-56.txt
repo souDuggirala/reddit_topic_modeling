@@ -1,5 +1,3 @@
-Adamant that I dont even really celebrate Christmas and I am not religious at all. What actions could I take. [deleted] [removed] I would quit that job. I mean, if that's not your thing. 
-
-But don't be pedantic. Obviously there are laws protecting you from doing certain things as a requirement for employment. There isn't a law protecting you from decorating a tree.  [removed] [removed] Take no action. It doesn’t matter what department you’re in. Most jobs expect flexibility to help out where needed. If you don’t like the command, quit. But you don’t have any recourse because there isn’t a problem.  Your job is whatever your employer is telling you to do.  NALWhile Christmas trees are associate with a Christian holiday, they aren't a religious symbol according to the U.S. Supreme Court. Putting up a Christmas tree is not forcing you to practice a religion or participate in a religious tradition. If the tree features crosses, angels, or references to the nativity, those would be religious symbols but if it's just ribbons, stars, and coloured bulbs it is not. Not really my job, I work accounts receivable You don't have to believe in Santa to decorate a tree.
-
-Do your job or accept that you may be fired for refusing.  You should perform your assigned job duties or you can be fired.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48dd389e7cda250ea40c1d58f183070ae2d33b6ec93124885efc209c38b3b885
+size 1308

@@ -1,10 +1,3 @@
-Hello LA, my friend doesn't have a reddit account and asked me to see if we could get some advice.
-
-He has worked for a large electronics retailer for about 3 years and was handed a final written warning (along with 31 other people in the store) because on black friday this year, a till came up short just under 100.00. My friend definitely did not make this mistake, but since this is a final warning, he could face termination for a tardy or something small like that.
-
-We know that FL is a right to work state, and I've been fired due to write ups for small things adding up. I ended up getting that job back because I had managers who wanted me back and thought my write ups were ridiculous, but my friend does not have this luxury and has been having problems with his manager not letting him transfer for a year. He has been a good asset to the company, always reaching his numbers and has been promoted three times since he started. 
-
-Is this legal? Should he contact HR?  They can write you up, again, for any reason that isn't explicitly illegal which is mostly limited to discrimination for reasons of age, race, sex, or religion.  
-It's a jerk move, but there's no legal issue. He told me to mention that he wasn’t super worried about getting fired, just whether or not it’s appropriate to write everyone up because they cannot pinpoint who made the error? Florida is an At-Will State. They can fire you for any reason that is not explicitly illegal, which is mostly limited to discrimination for reasons of age, race, sex, or religion. They could choose to fire you because the moon wasn't big enough. This isn't a legal matter.
-
-Employer writeups are a matter of policy, not law. And he can be fired for virtually any reason or no reason at all, regardless of the presence of a warning.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06e50962c82c2768b99335d0cb8ab7ad43c3dc3297e6f7e1a85d4921db9a084d
+size 1804

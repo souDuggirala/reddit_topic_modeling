@@ -1,1 +1,3 @@
- when you gave the package to ups they gave you a receipt. where is this receipt they sent me a return kit with a shipping label for two day air with ups. very back and forth when i speak on the phone with them they say they have records of me sending it and through their customer support through messaging they say it in their warehouse. how did you send it back they give you a receipt 
+version https://git-lfs.github.com/spec/v1
+oid sha256:a815bfb364efd7870fe63be02b19a7a97cca667f5133ee91142764ee1c5717ae
+size 389

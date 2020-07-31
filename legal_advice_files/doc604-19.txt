@@ -1,1 +1,3 @@
-I filed a FIPPA request for a file and I was told it did not exist. I then filed a complaint with the Manitoba Ombudsman, they investigated and were satisfied that a reasonable effort was made to locate the file, but it still was not provided to me. Last month the file was provided to me by someone outside of the FIPPA office. What should I do?  Then you've done what you can. They said there’s no way to review completed investigations, and that the actual existence of the file is irrelevant as to whether a reasonable search was conducted.  You can report it to the Manitoba Ombudsman that the file was located, and they can determine if there was foul play or if this was due to disorganization or ineptitude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec9262a17fed16f18fc3c688d6bfc59e5ed171b7a4c4e669af85204b40542a41
+size 717

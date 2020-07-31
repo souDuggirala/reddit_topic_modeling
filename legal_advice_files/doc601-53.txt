@@ -1,34 +1,3 @@
-I was going to this gym with a friend for weightlifting "classes". I signed a 12 month contract, but was told if something came up/ I needed to, that I could end it. It was 200 a month and I went for 3 months. He told me I have to pay 1000 because I broke my contract. (That's nowhere on the contract. It's a one page vague contract of sorts) 
-
-The guy leading the classes also owns this gym, and he was a horrible instructor. He would just talk about himself the whole time or play on his phone. He even said a few times that "all he cares about is money". He wouldn't correct form, and just really did not care much about anyone attending 80% of the time. It wasn't anywhere worth 200 a month, I recently changed careers and needed that money, and so I decided to end my contract early. Then he throws at me I have to pay the 1000 penalty. That was a couple months ago, and he just sent me a message today saying if I dont pay in the next couple weeks that he will hire a collection agency to get the money from me.
-
-I'm about to file a complaint with the BBB (they have 13 unresolved complaints from the last 2 years) and try to find a pro-bono lawyer (I'm a Female Veteran so hopefully that'll help my case. I'm about to see if the VA has anyone that can help) my bank (USAA) knows about this and has placed a stop payment on all of my accounts. I'm trying not to have to get all new cards right before the holidays.
-
-Anyone have any other advice on how to go about this, especially if i can't find a pro-bono lawyer? 
-
-The contract reads to give a 15 day written cancellation notice (I did in person and electronically) 
-
-"eft/cc request &amp; authorization. To the extent permitted by law, you hereby authorize us to initiate separate eft/cc charges from the account above and or any replacement or substitute account for the following amounts (1) balance due shown above, if not otherwise paid within 30 days after the date of this agreement; (2) your monthly payments as described above, prior to cancellation, if you are not a paid in full member; (3) any one time or monthly fees we charge if you request to inactivate your your fitness services; (4) your monthly payments, or a prorated portion thereof on reactivation of your receipt of services following any inactivation, and (5) a $10.00 service fee for any eft/cc charge that is returned unpaid."
-
-If you stuck through to the end of this... I really appreciate you.  You're the best. I appreciate you.  &gt; And he said they are charging me half of what I would have paid to end it and that it's the "Standard". I tried to argue the price down, but it's a small chain / he wont budge.
-
-
-
-"Standard" according to him, does not at all mean typical standard or even what a judge would consider standard. 
-
-
-
-The fact is you owe something, but $1,000 is into the realm of "sue me." What you owe is negotiable (even if he doesn't think so, and the burden of what is owed is on him), if he's not willing to work it out then let a judge do the work for him.  Yeah I should have used common sense. He said I only paid for/ attended 2 months (I'll have to go back through my statements to find out for sure). My whole contract would have been $2400. Minus 2 months worth = $2000. And he said they are charging me half of what I would have paid to end it and that it's the "Standard". I tried to argue the price down, but it's a small chain / he wont budge.  &gt; I asked him about that and he said not to worry about it if I decided I couldn't continue the contract.
-
-
-
-Words are meaningless. In the future if someone tells you "don't worry about that," make them cross that part of the contract out right then and there. If it's truly not a big deal, they will. However, if they refuse to cross it out that's when you refuse to sign. As soon as you sign a contract you're bound to the terms of that contract, all of the terms. 
-
-
-
-I don't think he'll be able to throw out a random $ amount to collect (like $1,000). However, the contract does specifically state they can charge **something.** What that something is, it's hard to know.  It doesn't state any amounts anywhere other than a monthly fee of $199, a possible late fee of $15, or a service fee of $10. I hate this guy. That one is definitely my fault. I asked him about that and he said not to worry about it if I decided I couldn't continue the contract.  &gt; (3) any one time or monthly fees we charge if you request to inactivate your your fitness services
-
-
-
-
-It looks like there is a clause saying you will have to pay to end the services early. However, does it actually state any amounts in there? If not, you'll owe them something. Whether a judge would uphold an arbitrary $1,000 is unknown. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:28b31472279757e109ac3ed84f3c0ec8dc9ccd961da7e379975f11fc066f7904
+size 4720

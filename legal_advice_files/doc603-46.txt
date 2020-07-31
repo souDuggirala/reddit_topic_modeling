@@ -1,8 +1,3 @@
-I work as a caregiver in an assisted living facility in Michigan. There's been a bug going around that's causing diarrhea and vomiting and I've personally cleaned up 2 of the residents who had gotten sick. 
-Several of my coworkers have called in this week, and I've picked up 2 shifts for them, working overtime while going to school full time as well. Every time I've been called in it has been from management telling me that somebody called in and they need someone to cover.
-I just sent a text to the scheduling phone saying that I haven't gotten sick yet but I feel like I'm starting to get some of the same symptoms. We have a 4 hour call in policy, it's 9 hours before my shift. 
-Now they are telling me I need to find my replacement or else come in even though I've picked up an extra 16hr this week and never been asked by a coworker, only the scheduler to come in extra. 
-Last time this happened they said they would see what they could do and then told me I had to come in 2 hours before my shift started. 
-This doesn't seem right, do I have any options? Norovirus can be quite dangerous to elderly/infirm people.
-
-https://www.webmd.com/food-recipes/food-poisoning/norovirus-symptoms-and-treatment Idk if this qualifies as legal advice but I've worked as a care aide before and for the safety of the patients i would refuse to come in if i was sick with anything stronger than the common cold. At least i could wear a mask with a cold but i dont mess around with the flu. Frankly your employer sounds like he is putting people at risk by forcing sick workers to come in. If they dont believe you than yeah Lol that's how the last person got sent home. I don't think I'm going to make it the next 8 hours. Maybe i'll send them a picture... Vomit at work
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad326ec623f7d4ac80850788482b05e5fbbc2c5fadf66e1413e548c692be69ce
+size 1763

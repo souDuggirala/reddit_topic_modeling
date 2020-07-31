@@ -1,1 +1,3 @@
-If a business that mounts TVs also puts the wiring in the wall unintentionally, not knowing that it causes a fire hazard. Could this person or entity potentially be liable for a potential house fire? What would be the proceedings?  Potentially, yes. but we would need facts. also, hypos go in r/legaladviceofftopic
+version https://git-lfs.github.com/spec/v1
+oid sha256:91234e3fcf7307716c81c1f050160110d0a4b93ad63d8890b3c6ea8148bc1dd4
+size 314

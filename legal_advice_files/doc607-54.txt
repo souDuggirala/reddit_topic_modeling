@@ -1,1 +1,3 @@
-Or am I only allowed to go through the Pennsylvania Department of Health Services and no other states'? The only agency that's going to have your birth certificate is the agency of the state from which you were born. Some states even get so specific as down to the county from which you were born or the city. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e4adf00cec30e9d7b6e8d4908ea2a5b6fd03bf19f93179e5eae9b8d85e6a891
+size 310

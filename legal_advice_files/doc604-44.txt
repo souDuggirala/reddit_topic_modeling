@@ -1,9 +1,3 @@
-I work in a state job that deals with a lot of people and someone called my line and left a voicemail bitching about how he's required by state or federal law about having to keep insurance on a totaled car in his possession. Apparently, while he has the car, it's required to have insurance, even though it's totaled. He left no other details other than that, not even a name or phone number.
-
-I'm usually kind and helpful but he left a super rude voicemail and wants to call every day until he can get this fixed. I have never heard of such a law, it isn't my job to know the law specifically, but I am wondering if there is anything even remotely close to what he's insinuating.  Right. Hes angry because logically, he likely has no actual need of insurance on the vehicle.  But some bigshot advocated for it at some point and convinced people it made some insane version of "sense". Thanks. I can feel his frustration. Don’t know how the conversation will go but it’s good to have background information. Typically we send these issues off to specialists that look into it but the guy was pretty rude for no reason (I suppose knowing what I know now I can kinda understand) so maybe we can just talk it out tomorrow.  Stupid city code and laws. They don't trust you to not drive the car, or sometimes they claim it affects property values to have an unlicensed car visible on private property. 
-
-If a vehicle is no longer going to be driven for an extended period of time and you owe no one money for it, there is no real reason to have or need insurance excluding personal peace of mind regarding "storage" insurance on it.  Neat, thanks! [Presumably, he has a vehicle with a salvage title or something similar.](https://www.dmv.org/mn-minnesota/salvaged-vehicles.php) Appreciate it. I would normally pass this on to people that can genuinely help him but he seems bent on just being confrontational and I want to a little background on it. Do you know why exactly you’d need tags if you are parking a car? What if it’s a project car?  If he is keeping tags on it, he needs insurance. 
-
-If he is parking in a driveway or on a parking lot, he needs tags.
-
-And, as long as there is a lien on it, he needs insurance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:093da12e9679f722bad851c458b51bb53b7b5792bf1b70827715c07cfe0e31a7
+size 2226

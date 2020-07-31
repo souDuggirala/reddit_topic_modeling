@@ -1,13 +1,3 @@
-(Posting for a friend) 
-
-I texted her “Hello is this (name)?”
-
-“Yes”
-
-“I received your card on my door, and was wondering what this was regarding.”
-
-“May I have your name?”
-
-Should I respond or not? And what could this be about? Thanks. She took care of it. There's no point trying to avoid getting served court documents. You need to deal with whatever is going on. The server has a valid certification as a process server. Would it be better to wait or to get it over with? Would they possibly embarrass her at work? Tell your friend to make the process server do their own job. Admittedly, they're not going to find out what it's about unless they identify themselves to this self-proclaimed "process server" -- but that's fine. They'll find out what it's all about once they're served (if they're actually being served). It's not cool to actively dodge a process server, but there's no obligation to do their work for them -- if they want to serve your friend something, they'll have to do it the old-fashioned way: knock on the door and wait to see if anyone answers. Looked it up, looks legit. Would there be any reason for or against responding with information? It means that your friend is being served with court documents.  They probably put out tons of these cards and will need your name to associate with whatever they are trying to serve you with.
-
-If there is a name of a business you should look it up to see if it is legit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9b5434cefa24486b4a5f738d3de8492ebdcea18cc290df10854a49bbea2d31d
+size 1457

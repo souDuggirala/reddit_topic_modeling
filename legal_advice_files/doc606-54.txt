@@ -1,6 +1,3 @@
-Aunt passed away a few months ago, myself, her daughter, and another cousin are beneficiaries; her daughter is the executor. Aunt had been on disability with her company due to
-having colon cancer. It came to light that there might be a disability payout that wasn’t claimed by my aunt. We don’t know for sure and her daughter isn’t wanting to pursue it. The amount of money wouldn’t be life changing per se, but it would really be helpful for all of us (about 75k each). 
-
-Does the executor have a fiduciary responsibility to pursue this? If she still is adamant that she doesn’t want to pursue it, can someone else contact the company and try and get more information? Could we do the legwork for the executor and have them contact her since she was also POA? We’re all frustrated that she’s not pursuing it. Any suggestions are appreciated! Thanks  Sounds like time for you to get your own lawyer.  She doesn’t like confronting people and says that her mother already accepted the payout terms but there’s really no record of her accepting anything. We ultimately just want to know if there’s money on the table Go to court, kick her out as executor, and pursue the claim. It's absurd (and not legal) for her to pursue a viable claim that exceeds $225,000. Why does she not want to pursue it?
-
-It is her responsibility to gather the estate assets. that sounds like an asset. If she is unwilling to perform her duties, you can petition to have her removed and a different executor appointed. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2203d798de34f766795dcb1409ad361e57b4b563a1091a99cfe11436a6aa7c8
+size 1514

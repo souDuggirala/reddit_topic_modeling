@@ -1,1 +1,3 @@
-Friend of mine got caught with weed, but the cops gave this ticket for smoking in public area. I am wondering if they should get a lawyer. How bad is it? [deleted] [deleted] In Saudi Arabia, they could invoke the death penalty. In Colorado, its a civil infraction. But you did not provide a location. Dunno because you didn't give a location.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8814df97d0850ccbc68a048c8139db031e9f1342ec6b6d9c0b964973d961ef9
+size 342

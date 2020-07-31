@@ -1,1 +1,3 @@
- been working on creating a podcast as a hobby during my downtime. like to use a different poem or a small piece of literature in the beginning of each episode. would i be able to use that material as long as i reference the author would it be legal this may be a dumb question but i'm learning that copyright can be very complex and i want to get in trouble in the future. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:20f9d0448515aeb7f563e2bb48ed588c5f9117fba2ee701fb47a9527a4773068
+size 374

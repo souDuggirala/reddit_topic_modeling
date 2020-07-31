@@ -1,7 +1,3 @@
-So I’ve been shopping around for a vehicle and I stopped by this website for a dealership near me. I picked out a car and noticed they had a pre-qualification option to save myself from going to the dealership if I wasn’t going to be approved. I entered all my information and submitted the application. Almost immediately I receive a notification from credit karma notifying me of a hard inquiry on my credit report from the dealership! 
-
-While admittedly it does not explicitly say “this will not have an effect on your credit score”, it did say “If you are less worried about credit, you can skip this and go directly to finance application”.
-
-I emailed one of the associates and they told me that it was my fault. Do I have any legal options against this company? I feel like it was extremely misleading.  No.  Common sense answer: you were asking "do I qualify for a loan?" and gave them all your info including SSN, that means they are going to run your credit.  Just 
-
-Legal answer: the odds are astronomically against that the "I agree" and "submit" did not include the legal credit report disclosure. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f5a38e907067a3fd96b0f5eada7613e39be83e55d3fe1225f64151a1245480a
+size 1122

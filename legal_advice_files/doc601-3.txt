@@ -1,1 +1,3 @@
-We moved into our new build house ten years ago. When we did, we noticed the neighbours had put a freestanding trellis in front of our opaque kitchen window, blocking the light , and I suppose stopping us from looking through the opaque window into their garden. When we asked them to move it, they refused, saying they put it up before we moved in, and we had no right to ask them to take it down. What are our rights in this matter? Is it on their property? Not usually much you can do about that. There may be some local regulation or HOA rule that prohibits it. /r/LegalAdviceUK 
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d7281a5c0e5f45b6296590cfb9b1e2cd4591196236edfc48de5d06efdf1f8a0
+size 583

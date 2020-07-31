@@ -1,13 +1,3 @@
-Hello,
-
-I currently live in the basement of a 4 bedroom house. Everything was fine until my roommates started to sour the situation. Now I am looking to get out of this situation before the lease ends. There is no means of egress directly from the basement which to my knowledge does not comply with the WA state RCWs to qualify as a livable environment. Is there anything I can do to break my lease without a huge amount of fuss?
-
-To add details, my partner and I are in one of two basement rooms, two roommates upstairs. Fourth bedroom is empty. Our roommates are asking us to pay half the rent, in addition to often being disrespectful. Our bedroom has no windows, and the construction quality downstairs is much lower than upstairs.
-
-Thank you for any assistance you may give. I'm not well versed enough in the RCWs to know what constitutes as grounds to legally/acceptably easily break the lease. The lease doesn't matter if the space can't be rented as living space. Contact your city's code enforcement annomously and tell them people are living in a basement with no egress windows or doors. When they inspect they will tell you that you have to move.
-
-Do not pay any more rent as the lease isn't legally enforceable in this situation.
-
-Also, move now. If they try to sue you in court no judge will enforce rent/lease in those conditions.
-
-Get proof of the code enforcement report. We all signed a lease agreement for the house. So I believe the answer to your question is yes. But if the lease agreement says four bedroom and only two of which are legally considered bedrooms is there still a possibility of breaking the lease without obligation? I wasn't even aware that the lease could be per room and not as the whole house until yesterday. Certainly. Sadly I actually signed a new lease because the owner fired the property management company. When we first started living here the rent was $400 a month for the both of us and now our roommates are asking for $700. It was okay when everyone was on good terms, and we were paying very little to live here. Now our roommates have become crass and now both of us try to avoid being at home. [deleted] You saw the place before you signed the lease, correct?  What does the lease say about breaking  it? 
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bce843a0e48bc8b903c1cd21cd75e350cc80e24060d146868b2d71f5b9986ee
+size 2263

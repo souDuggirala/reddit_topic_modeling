@@ -1,11 +1,3 @@
-Not sure if this is the best sub for this question, but I wasn't sure where else to ask. How do I go about obtaining my previous medical records without involving my parents? Context: I'm 22, and an appointment with the doctor is way overdue. It's been a decade, possibly longer- my parents didn't make doctor appointments a priority after their divorce, and anything having to do with insurance / my siblings and I in general only caused conflict between them and my step-parents. That frustration was taken out on us to the point where we did all we could to not cause more problems, including just avoiding making appointments or things we couldn't schedule on our own.   
-
-
-Now that I'm 22 I know I should really go get checked out, (especially since I had surgery on my heart as a baby and should probably have been to the cardiologist multiple more times by this point). Do I need to know the exact doctors I went to as a kid, or is there a more general way to get those documents?   
-
-
-Thanks, strangers.  You don't have to supply those documents.  You just schedule an appointment with the clinic you want to go to, and they'll ask you if you have previously seen any other clinics and such as part of their intake process.
-
-They'll try to get your records.  If they cant, they may make you take another medical history as best you can remember.
-
-Clinics and providers should be enough; you dont need specific doctors unless they were a private solo practicioner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d45d12287f256451fad4b6f1d80297d2a1d0097e7a803448f5507bc4cfee203
+size 1471

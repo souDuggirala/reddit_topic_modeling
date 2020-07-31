@@ -1,11 +1,3 @@
-Hey all, finally got a reason to post for myself instead of comment. Too bad it's not as fun as I would have hoped.
-
-So my wife and I ordered a limited edition piece of fan merchandise from a band. Only 5000 were made. The package was lost by UPS. We got delivery confirmation at 12pm the day it was delivered. When we got home it wasn't there.
-
-So we called UPS and they apologized and said they'd look into it. The delivery guy was off for the day and they said they'd ask him where he delivered it in the morning. That came and went and we learn that the guy who delivered it was a temp holiday worker without the big truck and GPS tracking stuff. Also fine, but he's off now too so one more day and they'll come see if he left it at the wrong house.
-
-Next time we hear from them we're told that it was actually another guy under the first temp's name and apparently nobody can contact the guy or they won't tell is what he said he did with it. One rep said the first, another the second. They said they have to consider it lost and to contact the seller to start the reimbursement process.
-
-Which is all fine and normal, but the catch is that the replacement value is higher than our purchase price. It was limited edition, and to get a new one from a third party sale will cost more. Do I have any recourse to get the replacement value from them, or am I SOL? Who do I go about reporting this sort of thing to? We have a small suspicion that the person who got it won't give it up or the second temp made off with it. Might be silly, but submitting a report is harmless. Usually it would be the postmaster for USPS but I'm unsure what to do with UPS. Should the answer come down to filing small claims, how do I serve a company like that?
-
-Tl;Dr: Do I have any ability to recoup the after market value of a limited edition item because it's technically the  fair replacement value from UPS? Was the package insured through UPS?
+version https://git-lfs.github.com/spec/v1
+oid sha256:076fb0f54a59bb7c4e77e377a3617be4c229a141fdc00092e62aadb8247db387
+size 1932

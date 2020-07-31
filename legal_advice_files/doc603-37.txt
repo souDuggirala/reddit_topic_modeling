@@ -1,19 +1,3 @@
-So my gfs friend had just come to her last night asking for a place to stay to get away from her bf/roommate. Now, I dont know all the details but I'll try my best to add as much info as I know. 
-
-She says the guy she is with has been abusive and manipulative. Hes punched holes in their wall and assaulted her at least once that I know. That incident apparently happened when she was very intoxicated and he alleges she assaulted him first and that he recorded it but she doesnt remember the events at all. He has said if she goes to the police that he show them this evidence he supposedly has of her hitting him and since she doesnt have any actual evidence of wrongdoing she feels the police wouldnt do anything or possibly charge her as well. (I personally believe the guy is just lying out of his ass to keep her quiet)
-
-They have been living together for a few months but he is not on her lease and does not pay for rent/utilities. He has also guilted her into not calling the police because he has 5 cats that live with them and she wouldnt want them to be put in a bad position. If she calls the cops can't they just remove him from the house if she doesnt want him there? Would him having some evidence of her hitting him change that at all? I would think if he has no legal right to be staying there the police should have no problem removing him from the place. 
-
-Are there any other possible means to get this guy out of her house?  &gt; If she calls the cops can't they just remove him from the house if she doesnt want him there?  
-
-No.  It sounds like she is his landlord on an implied month to month tenancy.  She would need to give proper notice (30 days).
-
-&gt; Would him having some evidence of her hitting him change that at all?  
-
-She could get a restraining order.
-
-&gt; he has 5 cats that live with them  
-
-These cats may be grounds for her to be evicted if the lease prohibits pets.  These are his cats.  If he is evicted, or removed, he can take his cats with him.
-
-Of course, if she is unwilling to take action, then nothing is likely to happen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1525a9796b6070f2aa5024ab97b5dda10a27d960257598b193319a518c75b6f
+size 2073

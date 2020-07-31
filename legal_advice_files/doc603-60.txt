@@ -1,7 +1,3 @@
-Hello Reddit. This isn't about me but my parents who up til last week were working as cleaning contractors for multiple gyms in California. Last week they showed up to work and had all their previous cleaning supplies gone and replaced by the new company that was going to start cleaning. They weren't alarmed at first because the new cleaning company told them that everything would be the same and they would be keeping their jobs and working for them now. My Dad was assured of this several times on the phone and even told to show up the next day at the gym for a meeting. Lo and behold the front desk guys at the gym think he quit and the confusion begins. My Dad calls the new boss and he says something completely different than what he said before....doesn't even mention the meeting. My dad calls the old boss who is pissed they moved his stuff out and apparently my parents no longer have jobs. What can they do? Are they entitled to get reimbursed for the equipment the other guys threw out?  No. Circumstances change. Unless they had a contract for a fixed term they’re done when their services are no longer desired.  can they do something about being lied to and guaranteed they would keep their job once the new company started?  &gt;What can they do?
-
-If your parents had a contract to provide services they're entitled to see that contract honored.  In particular they'd be looking for any requirement of a notice period.
-
-&gt;Are they entitled to get reimbursed for the equipment the other guys threw out?
-
-If your parents' supplies and equipment that they were otherwise entitled to store at the facility were lost over the actions of someone else, they may be entitled to recover the fair market value of those supplies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63d364cd83065259c7582834e3a16bc951b832912b984ba476363e446fb8ecbe
+size 1743

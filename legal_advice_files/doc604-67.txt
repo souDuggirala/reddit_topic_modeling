@@ -1,3 +1,3 @@
-[removed] We don't know the value of the trees. But if it is a triple damages state and triple damages is 200k, that will be the payout. Unless there is some "it doesnt count if they say it was by accident" clause you are refering to? Fuck I love these [removed] [deleted] Also, if your mom hasn't done so already, TAKE PHOTOS of the damage and from a couple of different angles.  INAL, but more proof is better than no proof just in case something goes wrong. [removed] Get a damage estimate from an arborist and contractor, and then contact the township with your damages and ask for their insurance.
-
-Alternatively, contact your homeowner's insurance and have them start the process. First steps are to talk to an arborist (for the trees/shrubs) and contractor (for the fence) to get a sense of what the monetary value of the damages are, then either talk to the city/township (and perhaps their insurance, if any), and, failing that, an attorney about those damages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:244eb5fe9cc00e5b0c16b871ada0bbbe3a747a7a0d1b10ede3f2bdbc7079b480
+size 970

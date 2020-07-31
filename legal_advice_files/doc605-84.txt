@@ -1,9 +1,3 @@
-I am 16 years old, and I am being threatened over Instagram DMs by someone who I do not know personally and whose identity I don’t know exactly (he/she is a friend of someone who some of my friends follow). This person has mentioned repeatedly my family being shot and killed, and has confirmed that he/she knows what school I go to and the area I live in. The person mentioned that they plan to find my address. 
-
-Sorry if any of the text wave doesn’t make sense, I am typing this in a hurry. 
-
-Is there anything I can do past reporting the accounts? Can these threats be taken seriously in the eyes of the law? Thanks in advance.  Also not a lawyer, but I recently had a friend go through almost the exact same thing. 
-
-The police will take it seriously if you talk with them. Show them all of the messages. It’s harassment and threats. In my friend’s case, the police identified the person, called them, and asked them to stop making contact. At the very least, the police can advise you on what to do next. [deleted] IANAL:
-
-They probably can be taken seriously in the eyes of the law but you are worrying over nothing. Some schizo searching your instagram for info functionally means nothing in reality.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bad526e5dbf79030ac3474b300c6bd8bebab68adbecf408867c1511bb6849c70
+size 1216

@@ -1,1 +1,3 @@
-hello does anyone have any experience with zoning variances i know it varies significantly on a case by case basis but what are the legal costs associated with this is it a difficult process for example asking for a variance to place more units on a property than the zoning ordinance currently allows and or speak with a number of developers of similar projects in the area they will have excellent first hand information. the only way to get a real answer is to speak to several attorneys in your expected area.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52f3f97a9b1f37ee6be589baacb7d3f085dc387765c2ad88ebca02aa954d89ed
+size 513

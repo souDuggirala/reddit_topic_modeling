@@ -1,5 +1,3 @@
-When I was underage (17) I got into a small physical altercation with my mom's boyfriend, he was arrested and it went on his record. All was forgiven between him, my mom and myself, they married later but he is unable to become a citizen due to that on his record. Is there anything that can be done to correct that and alow him to become a citizen? He's a great guy and has been there for my family through countless issues.  Thank you very much for this information. I'll look up more about it.  So, nothing you've said indicates that he is permanently ineligible to naturalize.
-
-The lookback period for [good moral character](https://www.uscis.gov/policymanual/HTML/PolicyManual-Volume12-PartF.html) is 5 years or 3 years when applying as the spouse of a US citizen (though USCIS can consider conduct that happened outside of it, if it chooses).
-
-With enough time and evidence that he is "not the same person" and/or he has been rehabilitated, a naturalization petition would likely succeed. Yes, he was in jail before court then sentenced to 3 months prison. He was also charged with domestic violence.  Was he sentenced to any time in jail/prison? Assault on a minor and about 6 years ago  Was he convicted of anything and how long ago did this happen?
+version https://git-lfs.github.com/spec/v1
+oid sha256:546b76e3fbf07a5cb4bbc76edf28938e2301901be95caf4324230314d04ffbc7
+size 1257

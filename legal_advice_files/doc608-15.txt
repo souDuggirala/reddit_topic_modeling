@@ -1,9 +1,3 @@
-Basically the title. There's ethernet ports in every bedroom/living room in the apartment. My computer is hooked directly into it. Wireshark showed me the cameras IP address' I typed one in. Typed in the default username and password to it and it let me see what the cameras see. It also let me see the log-in log and nobody had signed into them ever (shocking)
-
-&amp;#x200B;
-
-Is this illegal? If you aren't authorized to access the cameras, doing so would be illegal under the Computer Fraud and Abuse Act.   Default password or not that qualifies as unauthorized access. 
-
-Oh, and the fact no one's logged into them isn't a surprise. Most cheap-ish IP cameras have a proprietary service running to interface with the DVR, so no need to ever log in unless you're diagnosing an issue with just one camera.  Probably illegal under the federal CFAA. 
-
-Absolutely going to encourage your LL to not renew your lease.  I don't know if shitty network security is specifically against the law. You might want to notify the management company however, so they can get it fixed. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:e664d8b4c566b81a30cdd82930e57fd29e98d1ee2c67405f3097639de2ca02d9
+size 1070

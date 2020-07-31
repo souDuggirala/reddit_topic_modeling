@@ -1,5 +1,3 @@
-I'm not sure if the flare is correct, but I worked at a Jersey Mike's in Florida that had a cash tip pool that was distributed to employees based on hours with our paychecks. I make $8.75 an hour without tips, so $.25 over minimum wage in Florida. I missed my last two shifts that I worked there because I needed to take care of some things back home during my transition from one college to another.  Keep in mind this Jersey Mike's is not run well so they had 3 people on payroll that could close, and one took the weekend off. So, because I missed those shifts the manager was very upset with me and decided she wasn't going to give me my share of tips. When I confronted her about this she said the store owner told her she could do this. Is this true, or can I fight them on it and get the tips I believe I am owed?  I took care of it by contacting corporate. I actually missed the days because of orientation for my new job, and it's a heck of a lot better than working for those sleeze balls!  I don't know about your state but in NV I've seen it happen a handful of times. As long as you get minimum wage, that's all that matters.
-
-It's totally a punk move by them. Heck just file a wage claim against your employer with your state department of labor. If there's any merit it'll need to go through them anyway.
-
-And start looking for a new job.  Im sorry, I meant that I did not receive tips for any of the time I worked. I don't expect tips for the time I missed, but I received $0 in tips for my 35 hours on my paycheck.  Am i misunderstanding this that you feel you should get tips for missing work? 
+version https://git-lfs.github.com/spec/v1
+oid sha256:73ea33276ba7fc349c48595c259b1ed7ac4ffc0d43ceaaaf989e1b239b7171a2
+size 1612

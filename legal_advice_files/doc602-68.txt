@@ -1,7 +1,3 @@
-My teacher just confronted me today and said that somebody had plagiarized my essay and that they will further investigate it. I had told my friend to NOT copy it but he still did nevertheless. To further complicate things, we have been exchanging homeworks on messenger and he is not here today. So no matter what, my friend will get in trouble, but he can take the bullet for me but I don’t know if he will agree (have not confronted him because I don’t know if I should) Any advices on how to deal with this  would be very appreciated! And if there are any questions, please feel free to ask.  like the other comment stated this is certainly not a legal question and may end up being removed but most likely in this situation it depends on your school policy towards plagiarism/cheating. Unfortunately most schools (public/private) will find you to be in the wrong as well because of the act of you sending him the essay, regardless if you told him not to copy it. Insufficient information. What's your location? What kind of school is this? Sharing homework answers and essays falls well within the realm of most scholastic integrity policies. His "taking the bullet" for you will not be meaningful because you are equally culpable. Depending on what sort of school this is, there may be a process for you to go through. There are lawyers who can help with this if your school allows for them to do so. Or there may be nothing to do. This is a school policy issue, not a legal issue.
-
-You're likely both guilty of academic misconduct -- your friend for plagiarizing, and you for supplying him with your homework and your full essay to use.
-
-Follow the procedure set forth by your school. This isn't a legal question.  It's a question rooted in your school's code of conduct and process.  
-
-It sounds like you've committed what is undoubtedly a violation of your school's disciplinary code.  What they conclude about your involvement and how they choose to handle that is up to their process.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2403aa9163a6ffe0193ce58034c73a64e0c93a8a61be2995866e76e67e7adbc
+size 1999

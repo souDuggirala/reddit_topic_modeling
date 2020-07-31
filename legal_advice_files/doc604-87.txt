@@ -1,15 +1,3 @@
-Months ago I purchased a used car from a car dealer and paid cash (well, debt card, but no financing). I noticed the car had an aftermarket intake that I suspected was not CARB legal, which is required to pass smog in California. I asked the dealership and they reassured me that everything was fine and the car had passed smog. So I signed the purchase paperwork and paid them and they put the temporary registration on my windshield and everything seemed fine. They said the title would get mailed to me by the DMV. 
-
-So, last week I was getting bored and decided to take my car to CarMax to see what they'd offer me for the car. At this point I still hadn't received my title in the mail but I figure a dealership like CarMax would just do some power of attorney paper and handle it all for me. They go to appraise the car and the guy points out the tags are expired. I had no idea, had never noticed, I just assumed a major dealership would have their crap together. I told them I'm sure it's fine, I only purchased it a few months ago, go ahead with the appraisal. Eventually they had me go back to the office and they pulled up the DMV database where it shows the transfer into my name was still not complete and they couldn't drive it because it technically hasn't been registered this whole time, and even if they did they couldn't buy it from me since it isn't even mine on paper yet.
-
-I called up the dealership and the DMV clerk told me it's just needing to be smogged and then we're good. I'm a few hours from the dealer so they said to take it in to get smogged and then text them pictures of the smog certificate and invoice and they'll finish the paperwork and reimburse me for the cost. I go to get it smogged, and just like I was expecting, the car fails because of the non-CARB legal intake.
-
-I spoke to the DMV clerk at the dealership again and she told me the Service Manager will call me to see how to work this out. I spoke to the Service Manager and he said he would try to figure out how to get an OEM intake or something and that he'd call me back, and I have yet to hear back from him. 
-
-What do I do now? I'm really pissed I've been driving around illegally for months. I'm sure they will try to get me to drive to them and let them put the OEM intake on and get it smogged, but at this point I feel like I just want my money back at the least, if not some sort of compensation for the risk I've been unknowingly taking as well as their incompetence selling me a car they weren't even supposed to be able to sell.  &gt; I just want my money back at the least
-
-Tell this to the dealership and ask if they'l take the car back from you. Many states have laws that prohibit dealers from selling vehicles that can't pass inspection, so look into that a bit and see if you can get the sale rescinded if that's the route you want to go.
-
-&gt; if not some sort of compensation for the risk I've been unknowingly taking as well as their incompetence selling me a car they weren't even supposed to be able to sell.
-
-You don't have any financial damages from having taken a risk, so that's going to be a non-starter. But yeah, if they shouldn't have sold you that car, which is likely, then you can reasonably ask them to rescind the sale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6a9882a7a5766436ce9d92b23732d60a38262d50501df60bd42f6be29e859ee
+size 3255

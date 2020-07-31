@@ -1,5 +1,3 @@
-I'm in Arkansas, and I got arrested for public intox (05-71-212(a)), first offence. The night before my court date I drank a bunch (because I'm an idiot), then had some hair of the dog the next morning to help my hangover (because I'm a really big idiot). When I went into the court, the bailiff/clerk who checked me in said I smelled like alcohol and breathalyzed me. I blew a .14 and was issued a contempt citation (16-10-108). I never saw the judge and was given a new court date. I'm just wondering how likely I am to face jail time, and if so, how much? [removed] Maybe not jail, but possibly reporting probation with a no alcohol, support groups, and treatment conditions. Might do him some good.
-
-About 6 weeks ago had a guy show up for his Probation violation (for drinking) at a .208. He did a little jail, probation was continued. He's now on daily PBT's and in counseling, along with AA. Doing much better and working now. [deleted] Looks like a class C misdemeanor, punishable by up to 30 days in jail, so yes, you likely could be facing jail time,  especially since you showed up to the hearing drunk.  I'm not sure if that will result in an additional charge or not, but it's sure not gonna make the judge look at you all friendly like.  
-
-I hope you can recognize these as signs that you probably have a drinking problem and can seek help.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88e8c68e072d6b488a1ad12f49800e4d65d77138d76350651d7934a84edc5a4c
+size 1354

@@ -1,12 +1,3 @@
-I paid rent yesterday, admittedly one day past the apartment complex's grace period. However, when I went and paid, they didn't charge me a late fee. They often don't enforce the late fee.  I got a receipt and left.
-
-Today they're trying to say I have to pay them the late fee. I'm arguing that since they accepted the payment without charging the fee, they can't come back later and charge me.
-
-Do I have a case? 
-If so, is their any legal precedent I could cite to try and get them to back down?
-
-Also I live in Mississippi if that matters &gt;I'm arguing that since they accepted the payment without charging the fee, they can't come back later and charge me.
-
-Good argument, but it likely won't work.
-
-There's nothing in the law that says they have to charge you the late fee at the exact same time you pay rent late, and if they don't do that, then they forfeit their ability to collect the late fee.
+version https://git-lfs.github.com/spec/v1
+oid sha256:664fe339d6f45e5be1bebc59b406cbe4feb09b2d95a4ee4874f026edd63fd2eb
+size 905

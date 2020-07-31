@@ -1,15 +1,3 @@
-Hello all, I’ll try to make this a quick one since there isn’t a lot to say. First and foremost I am in the northern Kentucky area, and I live in a residential community that does not have a HOA. 
-
-For the past couple of months, I have had problems with my neighbor’s dogs. She has either two or three, and they’re very docile and friendly- so aggressive dogs are not the problem here. The problem lies within the fact that these dogs are actually too friendly, and their owner seems to be very loosey goosey in regards to keeping them in her house. 
-
-Within the month of November alone I have had to stop my car four times as there is either one or two dogs in the middle of the street looking to play. Again, no problem with friendly dogs; I do have a problem with almost hitting a dog every time I try and go to school, or anytime I come back. After talking with my neighbors it seems like I’m not the only one having close calls with her dogs.
-
-I have tried to talk to her on multiple occasions (usually these occasions happen because I have to bring her dog back to her house), but she says she sees no reason in tying them up, leashing them, or even simply standing outside with them while they do their business. She proclaims that they “know not to wander off and will always come back.” Which is an oxymoron in of itself!
-
-The main thing that finally led me to posting was the fact that I found one of the dogs at the entrance of the community (our houses are at the very end of the community, so about a mile or so walk for the pup), right next to a very busy highway for a multitude of cars and trucks. Once again she would have no discussion with me and instead simply shut the door in my face.
-
-So my question is what course should I follow? I have no HOA to turn to, and don’t entirely believe this to be a police issue. But when dogs are roaming the roads willy nilly, it’s only a matter of time before they get hit and I would like to avoid that- both for the dog and whoever’s wallet will get hurt by having to inevitably pay for the ordeal.
-
-Tl;dr : Lady has dogs roaming around roads, will not have any discussion about leashing them or keeping them inside. What recourse can be taken before the dogs are potentially hurt by cars going all around the neighborhood?  Never even thought about animal control, thank you, I’ll be looking up those laws! I did, Kentucky. I will be looking up those laws though so thank you! Check your city/ county leash laws. Involve animal control if such laws exist.  There's a 9 in 10 chance that your city has leash laws.  You did not include location, so I have no idea.
-
-Call Animal Control or the police non-emergency for an animal on the loose every time it happens and report their location.  You can tell them you believe you know who the owner is. Call your local animal control.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c709eb95c9ca420a7455cd00ed9cba8eb4173f44538138ad86df196ba8f8c91
+size 2860

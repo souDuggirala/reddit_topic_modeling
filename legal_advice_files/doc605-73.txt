@@ -1,18 +1,3 @@
-My roommate, we’ll call her ‘H’, was terminated today due to reaching out to an individual at corporate,  for help regarding unjust, and possibly illegal activity by her boss. 
-
-The organization H works for is a babysitting recruitment company with several different branches run by different people. The branch of the company she worked for has no HR department or employee help and was run solely the branch owner, making my roommate and her the only two managerial staff. 
-
-H had been initially a babysitter, but was hired as a manager following the previous one’s resignation due to poor work conditions. H recently had asked to step down and return to babysitting with some additional office duties for the same reason as the previous, and was accepted by the boss upon hiring a replacement manager.
-
-As this has yet to happen, H was continuing to be tasked with recruiting new sitters and bureaucratic duties by the boss, however the terms of  other duties were loose. H’s boss had initially said “work until you feel like you hit 40 hours”, however she would end up being on call 24/7, and passed off tasks at whim via text communication. 
-
-While poor practice, the issue regarding legality, is that in H’s contract, it is stated that among vacation days guaranteed off, Thanksgiving was one such day. As well as guaranteed 2 weeks vacation time, which H had requested for a couple days during Christmas and was confirmed and granted by the boss.
-
-H was told she would be working on Thanksgiving regardless, as well as a last minute notice (after she had purchased plane tickets to see her family, which the boss was aware of) that her vacation will be unpaid.
-
-H, with little other resources, reached out to several corporate individuals with an email asking for some form of HR-related help. One individual contacted claimed that they couldn’t do anything for her and then forwarded the email to H’s boss. She was promptly fired, citing unprofessionalism.
-
-As I am working 80 hours a week to keep up with my student loan expenses, I am very concerned for our financial well-being. We split our bills evenly and now I am responsible for the remainder, which I cannot afford.
-
-Does H have any legal claim against her boss?
- This sort of retaliation is not illegal. It is legal to fire a person for going over her boss's head regarding scheduling issues. Employees are only protected against retaliation for certain kinds of whistleblowing or complaints. Call the Massachusetts Department of Labor on Monday morning. Yikes. Looks like her boss has something coming.  Yes. For retaliation. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:bda277aa278c10844e50251fdc3fae61615e80cc5582bcbc967bf3f86c8a23a5
+size 2615

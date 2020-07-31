@@ -1,3 +1,3 @@
-I'm a sophomore in college. For the past year and a half, I've been (off/on) trying to get my scholarship. I keep having to give up, and I'm not this time.
-
-Here's the situation. I got a $300 scholarship. It was supposed to be sent to University of Iowa, but instead, I attended a community college and I never received it. I've called the place that gave me the scholarship, my high school, and U of I and for the longest time they just keep sending me in circles. This go around, U of I said they never even received a check. Called the place that gave me the scholarship. They cut a check to my high school, they cash it, and then they make it out to whatever college I was going to (scholarship's words, not mine). Called the high school and they just called me back saying that they cut the check to *me*, even though everyone I know, including myself, remembers them sending it to the college. The high school told me it was never cashed, and that I need to find this check (that I probably never received) in order to renew it and get a new one. They said it raised red flags since it's been so long *but I've been trying to get it since I won the scholarship.* I don't know what to do. Any advice?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bc250c7e131b4151b4f354adea25a193af4f445a0db621be229bebf257a93a4
+size 1205

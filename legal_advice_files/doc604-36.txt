@@ -1,9 +1,3 @@
-This happened in Colorado.
-
-I was pulled over for "circling the block" and arrested for dui. We challenged this at motions though it did not go in my favor. We have since obtained new evidence that proves that the arresting officer made up more facts on his paperwork and also violated city procedures. I understand that we cannot have another motion trial and that my blood test evidence will be used at trial, but I am wondering if challenging the constitutionality of the stop is still possible at a jury trial. I have a different lawyer than I had at motions, who "specializes in blood evidence" made promises that I believed and I prepaid him 9k for a trial. He now wants me to plea, but will not answer my questions and has threatened to withdraw. In short, I do not believe he is acting in my best interest. Before I hire new counsel I would like to know if I may have an argument to be made.
-
-Thanks /r/legaladvice Based on what you've provided, then yes, that's what it sounds like. [deleted] [deleted] Then you have a really weak case, and your lawyer is likely giving you the best advice to take a plea. [deleted] Still didn't answer this:
-
-&gt; were you driving with a prohibited concentration of the substance in your blood? [deleted] You should probably stop copy/pasting responses since you didn't actually answer either my question or the other poster's question. [deleted] [deleted] [deleted] What new evidence do you have now that you didn't have at the original motion? What's the new evidence you've obtained? What you're theoretically looking for is a motion for reconsideration, if such a thing exists in Colorado. But if your attorney disagrees and is threatening withdrawal, perhaps the evidence is not as strong as you think it is. You can challenge the officer's testimony, show that why he is wrong.  What it comes down to though, were you driving with a prohibited concentration of the substance in your blood?  [deleted] Doesn't sound like you have grounds to question the legality of the stop.
-
-Your lawyer, who has access to all the facts, is suggesting that you plea.  Despite this not being what you want, it may well be in your best interest.  I usually recommend getting a second opinion, but you'll have to pay for that. [deleted] no you can't question the constitutionality of the stop at trial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:057d832e6071029b5b3cab2447294165ad906be47828da96cf16938cc86a9865
+size 2332

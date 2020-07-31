@@ -1,16 +1,3 @@
-[Previous thread](https://www.reddit.com/r/legaladvice/comments/9q8sit/my_late_grandfathers_handgun_in_our_attic/)
-
-**TL:DR:** Surrendered the firearm over to local PD, then got it registered under my name. _(New York State)_
-
-**Long Story:**
-
-**Searching for an answer**
-
-With the advise from the previous thread, I contacted the local Bar Association for a referal to an estate attorney. A very nice local attorney advised me his fees would be costly in research alone, and that I should “shop around” a little more. Looking around more, I got the same answer, and was directed to [the same piece of law](https://www.nysenate.gov/legislation/laws/PEN/265.20) that I linked to in the previous post. I even tried a couple Gun Rights focused Attorneys with out much luck.
-
-**The solution that worked**
-
-In the end, feeling I had exausted my options, and not wanting to commit a felony in NY, I called and surrendered the firearm to local PD, and made a quick statement. The attending officer even said he works with these types of situations all the time. I was provided a receipt and used that to file the necessary paperwork. Now, a month later, I have a what I can only describe as a priceless family heirloom in my legal possession.
-
-
-**Obligatory disclaimer:** This is only a one off situation that cannot be taken as legal precedent or advice from a lawyer. This is only my personal experience, if you find yourself in a similar situation I would STILL recommend contacting your lawyer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6352e10f6a498a0873bccbb861c9dc5d8052bdfcdf0cbbb98b332f7800c9f3b
+size 1495

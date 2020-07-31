@@ -1,19 +1,3 @@
-I live in an apartment building with 24 units in it. Another tenant, we'll call her Betty, seems to be the victim of someone else in the building. I've been here 6 years and she just moved in a few months ago, she's 82 and all alone so I've kind of taken it upon myself to look over her.
-
-Two months ago, a man she described as in his 20's came down to her door screaming at her claiming she was banging the ceiling with a broom (she said she wasnt) and she called the landlord and me right away.
-
-A couple weeks later someone stole the wreath off her door which was also reported to the landlord. Then today, when she came home and checked her mail, it was covered and soaking in mustard. This is also being reported to the landlord. We don't know who the person is and the landlords aren't doing a single thing except listening to Bettys reports over the phone. Betty is starting to get a little frightened.
-
-My questions are:
-
-What should/can the landlords be doing? 
-
-Is covering someone's mail and mail box in mustard any kind of crime?
-
-At what point can police be involved?
-
-What else can we do?
-
-We live in Alberta, Canada. Thank you in advance  Call the police and report the vandalism, because that is what this could be considered.  Then let the Canadian Postal Service know, since they may consider covering mail in mustard to be mail tampering.  Since I'm in the US I can't find anything that really tells me what the law is in Canada, but I think messing with someone's mail warrants a call to the police as well as the stolen wreath.
-
-If you were in the US the person that did that would be looking at  federal felony charges, since mail crime is investigated by the US Postal Inspectors, hopefully Canada is the same.
+version https://git-lfs.github.com/spec/v1
+oid sha256:559e8cd0937349b8579d71eb8eaac895c71647783c1fd36bf8d3afeb1a3d3d33
+size 1733

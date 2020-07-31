@@ -1,25 +1,3 @@
-This is in Rhode Island. I'm looking for clarification on what I'm within my rights to do.
-
-My apartment door has an electronic deadbolt lock that won't open. It normally opens with a code. Googling the symptoms suggests the batteries are too low to operate the motor that unlocks the door. I was never told nor would I have thought that a lock would be battery powered. The batteries, of course, can only be replaced from the inside. I *was* explicitly told that I will not receive any physical keys to the building, so while there is a keyhole, my landlord has the only key.
-
-I talked to my landlord since November 9th. They live on the first floor of the building and that apartment has a set of lights on that scream "I'm on vacation." They're not returning my calls and I have no other way to contact them. They did not inform me that they would be gone for any period of time. Their car is gone and their mail hasn't been collected in quite some time, so they have almost certainly not been back.
-
-I've stayed in a motel because by the time I gave up on having my calls returned, it was too late to bother/burden anyone and ask to stay with them. I have the bill.
-
-I called a locksmith and they confirmed that because of the type of lock, the only way to get in would damage the lock to an extent that it would need to be replaced. There is no other way into the apartment. Windows are not an option.
-
-I've attempted to seek legal counsel but no one has returned my calls on that front either. I imagine I won't hear anything before Monday, if at all.
-
-What can I do to get into the apartment while covering my ass? My lease has a somewhat standard-sounding clause about "damage to the premises" caused by my "misuse." RI State Law has a lot of things that seem related to this but it's hard to separate things I am clearly within my rights to do vs. what I'd need to defend in small claims court or something. This is the first time I've read any of this material directly.
-
-For example, can I ask a locksmith to get me in without fear of retaliation from the landlord? Can I expect to be reimbursed for the costs associated with this, either by billing the landlord or having my rent reduced for the month? Am I missing an option? I'm very afraid that escalating this issue too far would result in them sabotaging my ability to rent in the future if I'm required to list their information on an application or something like that.
-
-Thank you for any help. Are you saying OP should threaten to not hand over the code (i.e. lock the landlord out)? Lolwhut?
-
-Of course the landlord should pay for the locksmith. OP is very far from "out of luck."
-
-OP, you pay for the use of the apartment. You're being too passive. I would have called a locksmith and gotten them to bust open the lock already. Your landlord will probably be more pissed at you for staying in a hotel. A locksmith should be able to get you in. At worst, you pay for a new lock if it is damaged. If it is the type of lock I'm thinking of, that I have at my home, it shouldn't be more than $100, a bit for a lock, but less than a few nights in a hotel. 
-
-You can try and have your landlord compensate you for the costs, you could try to counter with payment for a copy of the new entry code number. If you landlord is like many that we read about here, you are probably out of luck getting reimbursement, but try not to get too upset about it. Its frustrating, but nothing that the landlord has done intentionally, just out of negligence or lack of forethought. 
-
-Edit - keep extra batteries on hand. The lock should make a beeping sound when you enter when the batteries start to go, giving you a couple of days notice. However, people trying the lock over and over can prematurely kill the batteries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f506989b37075f1e02a4bc4cc19082db8ed440742b28e4c4b6717bf600528514
+size 3772

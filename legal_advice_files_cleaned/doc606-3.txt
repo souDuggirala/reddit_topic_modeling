@@ -1,1 +1,3 @@
-i ordered a 3d printer off of lightinthebox.com on november 20 and fedex claimed to deliver it on the 23rd. however i checked my mail po box and nothing was there. is. when i checked the tracking it says it was signed by "rhoguin" and i have no idea who that is. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:8573c132a8b60b013a67c13e095e0d01b43a4fb8457c914a4848170a05203d63
+size 263

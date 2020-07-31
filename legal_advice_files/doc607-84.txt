@@ -1,12 +1,3 @@
-This is in Ocean County, New Jersey, United States.
-
-I am posting this in order to help a friend. Her mother is the one involved, we'll call her Anon.
-
-**SUMMARY:** Anon works at a franchise of Shop Rite, a chain of grocery stores around the East Coast. She has worked there for 11 years. Recently, she was let go from the company for unrelated reasons. During her time at the store, there was a fellow employee asked Anon to purchase some items with a credit card because her situation made it more convenient. Anon returned the card immediately. Recently, the employee who loaned their card ran away from home. Their guardian accused Anon of stealing their credit card, and threatened legal action. The employee who loaned their credit card cannot be tracked down, and Anon has no way to refute their claims.
-
-Can Anon be arrested or fined in this case?
- Not my mother, just a friend's. I'll see. But they work at a grocery store.  Was there a particular item carried by the convenience store that was not in stock at the grocery store? 
-
-This story may indeed be true, but Anon will need a lawyer to defend them if charges are pressed, because as you can see, the story is one that many people will be skeptical of.  I've worked in the service industry, so I understand how precious 15 minute breaks can be and I've seen people do this, but always with cash.  It's the claim that she gave someone her card to buy things she had easy access to to save 5-10 minutes that may be tough to sell, and you're going to want a professional in charge of selling it.   IANAL but it sounds like he used your mother to use a stolen credit card and left I would think you should look for this other person if you want your mother to stand a chance at proving her innocence. Best guess is so they could immediately go to break and not stand in line for 5-10 minutes. I use to work at a grocery store and some employees would do this if their break was up next. Because Anon had a 30 minute break and the employee had a 15 minute one, so Anon had time to run to a convenience store and the employee wanted something from there. Why would the employee simply not buy food for themselves on their own break? The employee asked Anon to buy the employee food while Anon was on her break, and it was multiple occasions Yes, they can be arrested, tried and convicted for credit card fraud if enough evidence exists that they've committed credit card fraud.
-
-Why would someone loan your friend a card to make purchases for them?  Even in your narrative, this sounds shady.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b58208ca74f47fb849bfe20a3953f772805015b9c9922e60cc3fd89ffbe78b3d
+size 2552

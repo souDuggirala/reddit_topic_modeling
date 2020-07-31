@@ -1,25 +1,3 @@
-We purchased a used 07 CX7 off of Craigslist. Posted as Excellent Condition- No Issues-Clean Title. Seller stated he is a  foreign exchange student just graduated college and heading back home, purchased 6 months ago at dealer for 7,000 selling 4,900. 
-
-We looked at car and test drove it. There was a ticking noise in engine and airbag light on. I realize what is to follow is a huge Duh on our part: Stated airbag light came on when vacuuming car out, ticking noise hadn't noticed. He did come down 400 on price, we stated we were interested in buying and would exchange payment/money  and have looked at on Monday (this was weekend) \*the car was incredibly clean outside and in and feared losing it as we were purchasing for 16 year daughter (1/2 her money) and had been looking for a long time. He stated he was very honest and would work with us if something came up. 
-
-Here is what we know now:  (Minnesota purchase) 
-
-* car was "totaled" in 2016 (MN has a stupid loophole where you can unload to salvage auction and not affect your title) assume than its rebuild  \*He knew this due to buying at dealer and they have to disclose 
-* Cars airbags do not work (likely never replaced from above) 
-* Car had almost NO oil in it- Leaking 
-* Timing Chain damaged and stretched - hitting and **damaged** **motor** \* Found out by calling where he had recent oil change that they made him aware of the timing chain issue 
-* Motor needs replacement 
-* He purchased for 5,100 not 7,000  
-* He is Married with a child and is not returning home 
-
-I was thinking we had an out, as I noticed there was a second person on title who signed their name Jessie and the typed name was completely different, he stated this is his roommate and that is the name on her DL and how she purchased /signed when bought (which I did have confirmed with DMV) 
-
-Do we have any sort of shot with perhaps a small courts claim- False advertising/miss representation? 
-
-&amp;#x200B; Take it somewhere and get it inspected before buying.  
-
-If you can prove he lied you have a decent chance at getting a judgment.  But proving that is difficult.  The title was "clear." You would have to get somebody to come into court to testify that they told him of the issues.  And then you would have to prove that he told you false information (not just that he failed to disclose the problems).  And then there's something called puffery which means you can embellish during a sales pitch.  Generally sales of used items are as is where is.
-
-Then there's also the problem of collecting on judgments. No. You knew it had problems during the test drive. Ticking and air bag lights just don't remedy itself.
-
-Just because the salvage title was 'fixed' doesn't give you an out. OP- nearly all private party car sales are 'as-is' which means you're agreeing to take the car in exactly it's current state. It was up to you to do the diligence here to have the car inspected by a mechanic before purchasing, and you failed to do so. Cars sold on craigslist are sold as is. You have no recourse. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:8353c8dbf1beab9f61b852eb9d8889cd0634eec96258279495c3068d1953f3b3
+size 3050

@@ -1,7 +1,3 @@
-I have one rental unit with the tenant being unable to pay their rent. I believe they are planning to skip without notice. The tenant owes back rent and a separate amount of money for electricity. While I know I should consider myself fortunate that they are leaving however I want to know if I can collect those monies owed and if I should simply proceed in small claims court with rent owed + electricity bill owed. I do plan on doing a formal eviction as well. That was it - I just wanted to know if I have the ability to go after the money owed after the tenant was formally evicted.  Yes.  You can sue a tenant for unpaid rent.  Is there some part of the the question I'm misunderstanding?
-
-If electricity is the tenant's responsibility under the lease and as the landlord you were forced to pay that in some way, that amount may be recoverable as well.
-
-&gt;I do plan on doing a formal eviction as well.
-
-You should talk to your lawyer about the best path forward.  Eviction is generally about possession of the property (and gaining a judgment for outstanding amounts due under the lease in that process).  If the tenant surrenders the property you may have a simpler path to your remedy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b6e7a9c3c107773e8fb02b12528e8d3babee89b79aeaba13c7e6b10b462cc73
+size 1196

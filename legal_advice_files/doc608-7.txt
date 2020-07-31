@@ -1,9 +1,3 @@
-I am in California
-
-I am Cambodian and was born on the border of Thailand and Cambodia in a refugee camp. My permanent residence card stated place of birth as Thailand. 
-
-For some reason when I applied for my citizenship and filled out the paper work, under country of former nationality I put Cambodia thinking that it is my nationality (now realizing I thought of it as ethnicity). 
-
-Now I want to apply for a passport and am worried that the conflicting information won’t get me approved. I’ve tried researching options and it isn’t clear if I have a case that could be solved by trying to amend my certificate using N-565 form.
-
-How should I proceed?  [deleted] You can also ask in /r/USCIS, /r/askimmigration, and /r/immigration.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ddc371c42030cd17c770cf4ee76e38267f784123b8d2bfd90a3dbffd3a1c6cc
+size 740

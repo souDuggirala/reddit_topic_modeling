@@ -1,5 +1,3 @@
-Basically, my roommate and I had a falling out and his behavior is extremely erratic. He already committed credit card fraud using my payment information today. I don't know what he might do next... I did sell him ecstasy that I bought from someone else a while back. If he decides to show that to the authorities, will I get into any trouble?  
-
-&amp;#x200B;
-
-&amp;#x200B;
+version https://git-lfs.github.com/spec/v1
+oid sha256:a21fa6d181308e1aca5b7ff8767e82435505a0e2296f5604d0a72a3199462f0e
+size 373

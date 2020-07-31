@@ -1,11 +1,3 @@
-[removed] I am starting my costs. Those are the only options available. Single and Family. Starting in 2020 there will be an addition $100 month to add spouse. So if in 2019 my family is me and spouse = $200/month. 2020 me and spouse = $300/month. Therefore I will be paying 50% more for "family" than someone who is on family plan as a single parent + any number of kids.  You are not clear on the costs. You only give 2 pricing options, single and family, then say you pay 50% more than someone with kids.
-
-If they charge more for your situation then isn't that surcharge because your wife has the option to take insurance through her employer but you are choosing to pay more for insurance through your employer?
-
-Again not discrimination based on family status. You do realize that your employer plan administrator will have more overhead for covering additional persons, right? But I'm already paying the same as someone who is insuring one or more people on the plan. Now I'll be paying 50% more than them to cover the same number (or fewer) people.
-
-As someone without children I am well accustomed to paying my fair share for things that do not directly benefit me. This just feels like a slap when it comes to out of pocket expenses based on children vs. Childfree. But I'm not paying more for more people. I'm paying more for the same or fewer people. Without children, my  "family" is 2 people. Therefore I'm paying 50% more for my 2 people than someone who's 2 people include a child. Just not sure how that's fair.  No this not discrimination. You are paying more for more people. 
-
-However, in other cases family units can be a sort of protected class.  It isn't discrimination because you are rightfully paying more to insure an additional person than someone who doesn't need to I sure a spouse.
-
-We call that "Paying your fair share". "Family status" isn't a protected class so there's no discrimination.  Plus that's how insurance works.  The employer subsidizes the employee cost but less of the spouse cost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c61ba7b2762eb57b3e6f563aa5f447d16b21e0cce4607f48e18f08134d62dec
+size 2027

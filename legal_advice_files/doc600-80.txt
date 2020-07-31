@@ -1,11 +1,3 @@
-My boyfriend currently rents a townhouse in Wisconsin and is looking to break his lease. When he signed his lease in May (for June), the landlord promised to replace the extremely damaged floors before he moved in, which is why he agreed to sign the lease.
-
-The floors were not replaced on the day he showed up to move in (from out of state), and he has multiple text conversations with the landlord from the past 6 months trying to set up dates to replace the floor. Every time the date got close for replacement, the landlord would cancel and reschedule, until the most recent message said that the flooring person quit and the landlord couldn't give an estimate of when the floors would get replaced (we're guessing this means they won't be).
-
-He would like to break his lease and move to somewhere in better condition with a more responsive landlord. The lease says that the tenant is responsible for showing the property and getting a sublease (but how do you show a property in that condition with no sign of anything getting replaced?). There is also a flat fee of $200 to break a lease, as well as being responsible for any rent while the property is vacant without a sublet. 
-
-Is signing a lease under false pretenses grounds to avoid the penalties of breaking it? He knows he has the option to simply move in June when his lease is up, but would love to leave earlier if possible.
-
-Thank you for any advice or suggestions of what legal action to look into! Unfortunately it was not written into the lease, he only has the texts scheduling/cancelling all of the floor replacements and the eventual "no time frame for replacement" text. The floor has multiple holes where the tile has been ripped away and you can see the cement underneath, like easily 3 inches wide, not just tiny dings. 
-
-The uninhabitable living conditions looks like it's worth a shot after briefly browsing and trying to interpret WI legislature - thanks for the suggestion! Hopefully a lawyer finds this thread and can confirm or deny the validity! Obligatory IANAL. Just a common lurker actually. But my first question would be if you had that promise written down or documented anywhere, or even had that condition added into the lease? And my second question would be how bad is the floor damage? Maybe instead of breaking the lease on the grounds of false pretenses, you could try for uninhabitable living conditions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3aae76721bc58dca462e616dec9a52ca379fc3971c538f946a0b57253ff5560
+size 2402

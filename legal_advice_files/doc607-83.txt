@@ -1,21 +1,3 @@
-Hi everyone! I'll try to keep it short! 
-
-Basically, my roommate's dog got stung by a bee. 
-
-We moved into our townhome in a community of townhomes in August.
-The townhome next to ours had a beehive growing in their wall. 
-About a month ago, my roommate's dog stepped on one of the bees and had to go to the ER, before going into anaphylactic shock. 
-She had to stay over night and the whole thing cost them around $900.
-The morning after, my roommates went to go talk to our neighbors and they said they've tried to contact their landlord/HOA since summer, but they haven't fixed it. 
-I think my roommate got the email of their landlord and a day later, someone came to fix it. 
-
-If the landlord/HOA was actually being negligent until an accident occurred, is there anything we can do about it? 
-(The dog lives there legally, pet deposit and everything) 
-
-Thank you for reading this post!  Same result. Sorry. It was our neighbors landlord that was contacted (not ours)  &gt; If the landlord/HOA was actually being negligent until an accident occurred
-
-There's no negligence in the facts you gave us. A landlord doesn't have a duty to make the premises bee-proof, nor does he have a duty to remediate a bee infestation on someone else's property.
-
-&gt; is there anything we can do about it? 
-
-No. Sorry.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8112d9cb33fa335961bdff0ed7e5490fe987d09a297bf3ac2cf9f09d21a3de5a
+size 1304

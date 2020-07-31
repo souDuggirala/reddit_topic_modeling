@@ -1,5 +1,3 @@
-Friend of mine got caught with weed, but the cops gave this ticket for smoking in public area. I am wondering if they should get a lawyer. How bad is it? It requires in person court appearance. Should they need a lawyer? How is the punishment?  Was this person ticked for obstruction of highways or for smoking in public? Or both?
-
-Anyone facing a charge on a drug-related offense should likely seek counsel.  Often there is an outcome possible that avoids conviction on a drug charge.  That is always advantageous.  It isn't so much the punishment for the offense which is often relatively small, but the criminal record that now includes a drug conviction.  
-
-Your friend should seek a consultation with a lawyer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ddfcee37f2223f2947260c135095243761c4e1f294ea86cf38980b65c615c16
+size 715

@@ -1,23 +1,3 @@
-I posted this to r/personalfinance and was told to also post it here because it seems like there could be legal implications now (which scares me because I just want to live my life in peace and not have to sue anyone).  I'm in the metro Detroit area of Michigan for reference.
-
-Back a couple years ago I was a witness to a multi-car auto accident on the freeway where firetrucks, ambulances, and multiple tow trucks had to be called.  To preface, no damage was done to my vehicle.  No insurance claims were filed against me or on my behalf.  Everyone in my vehicle was fine (albeit shaken) and we drove away from the scene after giving a statement.  These facts matter.
-
-A week after the accident I received a bill for $500 for the Fire/EMS crews that showed up.  I immediately called the number on the bill and was told that everyone involved in the accident was charged $500 to recoup the cost of sending those crews out (isn't that what my taxes are for?) but not to worry because my insurance will cover it in my claim.  I told the guy I didn't file a claim because no damage was done to my vehicle and I only stayed as a witness.  I was told that if I was only a witness then I shouldn't be charged a fine and I need to write that in a letter and mail it to them for their records and they'll take care of it.  Seems reasonable and simple enough so that's what I did.  
-
-A few months go by and I receive the same $500 bill saying it's going to collections if I don't pay immediately.  I call the number again and tell them the same story.  They also tell me the same story - I need to write a letter and send it in to them.  I told them I already did that and they said maybe I didn't write things out clear enough and to write another letter and send it in.
-
-This was 2 years ago and I thought everything was good to go because I never heard anything again.  Apparently that's not the case because it proceeded to go to collections during this time and within the last 12 months I had this $500 bill show up on one of my credit reports dinging me 50 points.  I've disputed this collection through the credit reporting agency but it's still on my report.  What do I need to do to make this go away?  It's extremely frustrating.
-
-**Edit:** Some things I forgot to mention:
-
-* the guy I talked to on the phone the second time told me not to worry about it going to collections because their collections department was the guy 2 cubicles over from him. It never goes to a third party collector. If I write to the collections department, I'd be writing to the same office I've already written to.
-
-* Going to the news seems like a good idea as an anonymous person, but the practicality of putting my identity and face on TV to complain about my city government is a thought that terrifies me and is not something I'm interested in.
-
-* I also no longer have the bill or the contact information from the agency that sent it to me.  How can I find this? They are making a claim against you.  Your insurance needs to handle this.  They may pay it or they may fight it. Someone is effectively making a claim against you know. So call them, explain the situation and see if they will clear it up for you. definitely not doing that.  It's been 4 or 5 weeks since I filed a dispute and I haven't heard anything back.  It's still on my report. How long do these disputes take?  I'm also not that knowledgeable on this stuff - can I even dispute this and have it successfully taken away because isn't this technically my debt on paper? Don't go to the news, there are lots of steps you haven't taken.  You need to consult with a lawyer and have them write a letter demanding that the company release the debt and remove the report on your credit.  If they don't respond then the lawyer can escalate from there but I'm betting they will as charging a witness for services not used sounds super illegal and the letter will surely point out exactly what statutes they are violating and the consequences of doing so.
-
-Get a full copy of your credit report for the name of the company that the debt is currently sitting with.  Give that to the attorney along with any other information you can find/remember about the original EMS crew who showed up, the accident, accident reports, etc. &gt; Going to the news seems like a good idea as an anonymous person, but the practicality of putting my identity and face on TV to complain about my city government is a thought that terrifies me and is not something I'm interested in.
-
-DO NOT DO THIS.  
-
-What was the result of your dispute with the credit reporting agency?  Have they given you a response to that yet? My insurance wasn't called because I didn't make a claim, and no one made a claim against me.  I was a witness and not involved in the accident.  My insurance would have no idea what I'm talking about. Contact the insurance you had at the time of the accident.  Explain the entire situation to them and let them handle it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67683b5db89763370bb4a01a5e2df0661a85321a129a9f5e163670f8e3b4ba32
+size 4969

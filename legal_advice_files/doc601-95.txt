@@ -1,1 +1,3 @@
-Hello, I am currently a T-mobile sales rep. I started with this company in August,went into a three week training and started at my store in September. I was told my commission payout would be 9% of my total revenue of the month, along with bonuses which in my company are called spiffs. My first month there my revenue was 27,000 and there were spiffs for $10 per each prepaid I sold. I sold 270 of them but when I received my commission check it was not nearly close to what was promised. Before tax my commission was $1990. Fast forward one month I was suppose to be paid out my 9% of my revenue for the month of October today, but I was again shorted and was barely even paid out for 1% of my revenue. What steps should I take to get my earned money?
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b9eb26e5110aea8adaa3cec871c832f54a56e4e78c8386a679411a04194e816
+size 754

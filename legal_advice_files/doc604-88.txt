@@ -1,22 +1,3 @@
-First time posting, so bear with me!
-
-I'm a server at a restaurant that constantly issues checks that bounce and withholds our cash tips for months at a time. I've been there for about two months.   
-We get biweekly checks with our hourly wage and any money we received from working events. So far, I've received three paychecks. I took the first one to my bank- it bounced due to insufficient funds, and I am still waiting to receive a reissued check from my employer. I was told by coworkers that this happens every time, and to go to a bank they recommended that would cash our checks (apparently, we have a bad reputation around the city). I took my second check where they told me to and was able to get it cashed and then deposit it in my bank account. I tried to go again with my third check and was turned down and ended up taking it to another sketchy cash checking service, where they cashed it but also took out a sizable fee. 
-
-That's just the half of it. We also receive (supposedly) our tips in cash. In most restaurants, you receive your cash tips and the end of your shift. However, there's never any cash to give employees, so we're all on an IOU list. The accountant will message us with lists of names, on random days at random times, of who can come in and pick up SOME of their tips. You never know what day it's going to be, or if your name will even be on the list. No one ever gets fully caught up- they'll just give you your tips from one or two days weeks ago. As of now, I'm about a month behind, with the total amount they owe me close to $1,000. It's worse for other employees who have been there longer. You also have to be extremely vigilant in checking that they're giving you the right amount. They "forgot" two days of tips for one of my coworkers. Luckily he had kept close records of what they owed him, but a lot of people don't and surely have lost money that way.   
-
-
-Obviously, I'm looking for a new job. However, many employees are afraid to leave before they get "caught up" on the money they're owed, even though that seems unlikely. This is due to the fact that employees have left in the past and never been paid the full amount they're owed. They've badgered the managers and accountant for it until they finally gave up.   
-
-
-I'm sure this can't be legal. They're withholding tips from us and giving us sketchy checks that bounce every time. I'm desperate for money and unable to pay rent, even though I've earned enough to pay for it. What legal steps can I take in this situation? Quite honestly, I want to bring this place down for their horrible practices, but I would also settle for just scaring them into paying me in full as quick as possible.  
-
-
-Thanks! Why in heavens name is anyone even WORKING there?! Don't they have bills and rent, need food, clothing, gas, etc?!  &gt; Quite honestly, I want to bring this place down for their horrible practices
-
-It's already dead. The corpse just hasn't stopped moving yet.
-
-If your pay is no longer arriving on time and if your employer is inappropriately withholding pay, you will generally be eligible for unemployment if you quit. You should also - quickly - file a wage claim, if possible, so that you have some chance of collecting if (when) the company liquidates its assets during bankruptcy. This company is failing and will be out of business soon; get yourself a new job.
-
-While you do have some legal recourse, they (clearly) don't have any money.  Not a Lawyer. Without a location I can't be more specific, but assuming you're in the US, google **your state** wage claim. There are government agencies who specifically exist to get this kind of thing resolved.  
-HOWEVER: if they're issuing paycheques that bounce, they may not have the money they owe you. It may wind up being a complicated thing to get what you can. Immediately file a wage complaint with the state department of labor and look for a new job.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b87a841da4da72e4d4199ebf1efc5d0f697fca6acb24814b2a27f4280a81a6d
+size 3923

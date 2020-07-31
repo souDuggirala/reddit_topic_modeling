@@ -1,5 +1,3 @@
-my household is thinking of taking the dog in. my friend lives out of state. do we need to take care of legal documents? how do you legally switch the ownership of a pet? i am in NY and she is in TN, USA.  The chip company may also want proof that you are the owner of the animal for that, so a letter from the previous owner would be a wise thing to have on hand. I doubt it.
-
-You'll need to register/license the dog if your town requires that. And if the dog has a chip you should contact the chip company to change the information. Other than that I can't think of anything else you'd need to do. Call them and ask. Bill of sale so she can't claim you took it. Get any microchip updated before she leaves. Get the dog registered if required in your state. thank you! if i take the dog to a vet, do you know if they would ask for proof of ownership? She gives you the dog, end of story. If you really want to you can write up a bill of sale.
-
-There is no required paperwork or anything though.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8751c53dc2754da0c266c5afb18b8e1c8cafbda301b089eda26a7afdc1043a9
+size 995

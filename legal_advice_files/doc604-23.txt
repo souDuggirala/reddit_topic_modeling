@@ -1,10 +1,3 @@
-Kind of a long story but my parents are in dire need of help. They are currently buying some condos from some people and a lot of problems have come up. A few months ago the people my parents are paying (let's call them BS) call them and demand that they have their condos back as in they want the keys to every single unit the next day. As you could guess my parents got really stressed and didn't know what to do and where all of this was coming from. My parents disputed and told BS no, they talked and threatened to take my parents to court. As you would think nothing happened and my parents continued paying them. Now a few months later the same thing is happening but BS is going to every   
-unit and leaving letters and telling our tenants that they shouldn't pay rent to my parents but to the lady in the office so it can go directly to them. Now today BS left a note trying to buy my parents out and trying to resolve the problem. Is this even legal? My parents don't know what to do and what's worse is that the tenants aren't native English speakers so they have no idea what's going on and they think they're being kicked out while others are just refusing to pay rent and utilities to my parents. I'm thankful for any help at this point, its tearing my family apart. Thanks for the advice! Things that are going to matter a lot, here:
-
-* The current legal ownership of those units. If your parents are "currently buying" those units but the sales have not closed, then title may still remain with BS.
-
-* The contract/s for sale between your parents and BS, and in particular, terms regarding your parents' payments for the property, when your parents take possession, and when your parents gain the right to collect rent.
-
-* The basis BS are using to argue that they have some right to recover possession or to collect rent.
-
-Your parents would be well served to sit down with a real estate attorney, with all the documentation they have, and sort this out. This smells of a complicated and badly-done sale agreement, and if so, they need a professional to dig them out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f479bba9e7233124316cb30b9bfee50a79a42573c4c67fdc271526af9ecaee23
+size 2084

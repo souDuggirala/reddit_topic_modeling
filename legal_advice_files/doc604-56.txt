@@ -1,9 +1,3 @@
-Additional Info: 
-
-He's 18 and can't support himself financially, but he supposedly helps pay bills occasionally.
-
-I just want to know if his father can do that. I told him it seems like an unlawful eviction given there's no notice prior and he helps pay bills but I'm not sire since there's no contract, he needs proof of any claims, etc.
-
-Thanks for any help! Dad can give 30 days written notice once your friend is 18. If your friend is locked out before then or without any written notice he should call the police. [deleted] [deleted] If he's 18 (and in some places, if he has also graduated high school), his family can kick him out with proper notice (usually 30 days).
-
-&amp;#x200B; While I can't comment on anything relating to the eviction since you've not specified your location, it's possible that this could constitute an unlawful eviction. If his father were instead to say "give me all your money or I am going to begin the eviction process," that would certainly be safer. But yes, his father can impose whatever requirements he wants as a condition of continued tenancy. Location matters. In some states you're a minor past 18, either up to a later age or if you're still in high school. If neither is the case, your friend is a legal adult, then his father must provide proper eviction notice for his state. He cannot just change the locks, if that happens your friend should call the police. Practically, your friend should be getting his things together so if he has to leave he doesn't lose any important paperwork or property.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1634b4b31b25324006a2cffca5e72b2218251bf82c2dcec66d9bfda58b272b10
+size 1549

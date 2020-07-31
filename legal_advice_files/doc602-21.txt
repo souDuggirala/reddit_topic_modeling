@@ -1,7 +1,3 @@
-I was in a MVA in the last year and filed a lawsuit because of that. My attorney in that case said the insurance company for the long-term disability through my former employer released all of my medical records, including my mental health records, to the defense. I never signed a release for them to do that and my attorney said the mental health records were meant to be privileged. He said I should seek council that specializes in this type of law because he does not know it nor have any referrals. Is there anything I can do here?
-
-Thank you. Is it possible you signed a blanket statement type of waiver/release when you were hired?
-
-Typically PHI cannot be released without written consent from a patient or a court order -- even with court orders, hospital compliance departments have to "dig" into the case a little bit before they just hand over records.   Typically they will contact the patient as well...
-
-But to answer your question: you can sue for anything, but only have a chance of winning if you have proof or evidence. There is no private right to action under HIPAA. You can file a HIPAA complaint with HHS. Keep in mind, if you were suing based on medical costs then they likely have a right to review those records to determine if your costs were due to the event you’re suing over.
+version https://git-lfs.github.com/spec/v1
+oid sha256:089ce7b02156a5bbd2b9699e27c154642c478c7f9f089c24355ef53707962900
+size 1308

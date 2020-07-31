@@ -1,25 +1,3 @@
-This morning my daughter drove to visit her friend. She had never been there before and is s new driver. 
-
-It was raining and the final approach to the house was a steep dirt driveway. Near the top, her car lost traction and slid backwards, hitting a transformer box. 
-
-We gave insurance info to the electrical company, but now the owners of the house have contacted me saying that their Keurig machine and microwave are "dead". 
-
-
-Are we in any way liable for this?
-
-
-Should these items be covered under their homeowner's insurance?
-
-
-Do *I* have any right to compensation because the condition of the driveway is what it is and the accident was not caused by driver error?...I never would have thought twice about this possibility until they contacted me wanting this money. 
-
-
-Thanks. Sorry if formatting is horrible, on mobile. 
-
-
- The accident *was* caused by the driver's error. The homeowners wouldn't be going through their insurance, but rather through your daughter's car insurance. The insurance adjuster should be able to determine whether these appliances were a foreseeable consequence of your daughter's error (that they don't work *because* of the crash). However, if you don't want to go through your insurance, I'd be hesitant to pay out of pocket. Once they take you to small claims, the burden of proof is on them to show the appliances were working prior to the accident.  Even if they could prove their appliances were broken as a result of the accident that just means your insurance would end up covering it. &gt; Do I have any right to compensation because the condition of the driveway is what it is and the accident was not caused by driver error?
-
-No. Your daughter failed to maintain control of her vehicle and hit a stationary object. There is virtually zero way that makes this not her responsibility.
-
-Whether or not the damage she did is directly responsible for the broken appliances is debatable. If you don't want to pay them let them go through their insurance, who will likely sue you. Fair enough... Obviously I don't know much about it either It’s probably not a scam, rather the homeowners don’t know the proper channels to pursue this either.  That's kind of what I was thinking. I don't know these people or if this is a scam or not.  Definitely don’t give them any money. They need to go through the proper channels of insurance and/or court if they think they can prove you are liable. You have no way of knowing if their Keurig and microwave were even functioning prior or if this is just them seizing an opportunity.  Lol, no you are not entitled to compensation. The home owners insurance may be liable to pay, they would then sue you for the money they are out. 
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c285d577463f765e7e557e68f393bd95e81ba64fe7b2eae11c0bfbdc14647fb7
+size 2719

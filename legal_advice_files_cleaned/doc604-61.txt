@@ -1,1 +1,3 @@
-things have escalated in the past couple days and i really need help but i dont want to post too much here. if someone could message me that would be great. thank you in advance go to the police and file a report. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c3fa6586dd7af345b5f65ebe050dedb800e6c0ca268ffdcd71ec3f37fb859b2
+size 214

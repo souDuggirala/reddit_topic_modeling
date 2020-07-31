@@ -1,9 +1,3 @@
-The store I work pt at offered employees overtime for anyone who wants to work Thanksgiving. I have a screenshot of the owner making this offer. Fast forward to today, pay day after Thanksgiving, and what do you know, no one who worked Thanksgiving got overtime for it! 
-
-I contacted the GM about it. He made a joke about waiting until next Thanksgiving then said he'd check on it. This was about an hour ago and I haven't heard back. 
-
-So my question is, at what point is this considered wage theft? If he says "we'll get it to you on your next check" is that acceptable? Is it already wage theft because it wasn't given to us when it was guaranteed to be? What should I do here?  That's what my current plan is. I'm going in this morning, we'll see how things go.  Texas doesn't require premium pay on any holidays at all, but does require employers to follow their written policies. Since you have proof of them telling you it'd be paid at time and a half, you're not completely SOL.
-
-They're not required to cut a check out of cycle. If it's not on your next check, file a wage complaint with TWC. https://twc.texas.gov/jobseekers/how-submit-wage-claim-under-texas-payday-law ... so what do I need? Would it just be small claims court? 
-
-Edit: this affected more than just me, it was all the employees who worked that day.  You don’t need a lawyer unless the missing wages are more than $10k... Ok, cool. Thank you! If it's not on the next check I'll be contacting a lawyer.  So you should ask for it and see if they will include it in your next pay check. It's unrealistic to expect that they will process an out of cycle payroll just for that.  Your recourse would be a wage claim or a lawsuit. But I have a screenshot of the owner guaranteeing us OT for Thanksgiving.  Don't expect them to cut you an out of cycle payroll check for overtime they were not required to pay you.  If the answer is next pay check that is the best you can hope for. If they say they won't pay you can try filing a wage claim but it might not work because this wasn't required by any law to be paid to you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4048957cd1edc5529fa94880a66bdb8d100511a3891967f6e308b8952683fb8a
+size 2092

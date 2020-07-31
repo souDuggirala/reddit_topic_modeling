@@ -1,15 +1,3 @@
-Lehigh County Pa. 3 years ago I left my old apartment complex. I was under the impression I no longer had a lease, as the previous owners told me I'd have to come into the office to renew it each year and I had not. The company that bought the complex while I was living there informed me I was still under lease that it auto renewed, and would be breaking it if I left. I believe the charge for breaking the lease should've roughly been $800. 
-
-3 years later they finally took me to court, which I was not informed of until a police officer handed me a "write of execution" saying I owed $2300 and stated the lawyers next step would be to get a court order to come into my home and seize property. 
-
-I'm worried that at any minute there will be people here to take all my possessions and I don't know what to do. I want my day in court to defend myself, is that possible now that a ruling was already made? If not why are they coming for my possessions instead of garnishing wages? 
-
-Additional info: I left my old apartment because when the new owners took over they turned it I to a construction zone doing constant renovations, I couldn't sleep anymore. When the complex building across from mine burnt down in a fire that was the last straw. I waived any right to my security deposit. I also just had a newborn this week if that provides me any protection.  A writ of execution means that a lawsuit was filed against you and a court entered default judgment against you for failing to respond.  
-
-There are potential grounds to be relieved from default, but you need to hire an attorney who can guide you through that process.
-
- When the officer served me outside of my home that was the first notice I was given that there had been a court case. The paperwork given to me says "Writ of Execution Notice".  Before the notification that you had a judgement against you, were you notified of any pending court cases against you?  Did it say "Writ" or "Write" of Execution?  Were you properly served before the case was adjudicated?  If not, you may have a chance at having a new trial due to lack of service.  But you'll need proof of where they actually attempted to serve you the first time.
-
-&gt; I also just had a newborn this week if that provides me any protection.
-
-It does not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbe823666ff934d95a6d535fc73f0ed7ebf70424c7cf3ecc3c21870113345064
+size 2288

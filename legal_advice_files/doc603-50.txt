@@ -1,11 +1,3 @@
-To keep it short, my husband and I had a project to expand our driveway. We used Home Advisor and through their services were connected to a local company with good ratings. Turns out the company is a total scam, they did literally the worst possible job and actually damaged several property items on top of it. What should've been a 2k job is now going to be closer to 10k after we rip everything out, re-do, and fix the damage done.
-
-​
-
-We're taking legal action on the company and have a lawyer and all that - but my question is with Home Advisor. I know I can submit a complaint but are they liable for anything since we used their services to find this sham company? They clearly did not do their vetting research and the reviews on the Home Advisor page have to be fake (the company in question actually operates under 4 other names as well with terrible reviews and dozens of victims, its actually a huge case).
-
-​
-
-Lawyers are taking care of the sham company, what are our options for dealing with HA?  Had a feeling this would be the answer. Thank you. I would stay away, far away, from Home Advisor. Our local news just did a story about several people here that had issues with the people that were hired. One couple was matched with a convicted felon that apparently lied on his paperwork for registering his company with the state; and in the end, he never finished the work. 
-
-But that is true, Home Advisor’s terms of service state that they are not responsible for the people that you hire. Kind of shady, in my opinion, as their commercials state that all the people are fully background checked.  Home Advisor's Terms of Service clearly indicate that they aren't responsible for the people you hire through them. You'll want to speak with your lawyer about that in case it turns out those terms aren't ok. However I suspect they're in compliance with the law, so likely, nothing can be done to HA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11a9a62caf32654bec6f0d66ad0a0d5e37a1d75bf3f2eb140d59a1d4234f28d1
+size 1922

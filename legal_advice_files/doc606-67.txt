@@ -1,1 +1,3 @@
-25k for remodel work, 17k for electrical now they want 27k for mold remediation. High pressure sales techniques. I live here...don’t know what to do. They say they are fine. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddc26c493e94cbc8ee42d2c3d88bbf3efa8c87b1203aca4d968eaeb3c0d185e3
+size 176

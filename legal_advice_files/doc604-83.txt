@@ -1,13 +1,3 @@
-My boyfriend \[23, Russian, MRes\] and I \[24, British, BA\] want to live in the same country as each other. This is proving harder than expected. I can't get a Russian visa, and his British student visa is expiring next month.
-
-We've been searching for a country that would be easy for the two of us to move to, but we haven't had much luck yet. New Zealand, for example, would be easy for \*me\* to move to - it offers a year-long working visa for British citizens. However, for a Russian, this type of visa would not be available.
-
-&amp;#x200B;
-
-We were hoping that you could help us out. Are there any countries which have equally relaxed immigration laws for British citizens AND for Russian citizens? Ideally, the country would have to be English speaking, or failing that, somewhere in Europe. &gt; Have you looked at former soviet bloc countries that are now part of the EU? I.e., Czech Republic, Poland, Ukraine? 
-
-Russia is as popular as the clap in all three of those countries. 
-
-OP, you may not find a third country that will accept both of you. It might be either you start learning Russian, or he starts the arduous process of applying for a UK visa.  That could be a good suggestion. He's tried, but hasn't been able to find a job which fulfils the requirements. Same applies for me, vice versa. Can't find a job in Russia (can't speak the language, which isn't much help) You might want to ask also in /r/IWantOut. Have you looked at former soviet bloc countries that are now part of the EU? I.e., Czech Republic, Poland, Ukraine? Doesn't exactly fit english speaking fully but I bet you'd have an easier time there. 
-
-Why can't he transfer his british student visa to an employment visa? Did he even try? Why can't you get a Russian visa?
+version https://git-lfs.github.com/spec/v1
+oid sha256:598498f8b088e29bebc8dec065f9d0d3b3c0d81a1208f6c19bd82b5a50c5e475
+size 1756

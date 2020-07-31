@@ -1,27 +1,3 @@
-Bare with me as it has been a long night.
-
-&amp;#x200B;
-
-I've had the Samsung Note 4 since 09/24/15 and previously replaced the battery with an Anker battery. This battery worked fine but after about a year it started losing charge rapidly fast.
-
-&amp;#x200B;
-
-I decided to buy a replacement battery and settled on the RAVPower purchased recently and received it on November 30, 2018 [https://www.amazon.ca/gp/product/B072KJRJ45/ref=oh\_aui\_detailpage\_o00\_s00?ie=UTF8&amp;psc=1](https://www.amazon.ca/gp/product/B072KJRJ45/ref=oh_aui_detailpage_o00_s00?ie=UTF8&amp;psc=1)
-
-&amp;#x200B;
-
-Fast forward a bit to tonight December 1, 2018 where I plug my phone in to be charged and place it on my mattress before falling asleep. Yes, I realize placing your phone on your bed while sleeping isn't a good idea, but hindsight is 20/20. Anyway at around 2:00AM I am awoken by a sizzling sound and I wake up startled I look beside me and I see embers growing and smoke. Something to note before I go on I am blind without my glasses, anything past my nose is a complete blur. Anyway I panic and try throwing my comforter on it to smother the coming fire and because I can't really see well I ended up touching the burning phone and have 2nd degree burns on my right hand mainly the pinky. I started screaming because the fire isn't going out and my mom comes charging in and takes a towel and uses that to throw the phone into the sink to put out the fire. I ended up going to the hospital and getting my wound treated for the 2nd degree burns.
-
-&amp;#x200B;
-
-&amp;#x200B;
-
-Now I am wondering what action should I take. Should I contact Amazon, RAVPower or Samsung? When I contact them how should I proceed? My mom wants to go with legal action right away... I'm not really comfortable with that. Email for the paper trail [deleted] I wouldn’t bother with the cost of treatment for the burns, since you’re in Canada. Perhaps if you had extensive prescription costs or other costs not covered by your provincial healthcare. You could try for the cost of your time off work as a result of the burns  [deleted] Yeah time to talk to a lawyer, you can try starting with the third party seller and the battery maker to see what they’ll offer first. But they’ll probably go into denial mode. A lawyer would make it a lot harder for them to do that. 
-
-If you contact them have in mind what you’d like to see come out of the situation. What do you want covered costwise? They might offer it or they might not.  [deleted] I’m not familiar with that phone type. Does it have closed battery case or an openable back where can you easily open to replace?
-
-Did you replace the battery yourself or was it done by a professional? 
-
-You can try contacting a lawyer for a free consult. IANAL, but if you’ve modified the phone and it wasn’t done by Samsung it’s highly unlikely there would be any value in pursuing Samsung, especially if you did the modifications yourself or someplace that’s not Samsung authorized with authorized Samsung product. 
-
-You can try consulting to see if it’s worth pursuing the reseller or battery maker. You might have better luck if you paid a company to replace the battery and this happened. It sounds like a possibly faulty battery.  It would be worth your time and money to discuss this with a products liability attorney, who can advise you of the steps to take. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d49b3ad3544e7e8654b4d1d60929384734931fbb0c142a8ef7ae9f3cf8d7b55
+size 3396

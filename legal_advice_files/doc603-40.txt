@@ -1,7 +1,3 @@
-Hi guys,
-
-New to Reddit so apologies if I'm not doing this right but I really need some advice. I am 25 years of age and my mother has used extremely embarrassing and private photos of me in an 2 page christmas spread to promote her business (restaurant) without my knowledge. These were printed in a widely circulated newspaper today, again without my permission. Is there anything I can do about this?  [deleted] Speak to a local solicitor. 
- 
-As the photographer, you own the rights to the picture (the one she stole from Facebook). The rules for commercial use of photography are tricky enough that they’ll be helpful on the other picture as well. 
- 
-There’s not all that much you can do in the way of forcing the destruction of all copies of the advert though.  [deleted] Who owns the rights to the photo? Did you take it?
+version https://git-lfs.github.com/spec/v1
+oid sha256:adc5dbefed46b9080ac0e375d2692cc66d6777bab5a358bf0974e0ebb368a687
+size 831

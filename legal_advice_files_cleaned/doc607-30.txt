@@ -1,1 +1,3 @@
-so if i walk into a local small town gas station and they have a sign that says “must spend over 5$ to use debit credit” is that illegal do i have every right to make them look like a fool if they have that sign up just because i can and i have legal backing or am i completely wrong and i have even asked this question in the first place from the bottom of my heart. fuck you for desiring to make a scene where i work just cause you want to spend the money. seriously gfy. it not illegal but it may violate the merchant agreement with their credit card processor. either way though all you can do is complain to visa and mastercard. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca1f10e077653cf3392dfe83567ee69525d11e680a200bd4b2a9a83aeeb068e3
+size 638

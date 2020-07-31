@@ -1,7 +1,3 @@
-Lost My job been looking for work the past 2 months, short story short i have a contact 12months and i gave the landlord 30 days notice that i was moving back home NYC.. I was told i was going to be takin to court... what ways to fight this  [removed] What does your lease say?  Usually leases have an early termination clause, like paying 2 months which is the time they would consider taking to rent the residence again. 
-
-&amp;#x200B; Fight what?  You entered into an agreement to pay 12 months worth of rent to the landlord in the form of a lease. The lease will specify certain events that will allow you to break your lease, so read up on that. 
-
-If you signed this lease and the landlord gave you notice to move without a legal reason, I’m sure you’d be upset and want to fight it.  That goes both ways. 
-
-That’s the reason for contracts; to protect both parties.   
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aea4f14488094979b18049c7a61e165a251cef2d89b2d4cf43934e7ad0dd700
+size 879

@@ -1,1 +1,3 @@
-i am a high school student and i was enrolled in a dual enrollment program at a local state school. i withdrew from a course but was not aware that i would have to still pay for it if i take it. called the school and they will not give me a break on the bill at all. the communication between the university and dual enrollment students was terrible so i had no clue about the withdrawal date. i recently received a letter from the attorney general saying that i must pay this debt $320 in 15 days. i think it fair that i have to pay for this when it is at the fault of poor communication on the university half and i receive any credit for the course. what will happen if i pay this also i am a minor and live in pa just incase that is relevant to this. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eafce34160026a8e2476fc2c0c6c40b8c966d6ad6dc5eb66a238d07beca8023
+size 755

@@ -1,4 +1,3 @@
- Does the county have a online  records search? 
-
-
-Where I live you can search by case number or any other case info plantif/defendant name etc and find the court records. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:aba2b117b8fe713cc8a78e3b939e4b0414c1eb2348ed12652b6fe4b5374380be
+size 172

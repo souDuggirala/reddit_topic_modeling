@@ -1,27 +1,3 @@
-I was pulled over last week for going 50mph in a 35mph zone as it was just ending before the 45mph zone. The officer (county sheriff) made it clear that that is why he stopped me and that's what the ticket was for. This is my first time being ticketed as last time i was let off with a verbal warning. he questioned me about having Minnesota plates but a Wisconsin ID and i said i was living here for school but bought my car in Minnesota where my parents live and they co signed so we kept it under their insurance and thus Minnesota plates. He seemed to accept why that was the case and asked where i was going to school. went back to his car and wrote up a citation for 15 over however upon looking at the ticket he might have written out the wrong penal code. the one he had on the ticket was 69.01 which is a Wisconsin vehicle registration issue. and 69.03 is failure to obey speed limits and has a subsection for the specific zone i was caught in. If it was for speeding like the officer said wouldn't he have noted that its a 69.03 for speeding not a registration issue 69.01? and if it was about my registration why would he have said i got a ticket for speeding and wouldn't a registration ticket first offence be a "fix it ticket" If he messed up the wrong code does that give me ground to stand on or can i fight it as a registration issue which i dont have and it will get thrown out in court? 
-
-&amp;#x200B;
-
-Here are the Wisconsin penal codes. 
-
- 69.01 Statutory Traffic Laws and Regulations Adopted. 
-
-69.02 Forfeitures Established for Violation of This Ordinance. 
-
-69.03 Speed Limits. 69.04 Erection of Official Traffic Signs and Signals. 
-
-69.05 Deposit. 69.06 Repeal of Conflicting Ordinances. 
-
-69.07 Placement of Temporary Speed Limit Signs in Construction Zones 
-
-&amp;#x200B;
-
-&amp;#x200B;
-
- 69.01 STATUTORY TRAFFIC LAWS AND REGULATIONS ADOPTED. The statutory provisions prescribing and defining the proper handling, equipping and registration of motor vehicles, snowmobiles and bicycles, and the proper conduct of pedestrians, as contained in chapters 341 through 348 or chapter 350, together with the provisions of ch. TRANS 305 of the Wisconsin Administrative Code, are hereby adopted by reference and made a part of this section to the full extent permitted by sections 349.06 and 350.18(2) of the Wisconsin Statutes. Any act required to be performed by any statute or Wisconsin Administrative Code regulation incorporated herein by reference is required by this section, and any act prohibited by any such statutes or Wisconsin Administrative Code regulation is prohibited by this section. Citations issued for violations of statutes incorporated into this section shall conform to the uniform traffic citation provided for in section 345.11 of the Wisconsin Statutes. 
-
-&amp;#x200B;
-
- 69.03 SPEED LIMITS. (1) The provisions of sections 346.57, 346.58 and 346.59 of the Wisconsin Statutes, relating to the maximum and minimum speed of vehicles, are hereby adopted as part of this section as is fully set forth herein, except as specified by section 69.03(2) of this ordinance, pursuant to section 349.11(3)(c) of the Wisconsin Statutes. 69.01 - 69.03(1)  Page 69-2 rev. 073118 (2) No vehicle shall exceed the following speed limits on the following county trunk highways: 
-
-&amp;#x200B; If you are being formally charged with the registration issue, then yes you have a defense against that charge. However, given that the ticket clearly indicates that it's for speeding, it's a typo and you will eventually have to face the speeding ticket Ill check when i get home from work. Im not opposing speeding i know i was however if they are charging me with registration issues which i have none that i should be let off on.  A typo on a ticket does not give you grounds to oppose the ticket. You should contact the Court to verify the charges. More than likely there's an option to plead online, if you log on and enter the ticket information what does it say the charges are?
+version https://git-lfs.github.com/spec/v1
+oid sha256:acb3e33924dfd22ef9999f9b24fc1eea982751e7bf7030397f05a0728b59d9d3
+size 4000

@@ -1,9 +1,3 @@
-[removed] Your MTF PCP should be able to refer to an outside provider if the base doesn't have that specialty. Just handle everything through your PCP / MTF. Tell them you'd like to see a specialist. Under Tricare Prime you can also request to see a civilian provider for a secondary medical opinion, but I don't know the exact route to do this (had a friend with an eye issue need to see an eye specialist after the MTF failed to diagnose a condition, and he was able to get a secondary opinion from a civilian provider -- I think he just called Tricare and went through it with the phone reps, not sure the process though).  So my husband was active at the time, but he was recruiting. Now you mention it, I think we qualified for Prime Remote because we were more than an hour and/or 50 miles away from the closest MTF at the time. 
-
-The policy seems pretty cut and dry to me though. If you have a referral from someone on the MTF, maybe that will be enough to clear the civilian provider. Other than just encouraging you to make sure your boxes are checked before you possibly run into tons of unnecessary medical bills, I'm not sure I have much help to offer. Good luck!  Thanks, I'll check that out. 
-
-&amp;#x200B;
-
-I don't think I have the option to change the plan being a Active Duty Service Member. Were you able to or the person you're referring too? I know family members are able to pretty much go to whoever they want as long as their in-network. But it seems that for Active Duty you have to visit an MTF. Or at least until I found this policy This may be a better question for r/Army or similar. 
-
-You may need to change your plan. I know in the past, we've qualified for Prime Remote, where we got to choose our civilian providers as long as they were recommended by our PCP.  Also if your post doesn't have the specialist you need, it makes sense you could get Ok'd for a civilian that isn't a 3 hour drive. Sorry this wasn't that helpful, good luck! 
+version https://git-lfs.github.com/spec/v1
+oid sha256:afdf7b203116280e312d4799964763c7b4418446f99b144ef23f99f0af0001d6
+size 1969

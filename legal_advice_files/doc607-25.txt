@@ -1,24 +1,3 @@
-1.  Original work: transmission, November 2017. 
-2.  Subsequent work: January, March, August, September, October.    
-
-
-
-Vehicle unusable much of this year,  towed several times.   Each repair led to more repairs, all electrical: Crank-no-start, strong fuel odor, starts-will-not-restart.       
-
-
-
-Questionable, possibly unnecessary, work on ECM/ICM including wiring harness module connector, ignition key and ignition switch, fuel pump and associated filter and lines.   Shop noted work fuel filler neck but did not replace.
-
-
-
-Despite requests, *no parts saved.*  Transmission *left exposed.*  Tow truck refused to tow as hazard.  Fuel leak so severe fire department called to mitigate hazard.  Dealership refuses to work on it as hazard.      
-
-
-
-
-
-
-QUESTION:  repairs about $5,000, requiring two loans since November.  Without access to my car, I’ve had to pay individuals for transportation.  Are both costs recoverable in small claims court?  Is it worth taking to court?   
-
-
-It feels like I’ve been taken advantage of, being over 65 and disabled.   Vehicle repeatedly stranded me ...including 3 times in way home from repair shop.  Costs for tow truck the shop promised to pay, being charged for likely-unnecessary parts (year old battery, ignition key cylinder) and having those parts not saved for inspection, plus putting 4 generations of my family at risk in a rolling bomb is just too much to let go. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b0f2649737492884f7ccb9707c00641d23e9b2345e9a0250abe15ac0e7128e2
+size 1419

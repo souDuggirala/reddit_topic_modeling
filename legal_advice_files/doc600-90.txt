@@ -1,26 +1,3 @@
-For context, I am from South Africa. Tensions are high, land expropriation without compensation is one of our biggest worries currently. If this bill (not sure if correct word) is passed, that means the government owns all our land and can easily take it from whomever used to own it to give it to someone else. I'm not going to go into much detail about this, but if this passes  (i.e. land being taken from farmers) there is a high possibility of a food shortage and probably a civil war.
-
-I have been looking into applying for asylum for me and my family in order for us to escape this chaos, and was wondering if we have fair grounds upon which to base our application?
-
-Thanks for any advice and help [deleted] Italicized emphasis added.
-
-&gt;**Asylum**
-&gt;Asylum status is a form of protection available to people who:
-
-&gt;Meet the definition of refugee
-*Are already in* the United States
-*Are seeking admission at a port of entry*
-You may apply for asylum in the United States regardless of your country of origin or your current immigration status. For more information about asylum status, see the Asylum section. 
-https://www.uscis.gov/humanitarian/refugees-asylum
-
-&gt;Every year people come to the United States seeking protection because they have suffered persecution or fear that they will suffer persecution due to:
-
-&gt;Race
-Religion
-Nationality
-Membership in a particular social group
-Political opinion
-If you are eligible for asylum you may be permitted to remain in the United States. To apply for Asylum, file a Form I-589, Application for Asylum and for Withholding of Removal, within one year of your arrival to the United States. There is no fee to apply for asylum.
-
-&gt;You may include your spouse and children who are in the United States on your application at the time you file or at any time until a final decision is made on your case. To include your child on your application, the child must be under 21 and unmarried. For more information see our Form I-589, Application for Asylum and for Withholding of Removal page.
-https://www.uscis.gov/humanitarian/refugees-asylum/asylum You're not wrong about our government being absolute shite. But seeking asylum? Dude just emigrate. [deleted] [deleted] As a fellow South African, just wow. Dramatic af. You very well might be. If you are granted asylum somewhere and want to be spiteful, as soon as the bill passes, salt the entire land so it’s in-usable. This land confiscation I’m hearing about is disgusting 
+version https://git-lfs.github.com/spec/v1
+oid sha256:98cdb3d883e6f12eee72a196cd27a407c1c0b8ef31afba59a02fcc2bb21395a8
+size 2495

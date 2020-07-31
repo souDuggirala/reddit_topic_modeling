@@ -1,7 +1,3 @@
-I am in Texas. Recently, a journalist for a local magazine published an article speculating that a member of my family took part in quite a heinous crime. This family member was never charged with any wrongdoing in relation to the crime, and is now deceased. I am the only direct family member alive at this time. Is this something they can do without any real proof? Shouldn't I have been given some kind of notice that this would be printed, rather than subjecting me to a panic attack upon coming face to face with it in a grocery store? I appreciate any and all input, as I am just trying to come to terms with this. The journalist could write an article detailing all sorts of horrible and sordid things that your relative allegedly did. 
-
-You would have no legal way to challenge it  While you can't defame the dead it is *very* tacky to go after someone who can't defend themselves.  You could notify the magazine that the family member is deceased and was never charged.  Since death records are public it could be that the journalist knows this and waited to publish this article.  The magazine might not be too happy with them or they could just blow you off.  Doesn't hurt to try. We have a First Amendment.  Nearly all speech in the US is "on the up-and-up." Thanks for the reply. No, I'm not looking to sue anyone, I just wanted to make sure all this is on the up-and-up, so to speak.  If you're asking if this is something for which you can sue the journalist or publication -- no.  You can't defame the dead.
-
-&gt;Shouldn't I have been given some kind of notice that this would be printed
-
-Are you legally entitled to such notice? No. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:e85d5e4fe22d0c7af6bfb1b97754f95bf1faab8b21e2f5c116027f943584649a
+size 1650

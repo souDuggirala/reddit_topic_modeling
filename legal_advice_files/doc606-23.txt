@@ -1,29 +1,3 @@
-I am under the contract between the company and the employees that was negotiated by the union. I disagreed with it and feel our set raises are only on par with inflation (so not a raise, more like continuous income stagnation.) 
-
-I also hate that no matter how much harder I work I can't get ahead because of my efforts. 
-
-I am in the union, but would gladly leave given the right to demand I be paid better for my efforts. Would it have any effect to go to them? Our wages are negotiated as a whole. I dont believe that even if I brought forth my own findings I could convince a multi-industry union to include on our contracts that I may be paid differently. Or do you have a different meaning that I'm just not seeing or understanding? Then tell that to the union as part of the negotiations.  If you are that valuable to the company you are that valuable to the union. I can understand you're skepticism.
-
-We have a 75% turnover rate. (This is a real # not a guess or my opinion) 
-
-I just sat in a roundtable with our CEO and presented this point to resounding agreement amongst this present from our 7 factories. So at a minimum it is recognized amongst my peers.
-
-The job I do is quantifiable, both in quality and quantity of product produced as a result of my actions and decision making. 
-
-I am replaceable, just as anyone anywhere is. But, I do know that I am more valuable than what I am given. My thought is that I can display the added valuation of my own work. And I dont just mean visually. I can categorically and with a good amount of empirical evidence show the positive impact I have on the company's bottom line.and it isn't the majority of people. There is 15% active participation by union members outside of votes. And even that was only 60%. &gt; However, in the entire company I work for it is agreed that it has made a haven for the lazy. Firing anyone is nigh impossible after they make it past 60 days no matter how terrible they are. And it has driven down morale company wide.
-&gt; 
-&gt; 
-
-This is a common refrain that is almost never factual.
-
-You are almost certainly not nearly so much better than your coworkers than you think.  And are far easier to replace than you would like to imagine.
-
-It is not surprising that people would think that, though.  They have faced decades of propaganda saying that is what unions cause.  No one is completely immune to it, given enough time and persistence. I understand that unions serve a very good purpose. And that they've made changes that have significantly improved safety and compensation for those working in dangerous facilities.
-
-However, in the entire company I work for it is agreed that it has made a haven for the lazy. Firing anyone is nigh impossible after they make it past 60 days no matter how terrible they are. And it has driven down morale company wide.
-
-And that isn't my opinion, it is the result of a company wide survey and my own interviews of those around me in my factory. 
-
- I'm not sure I see your logic here. The union protects your employment *because* of it's size which gives it the collective bargaining power to negotiate. If that's the best they could do with all that power, what makes you think you, an individual, can do better? Also, if the majority of the people working for them are in the union and are making that pay, why would they give you more than them? Maybe.  Minnesota is not a Right to Work state, meaning your employer *can* require you be part of the union to work there.  You may ask them if they do.  If they do you are out of luck.  If not you can leave the union and try to negotiate your own wage.  Expect this to go far worse than you seem to think it will.
-
-Also as an aside, but you are making a serious mistake; the union protects you too.  Lots of people thought they would be better without one.  It has not generally worked out for them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f8db4b37b4b736c45d96147fa2033a5fb2ec2554afd16a2abc47d8159086c00
+size 3879

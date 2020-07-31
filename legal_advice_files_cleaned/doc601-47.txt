@@ -1,1 +1,3 @@
-i am thinking of making giclee prints of my artwork and selling them online. i use many artists alive and dead as inspiration for my work. i use different mediums colors size and such but often the likeness comes through. i am aware that i need to give credit to the original artist by naming them which i would of course do but another artist suggested that if mine was different in any way that this was not necessary. online articles on the matter seem contradictory and vague. any thoughts links or advice would be helpful. thanks in advance. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fd12218c1ab3fa659687a29b0db605d1a0b4367fd3ea5b51a4aa33c4a1b27dc
+size 547

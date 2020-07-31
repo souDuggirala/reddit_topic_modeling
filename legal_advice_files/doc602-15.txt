@@ -1,5 +1,3 @@
-I signed a roof top solar contract December 4, yesterday, for a 10 kw system.  Over the emails I asked for specific equipment 30 lg neon 2 panels, solar edge 11400 hd inverter, full install essentially.
-
-I did not review the contract as carefully as I should have and some of the model numbers differ from what I requested via email.  The contract indicates a SolarEdge 11400a-us inverter, which is actually discontinued.  Via email I was very specific about wanting the HD model which I’m sure costs more.  Also the panels are simply called lg neon vs neon2. I feel like I was misled and I’ve been trying to get in touch with the contractor all day, 2 calls, voicemails and emails.  
-
-There is not a specific cancellation clause in the contract and I have not paid a dime yet.  Am I in the clear to ask for a cancellation citing the FTC 3 day cool down clause with no fault. No expenses have been incurred on there part as it’s been less than 24 hours.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6416b4ead15733908ee4ce637b80f9856662f28ffcdf03942a16f88ddfb5e1a7
+size 959

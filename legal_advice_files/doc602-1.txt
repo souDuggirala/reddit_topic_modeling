@@ -1,25 +1,3 @@
-Strange situation... my stepdaughter’s mother is always trying to pull a fast one. Constantly over billing us and the like.  This is just for context.
-
-3 months ago, bio mom took stepdaughter (13) in for her annual wellness. Mom indicates she was concerned about asthma. Doctor felt it was more likely being out of shape but gave Rx for an inhaler. Ok, no problem. Mom has been giving us receipts for filling Rx every 30 days on the dot for reimbursement since husband is mandated to pay 50%. We have bills for 3 or 4 now.
-
-My husband noticed child never has an inhaler with her so he asked her last night. She said she doesn’t need it and has used it twice since prescribed.   
-
-And oh by the way, mom uses an inhaler.
-
-Can we legally not pay these bills? With 200 puffs per inhaler, she would have to use it 6x/day to go through it in a month.
-
-Mom is super high conflict but we don’t want to subsidize HER use of an inhaler. Refilling a prescription is not prescription fraud. What she’s doing is refilling the prescription and passing off the bills so you will pay her money, from what I understand. If the child states she is not using the inhaler, I would go to mom and say “look, Suzy told me she never needs to use the inhaler, so I’m a little confused as to why you’re refilling it every 30 days.” Unless mom is actually using Suzy’s inhaler, in which case, yes, that would be illegal. Even if mom is refilling it for herself, I can’t think of a legal authority that would likely make a case of it, though technically speaking, depending on the state, if she were to be caught with someone else’s prescription, she could be arrested. Either way, call her out on the fact she’s filling it but the kid’s not using it. Chances are, she will stop. On the other hand, I assume it’s in some sort of documentation that your husband must pay 50% of the prescriptions? If mom doesn’t stop, your husband should contact his attorney and there should be a discussion about amending this agreement as she is abusing the terms of it. On the other hand, your husband, as the girl’s father, could always call the dispensing pharmacy and discuss the fact that they’ve been dispensing refills to someone that is not prescribed the medication and the person that it *has* been prescribed the medication is not using the medication.  Making false statements to obtain a prescription would be illegal.  Using another person's prescription would be illegal.
-
-Problem I have is what practically can be done about it?  I just don't think that the police will be terribly interested or able to get enough evidence to make an arrest.
-
-Express  that you are concerned that the daughter is going through the prescriptions more quickly than you think is warranted by your observed symptoms, and that you have not observed her needing the medicine at all during your residential time.
-
-The decision making authority in the custody orders in regards to making major medical decisions is going to determine what path it goes down in case of a dispute.
-
-Speaking to a Family law attorney, who would review your custody orders could help  you figure out a strategy.  Perhaps just telling the mother that you intend to bring the matter to dispute resolution the child's continued over-use of the inhaler might be the shot across the bow that compels her to stop. NAL but I do have asthma, I would tell her mom you’re getting kind of suspicious. You shouldn’t be paying for something she’s using. I have pretty mild asthma and I’ve only had to use a inhaler a couple of times my entire life. Tell her your daughter told you she doesn’t need it, that should be enough to stop getting her prescriptions for it. 
-
-If you actually have asthma you generally know when you need to use it.  Yeah, that would be insurance fraud. Don't stop paying for the prescription in the absence of a court's acknowledgement that you shouldn't be on the hook for this. Your husband needs to talk with a lawyer pronto to discuss this and any other ways his ex is gaming the system.
-
-While you could request a fraud investigation by the insurance company or law enforcement, you don't know she's using her daughter's prescription. (With proof, I mean. A blind halfwit can infer, but proof is essential.) Your husband might casually ask his daughter what's happening with the inhalers, without giving her reason to suspect anything.
-
-Don't do this without a nod from the lawyer, though. The last thing you need is to be seen as petty or trying to avoid responsibility, and if this isn't handled carefully that same blind halfwit knows the mom will make it look that way when she asks the court to slap him.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a528959747ac9cc8937cc5aaa86f1a91183dcddcf2aaeb5196a2d8f1b13e8f2
+size 4699

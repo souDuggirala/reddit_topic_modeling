@@ -1,25 +1,3 @@
-Hello all, obligatory sorry for formatting on mobile,
-
-I am in need of some advice here. I am a physician assistant in the state of Pennsylvania. I am due to start a new job next week. Today I received an email from the office manager informing me that they will be withholding 3 days pay from my first paycheck. This will be withheld until I separate from the practice and will only be returned to me if time accrued/time taken (I'm assuming this is in reference to PTO) is balanced. I have never encounter this before in any other job that I've held and am questioning the legality of it. I tried looking up wage withholding in PA employment law but it seems kind of vague. What I understand is that employers can't withhold pay unless it benefits the employee in some way, or if the employee has agreed to it, so please correct me if I'm wrong. There was no mention of this withholding in my contract and this is the first that I am hearing of it. Any help or advice would be much appreciated. Not a lawyer, but I would be strongly considering telling them you don't consent as it was not a condition of employment that you agreed to. I'm afraid that this could be a sign of more tomfoolery to come and you accepting this now could make them think they can get away with similar tricks later.  That's shady. Normally, if you used unaccrued vacation time, that is accounted for in the last paycheck. I've had that happen. That is legit. Taking it up front is not. I would call the department of labor in your state for clarification of it's legality.  I'm suspecting they would say no. Yeah, that's shady.
-
-Vacation time is paid time off.    If they're debiting you out of regular paid work, that's not vacation.
-
-It's worth a call to the DOL. They replied that they do this because "vacation days are allotted to employees on January 1st of each year it is our policy that the first weeks pay is withheld at the time of employment to ensure that an employee does not exit prior to leaving and have used unaccrued vacation time. Effective March 1st 2019, you are permitted to use any/all vacation time throughout the year. Therefore, if you would resign and didn't have that time accrued you would have that time owed to us which has been withheld." I figure they must have been burned by employees in the past. What I don't understand is if after March 1st 2019 I can use my vacation whenever, why not return the money to me on my 1 year anniversary with the practice? I feel like this policy leaves the door open for them to deny me this money upon my leave.  You summed up my concerns perfectly. Unfortunately I am in pretty desperate need of this job. I was laid off in the fall and have been on unemployment. I have a family to support and need an income. I am just upset as I was blindsided by this. It is not in my employment contract and they dropped it on me the day before I start. &gt;Also, if it is returned to you upon separation, that's not indefinite.
-
-Indefinite refers to an unknown or unstated length of time. Unless OP is working on a fixed-length contract, his or her separation date will be at an indefinite date in the future.
-
-Such a debt may never be paid. If the practice changes hands, for example, it would be easy enough to lose track of a years-old debt. If the practice goes bankrupt, a recent wage claim has a high priority, but a wage claim more than six months old is a general unsecured debt that may be paid pennies on the dollar or even nothing at all. If the three days pay is unpaid for more than three years, OP will be past the statute of limitations for filing a wage claim, and a debt that cannot be legally enforced is a debt that often gets ignored. 
-
-/u/LBell24: how badly do you need or want this job? 
-
-&amp;#x200B; Yeah, I also skimmed through the PA DOL website and couldn't find anything directly addressing this.    That does not mean that it is illegal or unreasonable.  It is not uncommon to payroll deduct for uniforms or equipment.
-
-&gt;I have reached out to them for clarification as to why they are withholding it
-
-What was their response?
-
-&gt;I could be in this job for years and never be paid for my first 3 days of work
-
-But, at some point, you will be. I have reached out to them for clarification as to why they are withholding it, but from my knowledge it is not for any job related equipment they provide for me, there is nothing in my contract to this regard. Also, what I meant by indefinitely was that I could be in this job for years and never be paid for my first 3 days of work. I guess poor choice of wording on my part. From what I've found in PA law, employers are supposed to pay employees within 15 days of the pay period in which the time worked occurred. In regard to withholding, they can only withhold for things benefiting the employee or if authorized by the employee (401k deductions and such) Unless I am interpreting this incorrectly.  Is this a security deposit for some sort of job necessary uniform or equipment which they provide?
-
-Also, if it is returned to you upon separation, that's not indefinite.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a783597b07188a0c932c689624e58725c82f2ff0fef5d2cbedea07b37649ed9
+size 5093

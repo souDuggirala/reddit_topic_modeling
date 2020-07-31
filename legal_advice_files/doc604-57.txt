@@ -1,11 +1,3 @@
-I hit a deer on Nov 21st and had my car towed. Towing company called Friday to ask for my approval to allow Insurance to move my car to a collision Inspection shop (Geico Xpress Shop). Over the weekend they somehow lost my car - after I called around I found it never left the towing company lot and the car was then moved Tuesday 27th for inspection. Was told it would be inspected by Wednesday 28th.       
-       
-No contact, I called again and they didn't start inspection and said they would have the results next day. I called daily since Tuesday to get an update, they never started and said they would each time. Insurance is involved and calling them too, they have records the shop is suppose to inspect it Friday the 30th and have results on the Sat Dec 1st.          
-            
-No call and now inspector and his supervisor not contacting me. Geico can't seem to get the car inspected, the shop keeps making promises and excuses.         
-          .....
-How long does Geico have to inspect my vehicle? I don't even know if it is totalled yet. I am paying for a car rental out of pocket and demanded they reimburse me for the delay they caused and they agreed, but what else can I do?          
-              
-I am tempted to drive to the repair shop and raise hell in person because calls get me nowhere. [removed] The problem is I don't know any shops and that may only delay this more. Geico offered to pay my rental car due to the delay after I asked. Currently the rental is $750 and rising. More than my deductible. I may need to do it though.
-
-And this isn't just keeping my vehicle, they simpley not even started working on inspecting it to give me a repair quote or if it's totalled.  There's no firm timeline on how long they can keep your vehicle. If they're causing the delays then they theoretically will owe you more rental reimbursement, but you don't want to be in the position of demanding that. I would ask GEICO to pay for a tow to a shop of your choice, somewhere you can get an estimate sooner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c4e94a9afcff81c66cfd2137f72d6e1eba5397b3f615a4a2f5c39056b591463
+size 2029

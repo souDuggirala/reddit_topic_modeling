@@ -1,18 +1,3 @@
-I ordered a 3D printer off of lightinthebox.com on November 20, and FedEx claimed to deliver it on the 23rd. However, I checked my mail (PO box), and nothing was there. is.
-
-[When I checked the tracking, it says it was signed by "Rhoguin", and I have no idea who that is.](https://i.imgur.com/b5Uu0qO.png)
-
-First, I contacted FedEx to figure out where my package is. They simply told me that it was delivered to the nearest USPS location because they said they don't deliver to PO boxes. I went to the USPS location they specified and they said that I need a USPS tracking number to get my package, and FedEx never supplied me with one.
-
-I contacted lightinthebox to resend me one because I remembered that I paid for shipping insurance, and it says that they will send me another package free of charge if anything happened to it. Earlier today, I tried looking up the fine print for shipping insurance, but I can't find any information, which leads me to believe that the insurance is worthless and doesn't exist.
-
-Anyways, to get back on topic, Lightinthebox told me that they are contacting the logistics department to see where my package is, and that it would take 3-5 days. When I am sending this, it has already been 3 days and I haven't received a response.
-
-What can I do in the meantime? I paid using Paypal and I was wondering if I can just get a refund as a last resort. At this point I am fucking pissed off because I feel like I've been scammed out of my $400. [removed] I have no clue what service level was used. How can I check? If it wasn’t a USPS compliant tracking number then USPS didn’t participate in the delivery. Technically a postal aggregator service is required to deliver to a PO Box. FedEx can’t just drop a package off at USPS - they are required to manifest the shipment via compliant tracking. That’s probably where this went haywire. 
-
-The service for PO Box delivery is FedEx SmartPost which has the 92 tracking. What service level was used? My guess - it got delivered to the PO and it was sent back, or someone who knew this was an issue took the package as a present to themselves.  I have a fedex tracking number that doesn't work with USPS. I added 92 before the fedex tracking number and applied it on the USPS webstie but nothing shows up.
-
-I was never able to track that my package went to USPS. I had to call Fedex to ask where my package was and they said it was at USPS
- How are you getting the tracking info without the tracking number? If you’re clicking a link within the order info, check the URL. If I was a betting person, I would bet the tracking number is embedded in the URL. 
-
-In fact, I’m a gambler, I’ll bet 5 monopoly monies. Edited to add that if it’s FedEx to USPS the standard is a number starting in 92. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:23341dc8c5bbb95d486b03c6deb8e9c0a4a20acafc4f131996decb91a9fae59d
+size 2784

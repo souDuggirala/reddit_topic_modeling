@@ -1,1 +1,3 @@
-So I went through Google's third party provider "ubreakifix" to fix my phone. They had to change out the motherboard and they changed the IMEI in doing so. I can't transfer the phone from Verizon all though it's paid in full. I feel like they're stalling and want to know what I can do to make sure the phone is unlocked as Verizon said they wouldn't help and Google stated that the process takes a week. What do I do? It sounds like you may just have to wait the week that Google said. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:98e956f72e3ca86c53be9e458a000b4b77eccb98ccc9a875180f1fe59c884158
+size 487

@@ -1,27 +1,3 @@
-Found out with help from r/jewelers and r/jewelry that my wedding band is plated gold and not solid gold as it was supposed to be when purchased.
-
-Here is the post from there:
-
-I went to get my wedding band plated today. The jeweler mentioned how strange the coating is then did an acid test and it turned green and declined a plating since it wasn’t gold. So with the receipt I went to the jeweler that we originally purchased the band from and she filed the coating and tested it and her test was clear. She agreed that the coating was odd and offered to clean it but even after having gone to her with other pieces in the past, she found it necessary to mention that there was no way to verify that we bought the ring through her. I held out the receipt and she offered to have her husband plate it over the week for free. I agreed and left but then realized I needed the ring for the weekend. I returned and she gave it back but also asked for the receipt back which I thought was odd. I walked out with the receipt and the ring but a few hours later received a phone call. She had spoken with her husband and he said that she should not have filed it and if I wanted then they were going to contact the manufacturer and get me a replacement.
-
-That was yesterday. So today I went to two different jewelers who confirmed it is not solid gold. I returned to the jeweler I purchased the band from she examined it again and it did fail the acid test this time meaning it isn’t gold. 
-
-She conceded it isn’t solid gold and she’d like to have it replaced but wants the original ring back. I explained that I had it tested at two other places and she offered to buy it back at scrap gold weight value. Which is odd because it’s not even solid gold. I explained that it was obviously a mistake but I’d just like a refund and I could buy elsewhere. She became defensive and said that’s not how we’re going to do it and asked if I also retained the cash receipt. When I said of course I did then she pumped the brakes a little. 
-
-She then asked how much the other jewelers had said I could get for it (I asked the other jewelers out of curiosity) before they found out it was fake. I made up a number and she was quick to match it but not willing to replace the full amount. And she was still unwilling to replace the ring without getting the plated ring back. 
-
-I’ve since learned that plated gold is supposed to be stamped as such and this ring is simply marked 14k.
-
-What can I do? What should I do? Am I entitled to get my money back? It’s really difficult to want to do business with this woman again with the way she handled everything. Thank you so much for taking the time to respond and pointing me in the right direction. Gonna get started on this ASAP. As noted below, you'll want to do the following:
-
-a) Ensure you have a copy of the receipts for both items. Make a few copies and keep them in safe places, or in a variety of online sites).
-
-b) Take both rings to a couple jewelers and have them appraised. Have them include their opinion if the markings on the rings are consistent with the items.
-
-&amp;#x200B;
-
-Beyond this, I would normally ask what do you want to get out of the transaction. If you'd be satisfied with getting your money back and dropping it, that's your prerogative. Based on what you've relayed this is fraud, and I would bet that you were not an isolated case; as such I'd damn sure want to report this to the PA AG and let their Consumer Fraud division go after this company.
-
-&amp;#x200B;
-
-If you're just looking to recover your funds - go to an attorney and have a demand letter drafted. I think it'd be easy to justify a return of the purchase price for both items found to be substantially not as advertised along with an amount to cover your time and trouble in exposing their deceit (independent appraisals, time and gas driving around, attorney's fee for letter).  Have your wife's tested as well. Document everything. The real lawyers here (IANAL) would suggest small claims for your refund if you cannot get it through the consumer services you (should definitely) report this to. What’s worse is my wife’s wedding band was purchased there also. We suspect the same thing. She’s not willing to give one though. Thanks for the information and taking the time to link me in the right direction. Any advice on how to get my money back? I mean, its sold by weight... she totally screwed you and you should get a full refund.  Marking the ring as 14ky when it does not have that content is a pretty serious issue. (Ianal) You should reach out to Consumer Legal Services of Philadelphia; they will be able to help you understand your options here, including potentially reporting this fraud to the PA Attorney General. [https://clsphila.org/get-help/consumer-scams](https://clsphila.org/get-help/consumer-scams) 
+version https://git-lfs.github.com/spec/v1
+oid sha256:29437c43dc76ec246e8adb6159bd88c20bfb5f8c70f04ffbafec23f52a18ee3e
+size 4873

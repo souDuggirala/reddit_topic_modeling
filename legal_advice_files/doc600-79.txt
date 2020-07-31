@@ -1,27 +1,3 @@
-I’m curious if they can access the records as well as change who can access them (like add grandma to the list of people who can get them)
-
-The court order reads:
-
-“Father shall have sole custody of minor child” 
-
-“Mother shall be entitled to visitations at fathers discretion” 
-
-And the rest is just about child support and paying some legal fees back. 
-
-From what I can find is she has that right since her parental rights weren’t removed, but i wanted to check here to see if what my options were if any.  The school won’t allow mom to pick him up and won’t allow her to authorize pickups because her visitations are at my discretion. They won’t even allow her to enter the school without my permission. But I guess if she calls up and asks for records and stuff they are allowed and nothing prevents that from what I understand.  Since she has retained her rights, then she is able to get access to academic and medical records just as you do. She's also able to authorize others to pick the child up from school on her behalf. If you do not want the child's grandmother to pick the child up from school randomly, speak to the school (office staff and child's teacher) and let them know ahead of time which days the mom will be picking the child up from school so grandma would have the OK to pick kiddo up. Also request that if anyone attempts to pick up your child from school that they call and notify you immediately. The school will not release the child without them being authorized but if the person is authorized by mom, the school's hands are tied - they can still let you know who picked your child up however after the fact.
-
-Edit to add: Some school systems require that the court ordered custody agreement be on file with the district and the actual school. Check if your system requires that. Even if they don't, it would still be good to give the school and the teacher copies of the agreement so they know what they are and are not allowed to share with each parent. I don’t worry  anything like that, it was more just out of curious thinking to know what my legal ground was in case anything ever did occur. She doesn’t involve herself much into his life at all, in not sure she even knows half his medical providers outside of dentist and pediatrician. (She doesn’t talk to me so I don’t bother to update her on specifics like that, but I always make her aware of any medical incidents because of my own morals)  &gt; she could easily just annoy me constantly by making changes like that.
-
-It's no different from her getting a copy of the records and then sharing them.
-
-&gt; Would there be any legal action I could take if she were to constantly be adding someone or changing some information at medical providers or the school?
-
-You could file a motion, but IMHO you'd lose. And surely you have better things to do with your time than file motions because you're annoyed. I can guarantee you the judge does. I recommend that you focus on your child's needs and welfare; that's what the judge will do. I have 100% sole custody. She still has her parental rights which would make my son be able to receive benefits if she passed away, makes her owe child support, entitled to visitation (courts wouldn’t set a schedule, just left to my discretion).  That’s what I was afraid of. That’s really annoying she has no real part in my sons life but she could easily just annoy me constantly by making changes like that. 
-
-Would there be any legal action I could take if she were to constantly be adding someone or changing some information at medical providers or the school? 
-
-It has not happened yet, I’m just curious because her mom (grandma) is always complaining cause I restricted access to all those things that she previously had access to under so I’m worried she’ll figure out she’s allowed to and add grandma back to everything  Does the custody order outline who has legal custody or if there is split/joint legal custody? The default is that both parents retain legal custody unless it has been stripped or if one parent has final decision making (usually for educational or medical purposes), which would be outlined in the order.
-
-The non-custodial, same as the custodial, can sign a release for any person they want to pick up the child from school on their days, but that does not grant unrestricted access to the entirety of their records.  &gt; Can non custodian parent access medical/school records?
-
-Yes, in the US - unless her rights have been specifically terminated or restricted by a court order.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c21bfc2a1cb93c2f6caf33d1e68319c6bbc5d12efb15614d17792402ca7f3188
+size 4578

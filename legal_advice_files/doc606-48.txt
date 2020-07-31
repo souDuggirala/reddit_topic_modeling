@@ -1,28 +1,3 @@
-HOA sent me a violation notice indicating that my work vehicle (F-450 with 11 foot box, all white, great shape, no logos) stating it was a "commercial vehicle/truck" and it was not allowed within the HOA, parked on a public street.  I requested a hearing, defending my position that 1. The term "commercial vehicle" does not appear in the CC&amp;R's, and I can't violate a rule that doesn't exist, and 2. Their own legal definition that they gave me for "truck" (as defined by Oregon law -  **ORS** **468A.795 -** “Truck” means a motor vehicle or combination of vehicles operated as a unit that has a combined weight that is greater than 14,000 pounds.)  I showed them video proof that the vehicle weighs \~10,000 dry on weigh scale.  They deliberated for two weeks then sent me a post hearing notice that the vehicle is now in violation of the "unsightly vehicle" portion of the CC&amp;R's.  They are refusing to give me another hearing after having their lawyer review the case and recommending they enforce the violation.
-
-**CC&amp;R's language below:**
-
-“Parking of boats, trailers, motorcycles, trucks, truck-campers and like equipment, or junk cars or other unsightly vehicles, shall not be allowed on any part of said property nor on public ways adjacent thereto excepting only within a community storage area”…
-
-They notified me that they will be assessing a fine of $50 per day, starting on Dec 15th.   I'm in Washington County, streets are public property maintained and patrolled by county.  
-
-&amp;#x200B;
-
-Do they have any authority to assess fines to me considering vehicle is parked on a public street?
-
-Do I have a dog in this fight? 
-
-Is this an unsightly vehicle?
-
-What are my options with how to proceed?
-
-&amp;#x200B;
-
-Thanks,
-
-J
-
-&amp;#x200B; &gt;What are my options 
-
-1.  Park elsewhere. 
-2. Get a lawyer and fight. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:70d7a14dd42a1cb331c089f1f6516d998e6ba1f4c14f2ac52aa5eeadf2beb4d4
+size 1848

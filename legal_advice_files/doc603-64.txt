@@ -1,27 +1,3 @@
-Hey, I don’t hold out much hope here, but I thought it was at least worth asking…
-
-Today someone hacked into my Steam account, even though I have the authenticator on my phone. This resulted in the loss of over $200 worth of skins. Any of you who know something about Steam, should know that they do nothing to get stone skins back. 
-
-I feel like this is beyond a regular scam, I did not go on a gambling website and lose them, they were lost due to my account being hacked and a trade being canceled and then re-opened to someone whose name was exactly the same as my friend’s and so was their icon, but they were impersonators. 
-
-I am getting ahead of myself… So I went on Steam today, and my icon was changed to a shield with the word vac inside. My name is changed to a random number, my Steam profile message was sent to something about being back band. This is never Happened to me or my friends, because we don’t cheat or heck. So I took it to heart, and try to trade my expense of skins to my friend so as not to lose them. The friend lives in my home, I have known them for years and trust them implicitly. He received the trade but it was immediately canceled by him apparently even though he did not click anything. I was in the house with him watching as it went down. The trade was then immediately picked up by somebody whose name was exactly the same as was their icon.
-I clicked on my authenticator for the trade to go through, not realizing that it was an impersonator. And now my skins are gone.
-
-
-The only reason I feel like I might have any hope, is because the systems that steam put in place to supposedly protect people, all failed. I got no email regarding someone trying to get into my account, and I have had the authenticator installed for the last year or so.
-
-
-I know $200 seems silly to some people, especially considering it was on skins, but it was for a game that I would say is my favorite and I like having nice things for it. It makes me sick that they are gone now because both steam and shitty people decided to fuck me today. 
-
-So do I have any options? Any advice? If nothing else, I appreciate the opportunity to vent. I have also posted over at r/scams so other people don’t fall into the same trap. I tried posting to r/steam but was immediately removed.
-
- Here, since you were the one blaming me or my friend, is Steam's reply admitting it was on their end:
-
-https://imgur.com/SZ9Yk73 I told you it how it went... other than that there was a kid who told me to trade to my friend. I have screenshots on my computer - am on my phone now  Steam will not do anything about the skins, they only have the power to add and remove games from the account, not items within the games.
-
-It sounds like someone may have hacked your account in some way, but may not have been able to trade out items due to the authenticator. It seems nearly unthinkable that a hacker that compromised your account was lying in wait for your to transfer all of your items to a random person on your friends list. 
-
-Something doesn't add up, either there is something you aren't telling us, or there is something you don't know involving your friend.
-
-Either way, Steam can't do anything about the skins, and there is no legal recourse here.
- You can contact steam. That's about it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adb25b56394ebef5889da38e892ba85512971eb1229420d5d1a9aa5eb43c1436
+size 3308

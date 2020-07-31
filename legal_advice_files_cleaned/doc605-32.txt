@@ -1,1 +1,3 @@
-my mother in law works at a church with less than 25 employees and does not receive nor has she ever been offered health insurance. she said all of the male employees receive insurance for themselves their spouses and children. none of the female employees receive health insurance. is this legal thanks in advance. not legal. contact the dol. they say the reason has something to do with "tiers". so the pastor assistant pastor and other elders get insurance and they happen to all be men. my mil and other full time female employees do not receive the benefit. probably not why does the employer say that only males are offered insurance are the female employees similarly situated e.g. do they happen to all be part time while the males happen to be all full time 
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcb91c2770104ffe339f06020c95228f11246acc552a89c6aceb835cd373e118
+size 767

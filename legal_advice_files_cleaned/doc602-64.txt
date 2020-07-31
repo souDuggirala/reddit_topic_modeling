@@ -1,1 +1,3 @@
-say i wanted to start selling wallets online. if i wanted to put spidermans face on it or hulks fist or the avengers a on it with actually putting the word avengers or marvel or spiderman or hulk on the product anywhere. is that legal not legal. their likenesses are copyrighted. no. it not legal. some or all of those are likely copyright infringement. you would need to get permission from the copyright holders in order to do that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6db2c9665690a833d16a1e79d985786aae591318e09495757d306ccb7db60495
+size 434

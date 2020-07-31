@@ -1,1 +1,3 @@
-not really advice but kinda sorta is. let say a game creator wants to use mlb player berry bonds likeness and name in their baseball game. the game creator already owns the rights to all game design for the mlb future past and present. but barry bonds is expressly against being in the game. would bonds have a case if they did it anyway would the mlb somehow own the rights to that still given that he long retired as i understand current players have a say in the matter but what others 
+version https://git-lfs.github.com/spec/v1
+oid sha256:05a1707190b6ef69a7a8472d63298d9649c409c126a74c06c7872493f466c251
+size 489

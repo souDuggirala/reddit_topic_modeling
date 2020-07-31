@@ -1,27 +1,3 @@
- 
-
-**Situation**
-
-* I (31 F) have worked for a large Company for 3 years, it has over 3,000 employees and over a Billion dollars in revenue. I am in Colorado, USA.
-* I have had several changes in management, but have been promoted multiple times and have consistently received glowing performance reviews, recently graduated from the Company's leadership development program for top performers.
-* I had an unwelcomed encounter with Executive Leader (\~45 F). Many employees were sharing an AirBnB for an event and in the evening, Executive Leader complimented me on my dress and insisted she try it on. I felt pressured and left the room to change and she followed me into my room and immediately started undressing in front of me. I froze up, undressed, gave her my dress, and quickly put something else on. After this incident, she told me that she was actively targeting my coworker and that if I told anyone I would regret it. Later in the night, several of the other employees asked me if I was okay because they thought it was inappropriate.
-* I reported the whole incident to my Manager (\~40 F). She told HR and I had to give a statement to Legal. Less than a month later, my Manager was forced out of the company. Afterwards, I followed up with legal and they said that they found no wrongdoing.
-* Then, I had an employee leave the company. In her exit interview, she said she was intimidated by Executive Leader who pressured them to take a job while Executive Leader was wearing a bikini at a bar. I also reported this to HR in writing.
-* Now, a month later, after I've had nothing but positive performance reviews for 3 years, I was told I would be demoted due to poor job performance or given 1 month severance. They said I have to think about it over the weekend and I have to respond on Monday.
-* My current intention is to not accept the demotion. Report everything through their direct incident line. And then pursue a case for retaliation.
-
-**Questions**
-
-I don't know if I can find an employment lawyer before Monday, but I intend on hiring one ASAP...
-
-1. How do I approach the situation on Monday?
-2. Should I make another report through the direct incident line?
-3. Do I tell HR that this is retaliation?
-
-Any and all advice is welcome Thank you for your input!
-
-I am currently speaking with an employment lawyer and filing a case. I found out that others are already in the process of suing the company, so our lawyers are going to meet. I will be deleting this thread.  For a demotion or even a performance improvement plan they’d need documentation of clear conversations they had with you regarding the matter (e.g. do this or else this). In my experience the legal department for large corporations minimize risk and tend to frighten easy. If you say retaliation it’ll immediately get reported to them and several hurdles will be put up in regards to your company’s current course of action.
-
-Since you’ve filed several complaints you may be seen as a adversarial employee and they are likely trying to force you out. That doesn’t mean they can do so illegally.
-
-If I were you I’d ask about specific performance issues that are warranting demotion and when these were presented to you as opportunities for improvement. If they don’t have clear instances I’d express my concerns regarding retaliation. Either way I’d start looking for a new job because they sound like they’re looking for reasons to fire you and will eventually find a way to do it. Most likely working there will get unpleasant as they lean on you trying to get you to quit. Make sure everything is documented as much as possible: dates, times, witnesses, etc.  
+version https://git-lfs.github.com/spec/v1
+oid sha256:46746f479e257f9788be4d4d717f44b4427820ebf5a23942111e406c3eab9944
+size 3677

@@ -1,3 +1,3 @@
-So if your children were the life tenants and you wanted the trust property to go to their kids when they died, would that work as a fixed o discretionary trust?
-
-I can't really decide because on the one hand, it will be possible to construct a definitive list of the grandchildren when your children have died. But on the other hand, since you're not naming them and identifying them by a class, wouldn't that suggest that it's discretionary (ie by allowing your trustees to decide whether it's a GC or not)?
+version https://git-lfs.github.com/spec/v1
+oid sha256:831f89a43ea2af53a247bfae51060374c76f17ff65032af8e09d9831fb832a44
+size 509

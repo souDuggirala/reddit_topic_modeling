@@ -1,7 +1,3 @@
-My significant other defaulted on an auto loan prior to our relationship. He owed $14k on the car, but now due to fees it's around $20k. The bank doesn't want the car, they want the money. My SO has kind of put his head in the sand over it. "Maybe if I ignore it long enough, it'll go away."  
-
-The bank came to his legal address (his mother's) and "served" paperwork that they are taking him to court for the money. They didn't hand him the paperwork, they gave it to his sister. So I don't know if the correct term is served. 
-
-Because he continued to ignore it, his mother stepped in and contacted her lawyer for guidance. Her lawyer contacted the bank, stating that he was planning on filing for bankruptcy. The lawyer said if we file an intent for bankruptcy, the bank has to stop contact. This is just buy time, with no intent of actually filing bankruptcy. 
-
-Legally, I don't know what happens next. But my main question is, can we register and drive this car? Secondly, what's the best legal option? Sell the car and use that to pay the bank? Can the bank garnish his wages in NY?
+version https://git-lfs.github.com/spec/v1
+oid sha256:02eff6d61c49e711972e2bb9df430d350bd3817cb456c36fddf0d675cb53aad1
+size 1088
