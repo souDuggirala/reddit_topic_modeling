@@ -112,7 +112,7 @@ def cleanFiles(dir_path, dir_name, parent_dir, request_size, after):
         file.close()
 
 
-parent_dir = '/Users/soumyadugg/reddit_topic_modeling'
+parent_dir = '/Users/soumyadugg'
 dir_name = 'legal_advice_files'
 dir_path = os.path.join(parent_dir, dir_name)
 if not os.path.isdir(dir_path):
