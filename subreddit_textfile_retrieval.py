@@ -4,7 +4,6 @@ import time
 import re
 import os
 import io
-#import emoji
 
 def makeRequest(uri, payload, max_retries = 5):
     def fire_away(uri):
@@ -30,7 +29,7 @@ def makeRequest(uri, payload, max_retries = 5):
 
 def makeTextFiles(submissionlist, dir_path, after):
     def deleteIrrelevantComments(commentlist):
-        pattern_mod = 'Do not reach out to a moderator personally|I am a bot, and this action was performed automatically'
+        pattern_mod = 'moderator(s?)|bot'
         j = 0
         while j < len(commentlist['data']):
             if (re.search(pattern_mod,commentlist['data'][j]['body']) != None or len(commentlist['data'][j]['body'])==0):
@@ -49,19 +48,23 @@ def makeTextFiles(submissionlist, dir_path, after):
         
     
     for j in range(len(submissionlist['data'])):
-        filepath = os.path.join(dir_name, 'doc{}-{}.txt'.format(after,j))
-        f = open(filepath, 'w')
+        if ('id' not in submissionlist['data'][j])|('num_comments' not in submissionlist['data'][j])|('selftext' not in submissionlist['data'][j]):
+            print('Avoided Key Error')
+            continue
+        f = open(os.path.join(dir_path, 'doc{}-{}.txt'.format(after,j)), 'w')
         makeTextFile(submissionlist['data'][j], f)
         f.close()
 
-def cleanFiles(dir_path, dir_name, parent_dir, request_size, after):
+def cleanFiles(dir_path, dir_name, parent_dir, after):
     cleaned_dir_path = os.path.join(parent_dir, dir_name + '_cleaned')
     if not os.path.isdir(cleaned_dir_path):
         os.mkdir(cleaned_dir_path)
     
-    dirlist = ['doc{}-{}.txt'.format(after,i) for i in range(request_size)]
+    dirlist = ['doc{}-{}.txt'.format(after,i) for i in range(100)]
 
     for filename in dirlist:
+        if not os.path.exists(os.path.join(dir_path,filename)):
+            continue
         file = open(os.path.join(dir_path,filename), 'r')
         content = file.read()
         
@@ -121,11 +124,18 @@ if not os.path.isdir(dir_path):
 uri = 'https://api.pushshift.io/reddit/search/submission/'
 subreddit = 'legaladvice'
 request_size = 100
-payload = {'fields': ['id','num_comments','selftext'],'subreddit': subreddit, 'size': request_size,'author':'!LocationBot','mod_removed':'false','after':''}
-for i in range(30):
-    after = str(720+i)
+payload = {'fields': ['id','num_comments','selftext'],
+            'subreddit': subreddit, 
+            'size': request_size,
+            'author':'!LocationBot',
+            'mod_removed':'false', 
+            'user_removed':'false',
+            'after':'',
+            'selftext:not':'[removed]','selftext:not':'[deleted]'}
+for i in range(100):
+    after = str(1124+i)
     print(str(i) + ' ' + after)
     payload['after'] = after+'d'
     submissionlist = makeRequest(uri, payload)
     makeTextFiles(submissionlist, dir_path, after)
-    cleanFiles(dir_path, dir_name, parent_dir, request_size, after)
+    cleanFiles(dir_path, dir_name, parent_dir, after)
