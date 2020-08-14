@@ -7,6 +7,7 @@ parent_dir = '/Users/soumyadugg'
 dir_name = 'legal_advice_files'
 dir_path = os.path.join(parent_dir, dir_name + '_cleaned')
 
+#does not delete files that are not overwritten if directory already exists
 char_min_dir = os.path.join(parent_dir, dir_name + '_charmin{}'.format(charmin))
 if not os.path.isdir(char_min_dir):
     os.mkdir(char_min_dir)
