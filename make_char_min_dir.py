@@ -1,18 +1,19 @@
 import io
 import os
 
-charmin = 2000
+charmin = 3000
 
-parent_dir = '/Users/soumyadugg'
+parent_dir = '/Users/soumyadugg/legal_advice_data'
 dir_name = 'legal_advice_files'
 dir_path = os.path.join(parent_dir, dir_name + '_cleaned')
 
+#does not delete files that are not overwritten if directory already exists
 char_min_dir = os.path.join(parent_dir, dir_name + '_charmin{}'.format(charmin))
 if not os.path.isdir(char_min_dir):
     os.mkdir(char_min_dir)
 
 k = 0
-for i in range(600,1223):
+for i in range(600,1224):
     for j in range(100):
         file_path = os.path.join(dir_path, 'doc{}-{}.txt'.format(i,j))
         if not os.path.exists(file_path):

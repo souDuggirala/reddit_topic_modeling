@@ -10,7 +10,7 @@ def makeRequest(uri, payload, max_retries = 5):
         response = requests.get(uri, payload)
         assert response.status_code == 200
         return json.loads(response.content)
-    
+
     current_tries = 1
     while (current_tries < max_retries):
         try:
@@ -19,7 +19,7 @@ def makeRequest(uri, payload, max_retries = 5):
         except:
             time.sleep(1)
             current_tries+=1
-    
+
     return fire_away(uri)
 
 #get list of subreddit posts
@@ -29,7 +29,7 @@ def makeRequest(uri, payload, max_retries = 5):
 
 def makeTextFiles(submissionlist, dir_path, after):
     def deleteIrrelevantComments(commentlist):
-        pattern_mod = 'moderator(s?)|bot'
+        pattern_mod = 'moderator(s?)'
         j = 0
         while j < len(commentlist['data']):
             if (re.search(pattern_mod,commentlist['data'][j]['body']) != None or len(commentlist['data'][j]['body'])==0):
@@ -45,8 +45,8 @@ def makeTextFiles(submissionlist, dir_path, after):
         for i in range(len(commentlist['data'])):
             #write to textfile
             f.write(' ' + commentlist['data'][i]['body'])
-        
-    
+
+
     for j in range(len(submissionlist['data'])):
         if ('id' not in submissionlist['data'][j])|('num_comments' not in submissionlist['data'][j])|('selftext' not in submissionlist['data'][j]):
             print('Avoided Key Error')
@@ -59,7 +59,7 @@ def cleanFiles(dir_path, dir_name, parent_dir, after):
     cleaned_dir_path = os.path.join(parent_dir, dir_name + '_cleaned')
     if not os.path.isdir(cleaned_dir_path):
         os.mkdir(cleaned_dir_path)
-    
+
     dirlist = ['doc{}-{}.txt'.format(after,i) for i in range(100)]
 
     for filename in dirlist:
@@ -67,14 +67,14 @@ def cleanFiles(dir_path, dir_name, parent_dir, after):
             continue
         file = open(os.path.join(dir_path,filename), 'r')
         content = file.read()
-        
+
         content = content.lower()
 
         #delete quotes
         #pattern_quoted = r'&gt;([\w\s’\'.?/,()]*\n\n|[\w\s’\'/,()]*)'
         #pattern_quoted = r'&gt;([\w\s’\'.?/,()]*\n)'
         #content = re.sub(pattern_quoted,' ', content)
-        
+
         #delete urls
         pattern_url = r'http(s?)://[\w/#\\:?._~-]*'
         content = re.sub(pattern_url,' ', content)
@@ -110,12 +110,12 @@ def cleanFiles(dir_path, dir_name, parent_dir, after):
         new_file.seek(0)
         new_file.truncate(0)
         new_file.write(content)
-        
+
         new_file.close()
         file.close()
 
 
-parent_dir = '/Users/soumyadugg'
+parent_dir = '/Users/soumyadugg/legal_advice_data'
 dir_name = 'legal_advice_files'
 dir_path = os.path.join(parent_dir, dir_name)
 if not os.path.isdir(dir_path):
@@ -125,15 +125,16 @@ uri = 'https://api.pushshift.io/reddit/search/submission/'
 subreddit = 'legaladvice'
 request_size = 100
 payload = {'fields': ['id','num_comments','selftext'],
-            'subreddit': subreddit, 
+            'subreddit': subreddit,
             'size': request_size,
             'author':'!LocationBot',
-            'mod_removed':'false', 
+            'mod_removed':'false',
             'user_removed':'false',
             'after':'',
             'selftext:not':'[removed]','selftext:not':'[deleted]'}
-for i in range(100):
-    after = str(1124+i)
+
+for i in range(1000):
+    after = str(600+i)
     print(str(i) + ' ' + after)
     payload['after'] = after+'d'
     submissionlist = makeRequest(uri, payload)
