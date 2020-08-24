@@ -1,0 +1,30 @@
+#!/bin/bash
+
+#run topic models in loop with varying num-topics and optimize-interval values
+
+charmin_list=(2000 3000)
+num_topics_list=(20 40 60 80 100)
+optimize_interval_list=(10 50 100)
+
+for k in ${charmin_list[@]}; do
+	mkdir ladvice_min${k}
+	for i in ${num_topics_list[@]}; do
+        	mkdir ladvice_min${k}_numtopics${i}
+	
+		for j in ${optimize_interval_list[@]}; do
+                	mkdir ladvice_min${k}_numtopics${i}_optinterval${j}
+		
+			bin/mallet train-topics --input legal_advice_files_charmin${k}.mallet --num-topics $i --optimize-interval $j --output-state ladvice_topic_state_min${k}_numtopics${i}_optinterval${j}.gz --output-doc-topics ladvice_doc_topics_min${k}_numtopics${i}_optinterval${j}.txt --output-topic-keys ladvice_topic_keys_min${k}_numtopics${i}_optinterval${j}.txt --num-top-words 50 --diagnostics-file ladvice_diagnostics_min${k}_numtopics${i}_optinterval${j}.xml
+        	
+			mv ladvice_topic_state_min${k}_numtopics${i}_optinterval${j}.gz ladvice_min${k}_numtopics${i}_optinterval${j}
+			mv ladvice_doc_topics_min${k}_numtopics${i}_optinterval${j}.txt ladvice_min${k}_numtopics${i}_optinterval${j}
+			mv ladvice_topic_keys_min${k}_numtopics${i}_optinterval${j}.txt ladvice_min${k}_numtopics${i}_optinterval${j}
+			mv ladvice_diagnostics_min${k}_numtopics${i}_optinterval${j}.xml ladvice_min${k}_numtopics${i}_optinterval${j}
+		
+			mv ladvice_min${k}_numtopics${i}_optinterval${j} ladvice_min${k}_numtopics${i}
+		done
+		
+		mv ladvice_min${k}_numtopics${i} ladvice_min${k}	
+	done
+done
+
