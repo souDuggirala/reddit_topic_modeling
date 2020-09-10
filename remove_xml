@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#remove xml files from ladvice files
+
+num_topics_list=(7 8 9 10 20 40 60 80)
+optimize_interval_list=(10 50 100)
+
+for i in ${num_topics_list[@]}; do
+	for j in ${optimize_interval_list[@]}; do
+		rm ladvice_min3000/ladvice_min3000_numtopics${i}/ladvice_min3000_numtopics${i}_optinterval${j}/ladvice_diagnostics_min3000_numtopics${i}_optinterval${j}.xml
+	done
+done
